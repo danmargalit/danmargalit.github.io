@@ -1,0 +1,346 @@
+<!--#include file="head.txt" -->
+
+
+<center><b><font face="Comic Sans MS" color=333399 size=6>Schedule</font></b></center>
+
+<p>
+
+<!--The conference will run from Monday morning to Friday afternoon.  On Wednesday there will be some free time in the afternoon, as well as a social gathering.
+
+We are planning workshops on the following topics:
+<ul>
+<li>Giving research talks
+<li>Applying for grants
+<li>Writing abstracts
+<li>CVs and Web sites
+<li>Publishing
+<li>Refereeing
+</ul>
+<ul>
+<li>The job process
+<li>Careers
+<li>Good habits
+<li>Collaborations
+<li>A day in the life
+</ul>
+<ul>
+<li>Inkscape
+<li>Beamer
+<li>Sage
+</ul>
+
+We will also have a daily seminar, which will consist of an hour long talk by one of the mentors of the workshop.  Some of the workshop participants will give 20 minute lectures, for which there will be feedback from mentors as well as other participants.-->
+
+Click <a href=schedule.shtml><font color=blue>here</font></a> for the quick-look schedule.
+
+<h2>Monday</h2>
+
+<p>
+
+9:00 <i>Registration</i>
+
+<p>
+
+9:30 <i>Welcome/Overview:</i> Dan Margalit and Panel
+
+<p>
+
+11:00 <i>Talks I:</i> Tom Church and Moon Duchin
+
+<p>
+
+How to give a good talk.  We'll focus on the standard seminar length of
+50--60 minutes, but also discuss principles for 20-minute or 10-minute
+talks.  Topics include:  structure, organization, and pace; making good
+notes for a chalk talk; designing slides for a screen talk (and pros and
+cons of chalk versus slide talks); how much to define; board work and
+"signposting"; adapting to your audience; showcasing your work engagingly.
+
+<p>
+
+12:00 <i>Lunch</i>
+
+<p>
+
+2:00 <i>Publishing:</i> Rob Kirby
+
+<p>
+
+3:00 <i>Tea</i>
+
+<p>
+
+3:30 <i>Seminar: Applications of the knot Floer complex to concordance</i>, Jen Hom
+
+<p>
+
+Knots in S^3, under connected sum, form a monoid, and under an
+appropriate equivalence relation, this monoid can be made into a group,
+called the knot concordance group. We will use the knot Floer complex, in
+particular the concordance invariant epsilon, to define a homomorphism from
+the concordance group to a totally ordered group. This approach
+has applications to understanding the difference between smooth and
+topological concordance.
+
+<p>
+
+4:30 <i>Teaching / Research Statements:</i> David Lawrence
+
+<h2>Tuesday</h2>
+
+9:00 <i>NSF Funding Opportunities in the
+Mathematical Sciences:</i> Noel Brady
+
+<p>
+
+10:00 <i>Teaching issues:</i> Angela Kubena
+
+<p>
+
+11:00 <i>Tea</i>
+
+<p>
+
+11:30 <i>CV/Web:</i> David Lawrence
+
+<p>
+
+12:00 <i>Lunch</i>
+
+<p>
+
+2:00 <i>Seminar: Characteristic classes of surface bundles</i>, Tom Church
+
+<p>
+
+3:00 <i>Tea</i>
+
+<p>
+
+3:30 <i>Seminar: Geometry of Outer Space</i>, Matt Clay
+
+<p>
+
+Outer space is the the moduli space of marked metric graphs.  This celebrated space, defined by Culler and Vogtmann in the 1980's, is influential in the study automorphism of free groups.  Its topology is well-understood and recently a flurry of activity has centered on understanding the geometry of Outer space.  We will discuss the Lipschitz metric, giving several examples, and produce a technique for producing lower bounds on the distances.
+
+
+<p>
+
+4:30 <i>Abstracts:</i> Jen Hom
+
+<p>
+
+6:30 <i>SAGE:</i> Vincent Lucarelli
+
+<h2>Wednesday</h2>
+
+9:00 <i>Mathematics at the NSA:</i> Vincent Lucarelli
+
+<p>
+
+This talk will describe employment opportunities for mathematicians
+at the National Security Agency, the agency's primary missions, and
+the work life in a governmental organization.  The second part of the
+talk details a cryptographic success from World War II and how 
+mathematicians play a prominent role.
+
+<p>
+
+10:00 <i>Careers</i>: Panel
+
+<p>
+
+10:45 <i>Tea</i>
+
+<p>
+
+11:30 <i>The Job Process:</i> Matt Clay and Moon Duchin
+
+<p>
+
+12:30 <i>Lunch</i>
+
+<p>
+
+2:00 <i>Seminar: Divergence of geodesics in Teichmüller space and the
+mapping class group</i>, Moon Duchin
+
+<p>
+
+Qualitatively speaking, negatively-curved spaces are ones in
+which geodesics diverge quickly.  This can be made precise in a way that
+makes it into an alternative definition of large-scale negative curvature.
+ I'll discuss the divergence of geodesics in the Teichmüller space T(S) of
+a surface, a parameter space for different geometric structures on S.  On
+one hand, T(S) displays many qualities of negatively curved spaces; on the
+other hand, it has lots of nearly-flat subspaces.  These features turn out
+to interact so as to give T(S) geodesic divergence that is intermediate
+between the rates found in hyperbolic and flat spaces.  Very similar
+arguments carry over to the mapping class group.  This is joint work with
+Kasra Rafi.
+
+
+<p>
+
+3:00 <i>Tea</i>
+
+<p>
+
+3:30 <i>Colloquium: Morse 2-functions: existence and uniqueness</i>, Rob Kirby.
+
+<p>
+
+The tea and colloquium will be held next door at Weber Space Science and Techonology Room 2.
+
+<p>
+
+4:30 <i>Beamer and Inkscape:</i> David Gay
+
+<p>
+
+6:30 Pizzaque
+
+
+<h2>Thursday</h2>
+
+9:00 <i>Student Talk: Representation Stability</i>, Jenny Wilson
+
+<p>
+
+Over the past two years, Church, Ellenberg, Farb, and others have developed the theory Representation Stability, a generalization of homological stability for a sequence of groups or spaces admitting group actions. I will explain what this means, and give some applications of the new theory.
+
+<p>
+
+9:30 <i>Student Talk: On the
+boundary regularity of Conformally Natural Extension</i>, Susovan Pal
+
+<p>
+
+
+In 1986, Douady and Earle constructed an example of a conformally natural
+extension &Phi;(f) of an orientation preserving homeomorphism f of the unit
+circle; they showed &Phi;(f) is an orientation-preserving homeomorphism of the
+closed unit disk, diffeomorphism of the open unit disk and it is
+real-analytic in the open unit disk. In this work jointly with Prof. Jun
+Hu, we show that: &Phi;(f) has continuous first order partial derivatives up to
+the boundary if f is continuously differentiable on the unit circle.
+
+<p> 
+
+10:00 <i>Student Talk: TQFTs and the Hennings Invariant</i>, Jenny George
+
+<p>
+
+Given a finite group G, we consider two families of TQFTs.  The first TQFT is given by applying the Hennings construction to the Drinfeld double of the group algebra of G, or D[G].  The second TQFT is more geometric, and obtained by counting principal G-bundles over 3-manifolds and surfaces, after the work of Freed and Quinn.  We show that these TQFTs are equivalent, and discuss how this result could be extended to the case of the quasi-Hopf algebra given by Dijkgraaf, Pasquier, and Roche.
+
+<p>
+
+10:30 <i>Tea</i>
+
+<p>
+
+11:00 <i>Student Talk: Degeneracy Loci and Quiver Polynomials</i>, Ryan Kaliszewski
+
+<p>
+
+Consider a collection of vector bundles with bundle maps between them, over a compact manifold X.  The topology of X and the topology of the bundles can force the collection of bundle maps to degenerate over certain points. This set of points in X is called the degeneracy locus. The fundamental cohomology class of the degeneracy locus can be expressed as a polynomial in the characteristic classes of the bundles. In this talk we will study this polynomial (called a quiver polynomial). In particular we will prove that quiver polynomials have a positivity property conjectured by A. Buch.
+
+<p>
+
+11:30 <i>Student Talk: The definability criterion for cocompact convex projective polyhedral reflection groups</i>,  Kanghyun Choi
+
+<p>
+
+In this talk, we introduce the criterion for a Zariski dense subgroup generated by reflections Gamma &lt; SL<sup>±</sup>(n + 1, R) to be definable over A where A is an integrally closed Noetherian ring in a field R. We apply this criterion for groups generated by reflections that act cocompactly on irreducible properly convex open subdomains of the n-dimensional projective sphere. This gives a methodology to construct injective group homomorphisms from such Coxeter groups to SL<sup>±</sup>(n + 1, Z). Finally we provide some examples of SL<sup>±</sup>(n + 1, Z)-representations of such Coxeter groups when n is 2 or 3. This continues the theory where Vinberg left off.
+
+<p>
+
+12:00 <i>Lunch</i>
+
+<p>
+
+2:00 <i>Student Talk: Genus 2 mutant knots with the same dimension in knot Floer and Khovanov homologies</i>, Allison Moore
+
+<p>
+
+Genus 2 mutation is an operation on a 3-manifold M in which an embedded, genus 2 surface F is cut from M and reglued via the hyperelliptic involution &tau;. The resulting manifold is denoted M<sup>&tau;</sup>. When M is the three-sphere and contains a knot K disjoint from F, then the knot that results from performing a genus 2 mutation of S<sup>3</sup> along F is denoted K<sup>&tau;</sup> and is called a genus 2 mutant of the knot K. We will construct an infinite family of knots with isomorphic knot Floer homology. Each knot in this infinite family admits a nontrivial genus 2 mutant which shares the same total dimension in both knot Floer homology and Khovanov homology. This is joint work with Laura Starkston.
+
+<p>
+
+2:30 <i>Student Talk: Exponential isoperimetric inequalities for Houghton's groups</i>, Sang Rae Lee
+
+<p>
+
+Embeddings of infinite symmetric group into Houghton's groups H_n (n &ge; 3) give rise to (finite) presentations for H_n. We study those presentations to establish exponential upper bounds for Dehn functions of H_n.
+
+<p>
+
+3:00 <i>Tea</i>
+
+<p>
+
+3:30 <i>Seminar: Cohomology of arithmetic groups over function
+fields</i>, Kevin Wortman
+
+<p>
+
+4:30 <i>Talks II:</i> Kevin Wortman
+
+<h2>Friday</h2>
+
+9:00 <i>Student Talk: An overview of DNA-Topology</i>, Senja Barthel
+
+<p>
+
+In this talk I will give an introduction to DNA-Topology; a research area that investigates the topological properties of DNA. Low-dimensional methods can be used to describe the actions of Topoisomerases and Recombinases. Those are enzymes that change the knot-type of circular DNA-molecules. I will discuss several topological models, and demonstrate how they are useful to biologists.
+
+<p>
+
+9:30 <i>Student Talk: Abstract commensurators of some solvable lattices</i>, Daniel Studenmund
+
+<p>
+
+The abstract commensurator of a group $G$ is the group of all isomorphisms between finite index subgroups of G up to a natural equivalence relation.  Most known computations of these groups involve a geometric rigidity theorem, such as Mostow-Prasad-Margulis rigidity for lattices in semisimple Lie groups or curve complex rigidity results in the tradition of Ivanov for subgroups of the mapping class groups.  We will present some techniques for computation of commensurators of lattices in solvable Lie groups, where classical strong rigidity results fail.
+
+<p> 
+
+10:00 <i>Student Talk: Dehn twists in Outer space</i>, Funda Gultepe
+
+<p>
+
+The fundamental group of M = #n(S2 × S1) is F_n, the free group with n generators. There is a one-to-one correspondence between the compatible Z-splittings of F_nn and homotopy classes of embedded essential tori in M. Hence the automorphisms of F_n can be realized as Dehn Twists of such  tori in M. We will show how these twists might look like and talk about some technical difficulties about finding a 'nice' representative  form a homotopy class of torus.
+
+<p>
+
+10:30 <i>Tea</>
+
+<p>
+
+11:00 <i>Student Talk: The Burau Representation of Artin Braid Groups</i>, Kevin Buckles
+
+<p>
+
+Braid groups were defined explicitly by Emil Artin in 1925.  Then in 1936, Werner Burau used representation theory to study braid groups.  In this short talk, we will give an informal definition of a topological braid.  Then we give a purely algebraic definition attributed to Artin and use this definition to create the group representation attributed to Burau.  In the time left, we will discuss an open question regarding whether or not this representation is faithful.
+
+
+<p>
+
+11:30 <i>Student Talk: Quantifying Residual Finiteness</i>, Priyam Patel
+
+<p>
+
+In this talk, we quantify two results by Peter Scott in terms
+of geometric data. The first result is that any closed geodesic in a
+surface lifts to an embedded loop in a finite cover. The second result is
+Peter Scott's Theorem that surface groups are residually finite. We will
+make use of basic hyperbolic geometry and covering space theory to sketch a
+proof of our residual finiteness result in the case of closed hyperbolic
+surfaces.
+
+<p>
+
+12:00 Reflections and Farewell
+
+
+<!--#include file="foot.txt" -->
+

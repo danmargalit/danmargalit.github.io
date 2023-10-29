@@ -1,0 +1,29 @@
+<!--#include file="head.txt" -->
+
+
+<center><b><font face="Comic Sans MS" color=333399 size=6>Mentors</font></b></center>
+
+<p>
+
+<center>
+<table>
+<tr><td>
+<ul>
+<li>Noel Brady, NSF
+<li>Thomas Church, Stanford
+<li>Matt Clay, Allegheny
+<li>Moon Duchin, Tufts
+<li>John Etnyre, Georgia Tech
+<li>David Gay, Georgia
+<li>Jen Hom, Columbia
+<li>Rob Kirby, Berkeley
+<li>Angela Kubena, Michigan
+<li>David Lawrence, Georgia Tech
+<li>Trevis Litherland, Scoring Solutions
+<li>Vincent Lucarelli, NSA
+<li>Shaffiq Welji, Westminster
+<li>Kevin Wortman, Utah
+</ul>
+
+<!--#include file="foot.txt" -->
+

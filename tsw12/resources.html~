@@ -1,0 +1,235 @@
+<html>
+<head>
+<title>Topology Students Workshop</title>
+
+    <meta property="og:title" content="Topology Students Workshop"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="http://tsw.gatech.edu/"/>
+    <meta property="og:image" content="http://www.math.gatech.edu/~margalit/tsw/TSW.jpeg"/>
+    <meta property="og:site_name" content="GaTech Math"/>
+    <meta property="fb:admins" content="Dan.Margalit"/>
+    <meta property="og:description"
+          content="A workshop for graduate students to develop professional skills."/>
+
+
+<style href>a {text-decoration: none} </style>
+
+</head>
+<body link=cc9900 vlink=cc9900>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<table cellpadding=35>
+
+<tr>
+
+<td valign=top width=10%>
+<center><font face="Comic Sans MS" color=cc9900 size=5><b>Topology Students Workshop</b></font><br>
+</center>
+
+<p>
+
+<center>
+<font face="Comic Sans MS" color=cc9900 size=3>
+
+<a href=index.html>Home</a>
+
+<p>
+
+<a href=about.html>About</a>
+
+<p>
+
+<a href=info.html>Info</a>
+
+<p>
+
+<a href=mentors.html>Mentors</a>
+
+<p>
+
+<a href=participants.html>Participants</a>
+
+<p>
+
+<a href=register.php>Register</a>
+
+<p>
+
+<a href=schedule.html>Schedule</a>
+
+<p>
+
+<a href=resources.html>Resources</a></font></center>
+
+</td>
+
+<td valign=top>
+
+<center><b><font face="Comic Sans MS" color=333399 size=6>Resources</font></b></center>
+
+<p>
+
+<b><font face="Comic Sans MS" color=333399 size=4>General</font></b>
+
+<p>
+
+<a href=http://www.ams.org/bookstore-getitem/item=gscm><font color=black>A Mathematician's Survival Guide</font></a>, Steven G. Krantz
+
+<p>
+
+<a href=http://www.math.wustl.edu/~sk/books/newsurv.pdf><font color=black>The Survival of a Mathematician</font></a>, Steven G. Krantz
+
+<p>
+
+<a href=http://www.amazon.com/Starting-Our-Careers-Curtis-Bennett/dp/0821815431><font color=black>Beginning Our Careers</font></a>, edited by Curtis D. Bennett and Annalisa Crannell
+
+<p>
+
+<b><font face="Comic Sans MS" color=333399 size=4>Habits</font></b>
+
+<p>
+
+<a href=http://math.stanford.edu/~vakil/threethings.html><font color=black>The Three Things Exercise, by Ravi Vakil</font></a>
+
+<p>
+
+<b><font face="Comic Sans MS" color=333399 size=4>Networking</font></b>
+
+<p>
+
+<a href=http://www.ams.org/notices/201009/rtx100901132p.pdf><font color=black>Meta-Morphism: From Graduate Student to Networked Mathematician</font></a>, by Andrew Schultz
+
+<p>
+
+<b><font face="Comic Sans MS" color=333399 size=4>Job Process</font></b>
+
+
+<p>
+
+<a href=http://www.ams.org/notices/200908/rtx090800948p.pdf><font color=black>Proving Yourself: How to Develop an Interview Lecture</font></a>, by John Swallow
+
+<p>
+
+<a href=http://math.stanford.edu/~vakil/recommendations.html><font color=black>Recommendations, by Ravi Vakil</font></a>
+
+<p>
+
+
+<a href=http://chronicle.com/article/The-First-Interview/45903><font color=black>The First Interview</font></a>, by Steven M. Cahn
+
+<p>
+
+<a href=http://www.ams.org/notices/199810/comm-hull.pdf><font color=black>Interviewing for a Job in Academia</font></a>, by Thomas Hull, Michael A. Jones and Diana M. Thomas
+
+
+<p><b><font face="Comic Sans MS" color=333399 size=4>Talks</font></b>
+
+
+<p> <a href=http://www.math.northwestern.edu/graduate/Forum/HALMOS.html><font color=black>How to Talk Mathematics</font></a>, by P.R. Halmos
+
+<p>
+
+<a href=http://www.jcu.edu/math/constum/gallian.pdf><font color=black>How to Give a Good Talk</font></a>, by Joseph A. Gallian
+
+<p>
+
+<a href=http://www.ams.org/profession/leaders/workshops/gcoll.pdf><font color=black>How to Give a Good Colloquium</font></a>, by John E. McCarthy
+
+<p>
+
+<a href=http://www.d.umn.edu/~jgallian/goodPPtalk.pdf><font color=black>Advice on Giving a Good
+PowerPoint Presentation</font></a>, by Joseph A. Gallian
+
+<p>
+
+<a href=http://blog.richmond.edu/wross/2008/03/26/how-to-give-a-good-20-minute-math-talk/><font color=black>How to give a good 20 minute math talk</font></a>, by William T. Ross
+
+<p>
+
+
+<b><font face="Comic Sans MS" color=333399 size=4>Writing</font></b>
+
+<p>
+
+<a href=http://math.stanford.edu/~vakil/greatwriting.html><font color=black>Ravi Vakil's list of Great Articles and Books</font></a>
+
+<p>
+
+<a href=http://www.impan.pl/EN/PubHouse/writing.pdf><font color=black>Writing Mathematical Papers - A Few Tips</font></a>, Jerzy Trzeciak
+
+<p>
+
+<b><font face="Comic Sans MS" color=333399 size=4>Abstracts</font></b>
+
+<p>
+
+<a href=http://facstaff.unca.edu/pbahls/math480spring2012/AbstractWriting.pdf><font color=black>The Gentle Art of Writing Abstracts</font></a>, Patrick Bahls
+
+<p>
+
+<a href=http://www.maa.org/students/writing%20abstracts.pdf><font color=black>Writing Abstracts</font></a>, Robert W. Vallin
+
+<p>
+
+<b><font face="Comic Sans MS" color=333399 size=4>Publishing</font></b>
+
+<p>
+
+<a href=http://www.austms.org.au/Rankings/0101_AustMS_final_ranked.html><font color=black>Australian Math Society Journal Rankings</font></a>
+
+<p>
+
+<a href=http://www.guardian.co.uk/science/2012/apr/09/frustrated-blogpost-boycott-scientific-journals><font color=black>Guardian article on Open Access Publishing</font></a>
+
+<p>
+
+<b><font face="Comic Sans MS" color=333399 size=4>Grant Writing</font></b>
+
+<p>
+
+<a href=http://www2.math.ou.edu/~profdev/nsfprop_web.pdf><font color=black>Writing an NSF grant proposal; a PI's and a panelist's perspective</font></a>, by Noel Brady
+
+<p>
+
+<b><font face="Comic Sans MS" color=333399 size=4>LaTeX</font></b>
+
+<p>
+
+<a href=http://www.tex.ac.uk/tex-archive/info/symbols/comprehensive/symbols-a4.pdf><font color=black>The Comprehensive LaTeX Symbol List</font></a>
+
+<p>
+
+Basic LaTeX setup: <a href=template.tex><font color=black>template.tex</font></a>, <a href=template.bib><font color=black>template.bib</font></a>, <a href=surface.eps><font color=black>surface.eps</font></a>, and <a href=pinlabel.sty><font color=black>pinlabel.sty</font></a> 
+
+<p>
+
+<a href=http://tobi.oetiker.ch/lshort/lshort.pdf><font color=black>The Not So Short Introduction to LaTeX 2e</font></a>, by Tobias Oetiker et. al.
+
+
+<p>
+
+<b><font face="Comic Sans MS" color=333399 size=4>Teaching</font></b>
+
+<p>
+
+<a href=http://www.amazon.com/How-Teach-Mathematics-Steven-Krantz/dp/0821813986><font color=black>How To Teach Mathematics</font></a>, Steven G. Krantz
+
+
+
+
+</td>
+</tr>
+
+</table>
+
+</body>
+</html>

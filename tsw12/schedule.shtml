@@ -1,0 +1,137 @@
+<!--#include file="head.txt" -->
+
+
+
+<center><b><font face="Comic Sans MS" color=333399 size=6>Schedule</font></b></center>
+
+<p>
+
+<!--The conference will run from Monday morning to Friday afternoon.  On Wednesday there will be some free time in the afternoon, as well as a social gathering.
+
+We are planning workshops on the following topics:
+<ul>
+<li>Giving research talks
+<li>Applying for grants
+<li>Writing abstracts
+<li>CVs and Web sites
+<li>Publishing
+<li>Refereeing
+</ul>
+<ul>
+<li>The job process
+<li>Careers
+<li>Good habits
+<li>Collaborations
+<li>A day in the life
+</ul>
+<ul>
+<li>Inkscape
+<li>Beamer
+<li>Sage
+</ul>
+
+We will also have a daily seminar, which will consist of an hour long talk by one of the mentors of the workshop.  Some of the workshop participants will give 20 minute lectures, for which there will be feedback from mentors as well as other participants.-->
+
+<center>
+<table border=1 cellpadding=5>
+<tr>
+<td align=center><font face="Comic Sans MS" color=cc9900><b>TSW</b></font></td>
+<td align=center>Monday<br>June 11</td>
+<td align=center>Tuesday<br>June 12</td>
+<td align=center>Wednesday<br>June 13</td>
+<td align=center>Thursday<br>June 14</td>
+<td align=center>Friday<br>June 15</td>
+</tr>
+
+<tr>
+<td align=center>9:00</td>
+<td align=center>Welcome / Overview</td>
+<td align=center>Writing grants /<br>Teaching</td>
+<td align=center>NSA / Careers</td>
+<td align=center>Student talks</td>
+<td align=center>Student talks</td>
+</tr>
+
+<tr>
+<td align=center>10:30</td>
+<td align=center>Tea</td>
+<td align=center>Tea</td>
+<td align=center>Tea</td>
+<td align=center>Tea</td>
+<td align=center>Tea</td>
+</tr>
+
+<tr>
+<td align=center>11:00</td>
+<td align=center>Talks I</td>
+<td align=center>CV / Web</td>
+<td align=center>Job Process</td>
+<td align=center>Student talks</td>
+<td align=center>Student talks</td>
+</tr>
+
+<tr>
+<td align=center>12:00</td>
+<td align=center>Lunch</td>
+<td align=center>Lunch</td>
+<td align=center>Lunch</td>
+<td align=center>Lunch</td>
+<td align=center>Farewell</td>
+</tr>
+
+<tr>
+<td align=center>2:00</td>
+<td align=center>Publishing</td>
+<td align=center>Seminar</td>
+<td align=center>Seminar</td>
+<td align=center>Student talks</td>
+<td align=center></td>
+</tr>
+
+<tr>
+<td align=center>3:00</td>
+<td align=center>Tea</td>
+<td align=center>Tea</td>
+<td align=center>Tea</td>
+<td align=center>Tea / Photo</td>
+<td align=center></td>
+</tr>
+
+<tr>
+<td align=center>3:30</td>
+<td align=center>Seminar</td>
+<td align=center>Seminar</td>
+<td align=center>Colloquium</td>
+<td align=center>Seminar</td>
+<td align=center></td>
+</tr>
+
+<tr>
+<td align=center>4:30</td>
+<td align=center>Teaching / Research<br>Statements</td>
+<td align=center>Abstracts</td>
+<td align=center>Beamer / Inkscape</td>
+<td align=center>Talks II</td>
+<td align=center></td>
+</tr>
+
+<tr>
+<td align=center>6:30</td>
+<td align=center></td>
+<td align=center>Sage</td>
+<td align=center>Pizzaque</td>
+<td align=center></td>
+<td align=center></td>
+</tr>
+
+</table>
+
+<p><i>All sessions will take place in the basement of the Skiles Building, except for the Colloquium,<br> which will be held next door in Weber Space Science and Technology Room 2.</i>
+
+</center>
+
+Click <a href=detail.shtml><font color=blue>here</font></a> for a more detailed schedule.
+
+
+<!--#include file="foot.txt" -->
+
