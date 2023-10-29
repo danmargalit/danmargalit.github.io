@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html style="height:100%;" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math 1553: Basics</title>
+    <link rel="shortcut icon" href="http://www.math.gatech.edu/sites/all/themes/gtmathematics/favicon.ico" type="image/x-icon">
+    <link type="text/css" rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://people.math.gatech.edu/~jrabinoff6/cover/cover.css">
+    <style type="text/css">
+      .table>tbody>.new-week>td { border-top: 3px solid #aaa; }
+    #cover {
+        border: 1px solid #ddd;
+        cursor: pointer;
+        padding:0;
+        margin-right: 1em;
+        margin-bottom: 1em;
+        float:  left;
+    }
+    #cover-controls {
+        cursor: auto;
+    }
+    </style>
+  </head>
+
+<body style="background-color:#ccc;height:100%;">
+
+
+  <div style="min-height:100%;max-width:800px;
+              background-color:#fff;
+              border-color:#aaa;
+              border-width:0px 1px 1px 1px;
+              border-style:solid;
+              margin-bottom:0em;
+              padding-bottom:2em;" class="center-block">
+    <nav class="navbar navbar-default navbar-static-top" style="margin-bottom:0px;">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">
+            Math 1553 — Fall 2020 </a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+  <ul class="nav navbar-nav navbar-right">
+    <li><a href="index.html">Home</a></li>
+    <li class="active"><a href="basics.html">Basics</a></li>
+    <li><a href="organization.html">Organization</a></li>
+    <li><a href="resources.html">Help</a></li>
+    <li><a href="schedule.html">Calendar</a></li>
+    <li><a href="links.html">Links</a></li>
+  </ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <div class="container" style="width:100%;">
+      <div class="page-header">
+        <h1>
+     Math 1553 <small>Basics and Learning Goals</small>
+</h1>
+      </div>
+
+
+
+
+
+<h3>Learning goals</h3>
+The main course-level goals are as follows.
+<br><br>
+<!-- A) Construct, and give examples of, mathematical expressions that involve vectors,
+matrices, and linear systems of linear equations.
+<br><br>
+B) Evaluate mathematical expressions to compute quantities that deal with linear systems
+and eigenvalue problems.
+<br><br>
+-->
+A) Solve systems of linear equations.
+<br><br>
+B) Solve eigenvalue problems.
+<br><br>
+C) Analyze mathematical statements and expressions (for example, to assess whether a
+particular statement is accurate, or to describe solutions of systems in terms of
+existence and uniqueness).
+<br><br>
+D) Write logical progressions of precise mathematical statements to justify and
+communicate your reasoning.
+<br><br>
+E) Apply linear algebra concepts to model, solve, and analyze real-world situations.
+<br><br>
+<!-- We also have a more specific list with <a
+href="1553LearningGoals.pdf">
+section-level learning goals</a>. -->
+<br><br>
+<h3 id="text">Textbook</h3>
+<p></p><p>
+    <!--<div id="cover" class="col-xs-12 col-sm-4"></div>-->
+    <a href=https://textbooks.math.gatech.edu/ila/1553/><img src="http://people.math.gatech.edu/~dmargalit7/ILA.gif"></a>
+    <script>
+    document.getElementById("cover").onclick = function() {
+        window.open("https://textbooks.math.gatech.edu/ila/1553/", "_self");
+    }
+    document.getElementById("cover-controls").onclick = function(e) {
+        var evt = e ? e : window.event;
+        evt.stopPropagation();
+        return false;
+    }
+    </script>
+    <p> 
+      The primary textbook for this course is
+	<a href="https://textbooks.math.gatech.edu/ila/1553/"> Interactive
+Linear Algebra </a> by Dan Margalit and Joseph Rabinoff.  Click on the animated picture to find the book.
+<br><br>
+     There is also an <i> optional </i> reference textbook:
+      <a href="https://www.amazon.com/Linear-Algebra-Its-Applications-5th/dp/032198238X">
+        Linear Algebra and its Applications</a>, 5th edition, by
+      Lay–Lay–McDonald, which you can view online if you purchase access to <a href="https://www.pearsonmylabandmastering.com/northamerica/mymathlab/">MyMathLab</a>.
+<br><br>For those who wish to purchase MyMathLab access, you can use the course ID
+<code>margalit63498</code> following the instructions 
+<a 
+href="MML.pdf"> 
+here</a>.	This will also grant MyMathLab access to Thomas' Calculus, Early 
+Transcendentals (14th edition) which most students will use later, so you may find it 
+convenient to purchase the code even though it is not
+required for Math 1553.  If you have previously purchased MyMathLab access 
+to these textbooks at Georgia Tech within the past 18 months, you should
+not need to purchase a new code.
+     </p>
+      <!-- Note that this course will use
+      <a href="2020s-organization.html#homework">WeBWorK</a> and not MyMathLab for
+      online homework assignments.  Your MyMathLab account will give you access to an electronic version of the Lay and Stewart
+textbook
+problems on MyMathLab.-->
+
+    <p></p>
+
+<div class="clearfix"></div>
+
+<!--
+<div class="well">
+  While the Pearson code is not truly required for this course, you are likely to
+  need the code for other math courses you take at GaTech.  In particular,
+  Lay is bundled with other textbooks for calculus courses, so most likely
+  buying the code now will save you money in the long run.  
+</div>
+-->
+
+<!-- the following iframe is to grab a session cookie for webwork so the post from t-square works -->
+<iframe width="100%" style="width:1px;padding:0 !important; height:1px" frameborder="0" marginwidth="0" marginheight="0" scrolling="auto" src="https://webwork.math.gatech.edu/casgrab">
+</iframe>
+
+    </div>
+  </div>
+
+
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+
+
+</body></html>

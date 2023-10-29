@@ -1,0 +1,142 @@
+<html>
+<head><base href=http://aix1.uottawa.ca/~jkhoury/game.html></head>
+
+<h2>A game</h2>
+
+The game is a grid of 5 by 5 buttons that can light up. Pressing a button
+will switch its light around, but it will also switch the lights of the
+adjacent buttons around. Each problem presents you with a
+certain pattern of lit buttons and to solve the puzzle you have to turn 
+all the lights out (which is not easy because if you're not careful you
+will turn more lights on than off). This is the primary goal, the 
+secondary goal is to accomplish this with as few moves (pressing a
+button is one move) as possible.<br>
+Try it yourself on this grid. If a box has a check mark, this means its light is off. 
+<br>
+<br>
+<center>
+<form name="lightsform" >
+<table border =1 cellpadding=5>
+<tr>
+<td><input type="checkbox" name="a" value="0" onClick=
+"form.b.checked=1-form.b.checked
+form.f.checked=1-form.f.checked"></td>
+<td><input type="checkbox" name="b" value="0" onClick="
+form.g.checked=1-form.g.checked
+form.a.checked=1-form.a.checked
+form.c.checked=1-form.c.checked"></td>
+<td><input type="checkbox" name="c" value="0" onClick="
+form.h.checked=1-form.h.checked
+form.b.checked=1-form.b.checked
+form.d.checked=1-form.d.checked"></td>
+<td><input type="checkbox" name="d" value="0" onClick="
+form.i.checked=1-form.i.checked
+form.c.checked=1-form.c.checked
+form.e.checked=1-form.e.checked"></td>
+<td><input type="checkbox" name="e" value="0" onClick="
+form.d.checked=1-form.d.checked
+form.j.checked=1-form.j.checked"></td>
+</tr>
+<tr>
+<td><input type="checkbox" name="f" value="0" onClick="
+form.a.checked=1-form.a.checked
+form.g.checked=1-form.g.checked
+form.k.checked=1-form.k.checked"></td>
+<td><input type="checkbox" name="g" value="0" onClick="
+form.l.checked=1-form.l.checked
+form.b.checked=1-form.b.checked
+form.f.checked=1-form.f.checked
+form.h.checked=1-form.h.checked"></td>
+<td><input type="checkbox" name="h" value="0" onClick="
+form.c.checked=1-form.c.checked
+form.g.checked=1-form.g.checked
+form.i.checked=1-form.i.checked
+form.m.checked=1-form.m.checked"></td>
+<td><input type="checkbox" name="i" value="0" onClick=
+"form.d.checked=1-form.d.checked
+form.h.checked=1-form.h.checked
+form.j.checked=1-form.j.checked
+form.n.checked=1-form.n.checked"></td>
+<td><input type="checkbox" name="j" value="0" onClick="
+form.e.checked=1-form.e.checked
+form.i.checked=1-form.i.checked
+form.o.checked=1-form.o.checked"></td>
+</tr>
+<tr>
+<td><input type="checkbox" name="k" value="0" onClick="
+form.f.checked=1-form.f.checked
+form.l.checked=1-form.l.checked
+form.p.checked=1-form.p.checked"></td>
+<td><input type="checkbox" name="l" value="0" onClick="
+form.k.checked=1-form.k.checked
+form.m.checked=1-form.m.checked
+form.g.checked=1-form.g.checked
+form.q.checked=1-form.q.checked"></td>
+<td><input type="checkbox" name="m" value="0" onClick="
+form.l.checked=1-form.l.checked
+form.r.checked=1-form.r.checked
+form.h.checked=1-form.h.checked
+form.n.checked=1-form.n.checked"></td>
+<td><input type="checkbox" name="n" value="0" onClick="
+form.s.checked=1-form.s.checked
+form.o.checked=1-form.o.checked
+form.i.checked=1-form.i.checked
+form.m.checked=1-form.m.checked"></td>
+<td><input type="checkbox" name="o" value="0" onClick="
+form.t.checked=1-form.t.checked
+form.n.checked=1-form.n.checked
+form.j.checked=1-form.j.checked"></td>
+</tr>
+<tr>
+<td><input type="checkbox" name="p" value="0" onClick="
+form.u.checked=1-form.u.checked
+form.q.checked=1-form.q.checked
+form.k.checked=1-form.k.checked"></td>
+<td><input type="checkbox" name="q" value="0" onClick="
+form.v.checked=1-form.v.checked
+form.r.checked=1-form.r.checked
+form.l.checked=1-form.l.checked
+form.p.checked=1-form.p.checked"></td>
+<td><input type="checkbox" name="r" value="0" onClick="
+form.w.checked=1-form.w.checked
+form.s.checked=1-form.s.checked
+form.m.checked=1-form.m.checked
+form.q.checked=1-form.q.checked"></td>
+<td><input type="checkbox" name="s" value="0" onClick="
+form.x.checked=1-form.x.checked
+form.t.checked=1-form.t.checked
+form.n.checked=1-form.n.checked
+form.r.checked=1-form.r.checked"></td>
+<td><input type="checkbox" name="t" value="0" onClick="
+form.y.checked=1-form.y.checked
+form.s.checked=1-form.s.checked
+form.o.checked=1-form.o.checked"></td>
+</tr>
+<tr>
+<td><input type="checkbox" name="u" value="0" onClick="
+form.p.checked=1-form.p.checked
+form.v.checked=1-form.v.checked"></td>
+<td><input type="checkbox" name="v" value="0" onClick="
+form.u.checked=1-form.u.checked
+form.w.checked=1-form.w.checked
+form.q.checked=1-form.q.checked"></td>
+<td><input type="checkbox" name="w" value="0" onClick="
+form.x.checked=1-form.x.checked
+form.r.checked=1-form.r.checked
+form.v.checked=1-form.v.checked"></td>
+<td><input type="checkbox" name="x" value="0" onClick="
+form.y.checked=1-form.y.checked
+form.s.checked=1-form.s.checked
+form.w.checked=1-form.w.checked"></td>
+<td><input type="checkbox" name="y" value="0" onClick="
+form.x.checked=1-form.x.checked
+form.t.checked=1-form.t.checked"></td>
+</tr>
+</table>
+</form>
+</center>
+<br>
+<br>
+
+
+</html>

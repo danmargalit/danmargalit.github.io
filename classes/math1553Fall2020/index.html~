@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+
+<html style="height:100%;" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math 1553 Fall 2020</title>
+    <link rel="shortcut icon" href="http://www.math.gatech.edu/sites/all/themes/gtmathematics/favicon.ico" type="image/x-icon">
+    <link type="text/css" rel="stylesheet" href="./index_files/bootstrap.min.css">
+    <style type="text/css">
+      .table>tbody>.new-week>td { border-top: 3px solid #aaa; }
+      
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+.oh-list {
+    margin-left: 1em;
+}
+
+    </style>
+  </head>
+
+<body style="background-color:#ccc;height:100%;">
+
+
+  <div style="min-height:100%;max-width:800px;
+              background-color:#fff;
+              border-color:#aaa;
+              border-width:0px 1px 1px 1px;
+              border-style:solid;
+              margin-bottom:0em;
+              padding-bottom:2em;" class="center-block">
+
+    <div class="container" style="width:100%;">
+      <div class="page-header">
+        <h1>
+    <img src="./index_files/gatech.jpg" alt="GaTech" height="60" class="pull-right hidden-xs">
+    Math 1553<br>Introduction to Linear Algebra<br>
+    <small>Fall 2020</small>
+    <img src="./index_files/gatech.jpg" alt="GaTech" height="60" class="visible-xs">
+</h1>
+      </div>
+      
+
+
+<p>This is the common web site for Math 1553 Fall 2020.  For section-specific information, see your section's Canvas page.</p>
+
+
+
+<p>For most course information, see the Math 1553 Syllabus:<br></p>
+    <div class="butngroup btn-group-justified">
+    <a type="button" class="btn btn-success btn-lg" href="http://www.math.gatech.edu/~margalit/classes/math1553Fall2020/common-syllabus.pdf">
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+        Syllabus
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+    </a>
+    </div>
+<p></p>
+<p>The textbook:<br></p>
+    <div class="butngroup btn-group-justified">
+    <a type="button" class="btn btn-success btn-lg" href="https://textbooks.math.gatech.edu/ila/">
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+        Interactive Linear Algebra
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+    </a>
+    </div>
+<p>
+<p>The slides:<br></p>
+    <div class="butngroup btn-group-justified">
+    <a type="button" class="btn btn-success btn-lg" href="master_slides/Math_1553_Fall_2020_Slides.pdf">
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+        Lecture Slides
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+    </a>
+    </div>
+<p></p>
+<!--
+<p>A complete set of slides (not necessarily used in class):<br></p>
+    <div class="butngroup btn-group-justified">
+    <a type="button" class="btn btn-success btn-lg" href="http://www.math.gatech.edu/~margalit/classes/math1553Fall2020/Math1553Slides.pdf">
+        Math 1553 Slide Deck
+    </a>
+    </div>
+<p></p>
+-->
+<p>For WeBWorK, Grades, etc. see Canvas:<br></p>
+    <div class="butngroup btn-group-justified">
+    <a type="button" class="btn btn-success btn-lg" href="https://canvas.gatech.edu">
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+        Canvas
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+    </a>
+    </div>
+<p></p>
+<!--
+<p>For lectures, office hours, studios, and online discussions you can go directly to Microsoft Teams:<br></p>
+    <div class="butngroup btn-group-justified">
+    <a type="button" class="btn btn-success btn-lg" href="https://teams.microsoft.com/l/team/19%3aabf0682a312f4517a329b936303f6aa3%40thread.tacv2/conversations?groupId=8a76b690-c386-4446-89e7-b3907d0e4d94&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083">
+        Teams
+    </a>
+    </div>
+<p></p>
+-->
+<p>For on-line access to the supplementary textbook see MyMathLab (course id: margalit63498):<br></p>
+    <div class="butngroup btn-group-justified">
+    <a type="button" class="btn btn-success btn-lg" href="https://www.pearsonmylabandmastering.com/northamerica/mymathlab/">
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+        MyMathLab
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+    </a>
+    </div>
+<p></p>
+
+<!--
+
+<h3>
+    Instructor
+</h3>
+
+<a name=officehours></a>
+
+<dl class="dl-horizontal">
+
+  <dt>Professor</dt>
+  <dd><a href=http://www.math.gatech.edu/~margalit>Dan Margalit</a></dd>
+
+  <dt>Lecture time</dt>
+  <dd>MW 3:30-4:20
+  </dd>
+
+  <dt>Lecture link</dt>
+  <dd><a href="https://teams.microsoft.com/l/meetup-join/19%3aa19a7882549c4738988f427c3d875c65%40thread.tacv2/1597412225858?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%22b0f3383b-bb9d-4373-a081-595f56a19e6d%22%7d" target="_blank" rel="noopener noreferrer">Click here to join the lecture</a></dd>
+
+  <dt>Email</dt>
+  <dd><img src="../../email.gif" alt="email" height=20></dd>
+
+  <dt id="myoffice">Office hours</dt>
+  <dd>TBA, and by appointment</dd>
+</dl>
+
+<h3>Teaching Assistants</h3>
+
+<dl class="dl-horizontal">
+  <dt>Studio time</dt>
+  <dd><ul class="list-unstyled" style="margin-bottom:0pt;">
+      <li>F 3:30 - 4:20</li>
+  </ul></dd>
+
+  <dt>Studios</dt>
+  <dd><ul class="list-unstyled" style="margin-bottom: 0pt;">
+	<li>M01: Amed Umar, <a>Studio tba</a></li>
+	<li>M02: Seokbin Lee, <a>Studio tba</a></li>
+	<li>M03: Manuel Fernandez, <a>Studio tba</a></li>
+	<li>M04: Pu-Ting Yu, <a>Studio tba</a></li>
+	<li>M05: Juntao Duan, <a>Studio tba</a></li>
+  </ul>
+  </dd>
+  <dt>TA Office Hours</dt>
+  <dd>
+  <ul class="list-unstyled" style="margin-bottom: 0pt;">
+	<li>Amed Umar, <a>Day & Time tba</a></li>
+	<li>Seokbin Lee, <a>Day & Time tba</a></li>
+	<li>Manuel Fernandez, <a>Day & Time tba</a></li>
+	<li>Pu-Ting Yu, <a>Day & Time tba</a></li>
+	<li>M05: Juntao Duan, <a>Day & Time tba</a></li>
+  </ul>
+  </dd>
+
+
+</dl>
+-->
+
+<!--<h3>Textbook</h3>
+The textbook for the course is <i>Interactive Linear Algebra</i>, by Dan Margalit and Joe Rabinoff.  Click on the icon below.
+
+<p>
+<center>
+<a href=https://textbooks.math.gatech.edu/ila/ target=book><img width=150 src=http://people.math.gatech.edu/~dmargalit7/ILA.gif></a>
+</center>
+-->
+
+
+<h3>Other resources</h3>
+
+<p>        Here is a <a href="http://www.math.gatech.edu/~margalit/classes/math1553Fall2020/reference.pdf">reference sheet</a> containing most theorems and definitions that you will learn (and be responsible for knowing) over the course of the semester.
+</p>
+
+<p>Here is the <a href=https://textbooks.math.gatech.edu/ila/demos/rrinter.html>interactive row reducer</a>.</p>
+
+<p>You can find old quizzes and exams <a href=http://people.math.gatech.edu/~dmargalit7/classes.shtml>here</a> and <a href=http://people.math.gatech.edu/~cjankowski3/>here</a>, for example</p>
+
+<p>There are some games related to the course <a href=http://people.math.gatech.edu/~cjankowski3/20s/m1553/webpage/demos.html>here</a>.</p>
+
+<p>You can play Lights Out <a href=https://www.neok12.com/games/lights-out/lights-out.htm>here</a>.  If you want to know what this has to do with linear algebra, ask your instructor!
+
+<p><a href=https://www.quantamagazine.org/new-algorithm-breaks-speed-limit-for-solving-linear-equations-20210308/>Quanta article</a> about a fast linear algebra algorithm devised by GaTech faculty
+
+<!--
+<p>
+<a href=http://www.math.gatech.edu/~margalit/classes/math1553Fall2020/JonesR0.pdf>Here</a> is a discussion of R<sub>0</sub>.
+</p>
+-->
+
+<!--
+<p>
+Here is a <a href=https://bluejeans.com/s/B3Zk_>video</a> by Chris Jankowski showing an application of linear algebra to data compression.
+</p>
+-->
+
+<p>Here is a <a href=http://www.math.gatech.edu/~margalit/classes/math1553Fall2020/getanA.pdf>list of suggestions</a> for doing well in a math class.  And here is <a href=http://www.math.gatech.edu/~margalit/classes/math1553Fall2020/moretips.pdf>an addendum</a>.
+
+
+<!--
+<h3>Homework</h3>
+
+<p>
+Homework is assigned through WeBWorK, an online homework delivery platform accessible via <a href=http://canvas.gatech.edu>Canvas</a>.  The due dates can be found on WeBWorK itself or on the course calendar on the master course web site.
+</p>
+-->
+
+<a name=calendar></a>
+
+<h3>Course Calendar and Materials</h3>
+
+<table class="table table-bordered table-condensed">
+  <tr class="active">
+    <th style="width:12%;">Date</th>
+    <th style="width:20%;">Topic</th>
+    <th style="width:17%;">Lecture</th>
+    <th style="width:10%;">WeBWorK</th>
+    <th style="width:20%;">Quiz/Exam/Worksheets</th>
+    <th style="width:21%;">Remarks</th>
+  </tr>
+
+  <tr class="new-week">
+    <td>M Aug 17</td>
+    <td>Introduction / Overview</td>
+    <td><a href=slides/Aug17.pdf>Aug 17</a></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>W Aug 19</td>
+    <td>1.1 Systems of linear equations</td>
+    <td><a href=slides/Aug19.pdf>Aug 19</a></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr class="active">
+    <td>F Aug 21</td>
+    <td>Studio: 1.1 </td>
+    <td> 
+    </td>
+    <td>Warmup</td>
+    <td><a href=worksheets/w1-Overview-1_1.pdf>Worksheet</a> (<a href=worksheets/w1-Overview-1_1-solutions.pdf>solutions</a>)</td>
+    <td></td>
+  </tr>
+
+  <tr class="new-week">
+    <td>M Aug 24</td>
+    <td>1.2 Row reduction</td>
+    <td><a href=slides/Aug24.pdf>Aug 24</a></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>W Aug 26</td>
+    <td>1.2 (continued), 1.3 Parametric form</td>
+    <td><a href=slides/Aug26.pdf>Aug 26</a></td>
+    <td>1.1</td>
+    <td>&nbsp;</td>
+    <td> </td>
+  </tr>
+
+  <tr class="active">
+    <td>F Aug 28</td>
+    <td>Studio: 1.2, 1.3</td>
+    <td>  </td> 
+    <td> </td>
+    <td><a href=quizzes/quiz1.pdf>Quiz: 1.1</a> (<a href=quizzes/Quiz_1_Solutions.pdf>solutions</a>)<br><a href=worksheets/w2-1_2-1_3.pdf>Worksheet</a> (<a href=worksheets/w2-1_2-1_3-solutions.pdf>solutions</a>)<br><a href=worksheets/1_2-1_3-supplement.pdf>Supplement</a> (<a href=worksheets/1_2-1_3-supplement-solutions.pdf>solutions</a>)</td>
+    <td></td>
+  </tr>
+
+  <tr class="new-week">
+    <td>M Aug 31</td>
+    <td>2.1 and 2.2 Vectors, vector equations, and spans</td>
+    <td><a href=slides/Aug31.pdf>Aug 31</a>  </td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>W Sep 2</td>
+    <td>2.3 Matrix equations</td>
+    <td><a href=slides/Sep02.pdf>Sep 2</a>  </td>
+    <td>1.2, 1.3</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr class="active">
+    <td>F Sep 4</td>
+    <td>Studio: 2.1, 2.2, 2.3</td>
+    <td>
+      </td>
+    <td>&nbsp;</td>
+    <td><a href=quizzes/quiz2.pdf>Quiz: 1.2, 1.3</a> (<a href=quizzes/Quiz_2_Solutions.pdf>solutions</a>)<br><a href=worksheets/w3-2_1-2_3.pdf>Worksheet</a> (<a href=worksheets/w3-2_1-2_3-solution.pdf>solutions</a>)<br><a href=worksheets/2_1-2_3-supplement.pdf>Supplement</a> (<a href=worksheets/2_1-2_3-supplement-solution.pdf>solutions</a>)</td>
+    <td></td>
+  </tr>
+
+  <tr class="new-week success">
+    <td>M Sep 7</td>
+    <td colspan="5" class="text-center"><em>Labor Day Holiday, No Class</em></td>
+  </tr>
+
+
+  <tr>
+    <td>W Sep 9</td>
+    <td>2.4 Solution sets, 2.5 Linear independence</td>
+    <td><a href=slides/Sep09.pdf>Sep 9</a>  </td>
+    <td>2.1+2.2, 2.3</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr class="active">
+    <td>F Sep 11</td>
+    <td>Studio: 2.4, 2.5</td>
+    <td> 
+    </td>
+    <td>&nbsp;</td>
+    <td><a href=quizzes/quiz3.pdf>Quiz: 2.1, 2.2, 2.3</a> (<a href=quizzes/Quiz_3_Solutions.pdf>solutions</a>)<br><a href=worksheets/w4-2_4-2_5.pdf>Worksheet</a> (<a href=worksheets/w4-2_4-2_5-solution.pdf>solutions</a>)<br><a href=worksheets/2_4-2_5-supplement.pdf>Supplement</a> (<a href=worksheets/2_4-2_5-supplement-solution.pdf>solutions</a>)</td>
+    <td></td>
+  </tr>
+
+  <tr class="new-week">
+    <td>M Sep 14</td>
+    <td>2.5 Linear independence (continued)</td>
+    <td> <a href=slides/Sep14.pdf>Sep 14</a> </td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>W Sep 16</td>
+    <td>2.6 Subspaces</td>
+    <td> <a href=slides/Sep16.pdf>Sep 16</a> </td>
+    <td>2.4, 2.5 </td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr class="active">
+    <td>F Sep 18</td>
+    <td>Midterm 1: through 2.5</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><a href=exams/midterm1.pdf>Midterm 1</a> (<a href=exams/midterm1solutions.pdf>solutions</a>)<br><a href=exams/practice_1.pdf>Practice exam</a> (<a href=exams/practice_1_solutions.pdf>solutions</a>)</td>
+    <td></td>
+  </tr>
+  
+
+  <tr class="new-week">
+    <td>M Sep 21</td>
+    <td>2.7 Bases and dimension, 2.9 The rank theorem</td>
+    <td><a href=slides/Sep21.pdf>Sep 21</a>  </td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>W Sep 23</td>
+    <td>3.1 Matrix transformations </td>
+    <td> <a href=slides/Sep23.pdf>Sep 23</a> </td>
+    <td>2.6</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr class="active">
+    <td>F Sep 25</td>
+    <td>Studio: 2.6, 2.7, 2.9, 3.1</td>
+    <td> </td>
+    <td>&nbsp;</td>
+    <td><a href=quizzes/quiz4.pdf>Quiz: 2.6</a> (<a href=quizzes/Quiz_4_Solutions.pdf>solutions</a>)<br><a href=worksheets/w5-2_6-3_1.pdf>Worksheet</a> (<a href=worksheets/w5-2_6-3_1-solutions.pdf>solutions</a>)<br><a href=worksheets/2_6-3_1-supplement.pdf>Supplement</a> (<a href=worksheets/2_6-3_1-supplement-solutions.pdf>solutions</a>)
+
+
+</td>
+    <td></td>
+  </tr>
+
+  <tr class="new-week">
+    <td>M Sep 28</td>
+    <td>3.2 One-to-one and onto transformations</td>
+    <td> <a href=slides/Sep28.pdf>Sep 28</a> </td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td class="warning"> Midsemester progress reports submitted by 12 PM</td>
+  </tr>
+
+  <tr>
+    <td>W Sep 30</td>
+    <td>3.3 Linear transformations</td>
+    <td><a href=slides/Sep30.pdf>Sep 30</a>  </td>
+    <td>2.7+2.9, 3.1</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr class="active">
+    <td>F Oct 2</td>
+    <td>Studio: 3.2, 3.3</td>
+    <td> 
+    </td>
+    <td>&nbsp;</td>
+    <td><a href=quizzes/quiz5.pdf>Quiz: 2.7, 2.9, 3.1</a> (<a href=quizzes/Quiz_5_Solutions.pdf>solutions</a>)<br><a href=worksheets/w6-3_2-3_3.pdf>Worksheet</a> (<a href=worksheets/w6-3_2-3_3-solutions.pdf>solutions</a>)<br><a href=worksheets/3_2-3_3-supp.pdf>Supplement</a> (<a href=worksheets/3_2-3_3-supp-solutions.pdf>solutions</a>)</td>
+    <td></td>
+  </tr>
+
+   <tr class="new-week">
+    <td>M Oct 5</td>
+    <td>3.4 Matrix multiplication, 3.5 Inverses</td>
+    <td><a href=slides/Oct05.pdf>Oct 5</a>  </td>
+    <td>  </td>
+    <td>  </td> 
+    <td>  </td>
+  </tr>
+
+  <tr>
+    <td>W Oct 7</td>
+    <td>3.5 (continued), 3.6 Invertible matrix theorem</td>
+    <td> <a href=slides/Oct07.pdf>Oct 7</a></td>
+    <td>3.2, 3.3</td>
+    <td>&nbsp;</td>
+    <td> </td>
+  </tr>
+
+  <tr class="active">
+    <td>F Oct 9</td>
+    <td>Studio: 3.4, 3.5, 3.6</td>
+    <td> 
+    </td>
+    <td>&nbsp;</td>
+    <td><a href=quizzes/quiz6.pdf>Quiz: 3.2, 3.3</a> (<a href=quizzes/Quiz_6_Solutions.pdf>solutions</a>)<br><a href=worksheets/w7-3_4-3_6.pdf>Worksheet</a> (<a href=worksheets/w7-3_4-3_6-solutions.pdf>solutions</a>)<br><a href=worksheets/3_4-3_6-supp.pdf>Supplement</a> (<a href=worksheets/3_4-3_6-supp-solutions.pdf>solutions</a>)</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>M Oct 12</td>
+    <td>4.1 Determinants</td>
+    <td><a href=slides/Oct12.pdf>Oct 12</a></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+
+  <tr>
+    <td>W Oct 14</td>
+    <td>Review</td>
+    <td><a href=slides/Oct14.pdf>Oct 14</a>  </td>
+    <td>3.4, 3.5+3.6</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  
+    <tr class="active">
+    <td>F Oct 16</td>
+    <td>Midterm 2: 2.6 through 3.6</td>
+    <td></td>
+    <td>&nbsp;</td>
+    <td><a href=exams/midterm2.pdf>Midterm 2</a> (<a href=exams/midterm2solutions.pdf>solutions</a>)<br><a href=exams/practice_2.pdf>Practice exam</a> (<a href=exams/practice_2_solutions.pdf>solutions</a>)</td>
+    <td></td>
+    
+  </tr>
+
+  <tr class="new-week">
+    <td>M Oct 19</td>
+    <td>4.2 Cofactor expansions, 4.3 Volumes</td>
+    <td> <a href=slides/Oct19.pdf>Oct 19</a> </td>
+    <td>&nbsp;</td>  
+    <td>&nbsp;</td>
+    <td> </td>
+  </tr>
+
+  <tr>
+    <td>W Oct 21</td>
+    <td>5.1 Eigenvalues and eigenvectors</td>
+    <td><a href=slides/Oct21.pdf>Oct 21</a> </td>
+    <td>Det. I</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+
+  <tr class="active">
+    <td>F Oct 23</td>
+    <td>Studio: 4.1, 4.2, 4.3, 5.1</td>
+    <td>  </td>
+    <td></td>
+    <td><a href=quizzes/quiz7.pdf>Quiz: 4.1, 4.3</a> (<a href=quizzes/Quiz_7_Solutions.pdf>solutions</a>)<br><a href=worksheets/w8-4_1-5_1.pdf>Worksheet</a> (<a href=worksheets/w8-4_1-5_1-solutions.pdf>solutions</a>)<br><a href=worksheets/4_1-5_1-supp.pdf>Supplement</a> (<a href=worksheets/4_1-5_1-supp-solutions.pdf>solutions</a>)
+</td>
+    <td class="warning">Last day to withdraw (will receive "W")</td>
+  </tr>
+
+    <tr class="new-week">
+    <td>M Oct 26</td>
+    <td>5.1 Eigenvalues and eigenvectors</td>
+    <td> <a href=slides/Oct26.pdf>Oct 26</a></td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>&nbsp;</td>
+  </tr>
+
+    <tr class="new-week">
+    <td>W Oct 28</td>
+    <td>5.2 Characteristic polynomials</td>
+    <td><a href=slides/Oct28.pdf>Oct 28</s> </td>
+    <td>Det. II, 5.1</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  
+  
+  <tr class="active">
+    <td>F Oct 30</td>
+    <td>Studio: 5.1, 5.2</td>
+    <td>  </td>
+    <td></td>
+    <td><a href=quizzes/quiz8.pdf>Quiz: 4.2, 5.1</a> (<a href=quizzes/Quiz_8_Solutions.pdf>solutions</a>)<br><a href=worksheets/w9-5_1-5_2.pdf>Worksheet</a> (<a href=worksheets/w9-5_1-5_2-solutions.pdf>solutions</a>)<br><a href=worksheets/5_1-5_2-supp.pdf>Supplement</a> (<a href=worksheets/5_1-5_2-supp-solutions.pdf>solutions</a>)</td>
+    <td></td>
+  </tr>
+
+ 
+  <tr class="new-week">
+    <td>M Nov 2</td>
+    <td>5.4 Diagonalization
+       </td>
+    <td><a href=slides/Nov02.pdf>Nov 2</a> </td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>W Nov 4</td>     
+    <td>5.5 Complex eigenvalues</td>
+    <td> <a href=slides/Nov04.pdf>Nov 4</a></td>
+    <td>5.2</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr class="active">
+    <td>F Nov 6</td>
+    <td>Studio: 5.4, 5.5</td>
+     <td>  </td>
+    <td> </td>
+    <td><a href=quizzes/quiz9.pdf>Quiz: 5.1, 5.2</a> (<a href=quizzes/Quiz_9_Solutions.pdf>solutions</a>)<br><a href=worksheets/w10-5_4-5_5.pdf>Worksheet</a> (<a href=worksheets/w10-5_4-5_5-solutions.pdf>solutions</a>)<br><a href=worksheets/5_4-5_5-supp.pdf>Supplement</a> (<a href=worksheets/5_4-5_5-supp-solutions.pdf>solutions</a>)</td>
+  <td></td>
+  </tr>
+
+  <tr class="new-week">
+    <td>M Nov 9</td>
+    <td>5.6 Stochastic matrices</td>
+    <td> <a href=slides/Nov09.pdf>Nov 9</a></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>W Nov 11</td>
+    <td>6.1 Dot products and orthogonality</td>
+    <td> <a href=slides/Nov11.pdf>Nov 11</a> </td>
+    <td>5.4, 5.5</td>
+    <td>&nbsp;</td>
+    <td> </td>
+  </tr>
+
+  <tr>
+    <td>F Nov 13</td>
+    <td>Studio: 5.6, 6.1</td>
+    <td> </td>
+    <td> </td>
+    <td><a href=quizzes/quiz10.pdf>Quiz: 5.4, 5.5</a> (<a href=quizzes/Quiz_10_Solutions.pdf>solutions</a>)<br><a href=worksheets/w11-5_6-6_1.pdf>Worksheet</a> (<a href=worksheets/w11-5_6-6_1-solutions.pdf>solutions</a>)<br><a href=worksheets/5_6-6_1-supplement.pdf>Supplement</a> (<a href=worksheets/5_6-6_1-supplement-solutions.pdf>solutions</a>)</td>
+    <td></td>
+  </tr>
+
+
+  <tr class="new-week">
+    <td>M Nov 16</td>
+    <td>6.2 and 6.3 Orthogonal complements and projections
+      </td>
+    <td><a href=slides/Nov16.pdf>Nov 16</a>  </td>
+    <td> </td>
+    <td>&nbsp;</td>
+    <td> </td>
+  </tr>
+
+  <tr>
+    <td>W Nov 18</td>
+    <td>6.2 and 6.3 (continued)</td>
+    <td> <a href=slides/Nov18.pdf>Nov 18</a>  </td>
+    <td>5.6, 6.1</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+<tr class="active">
+    <td>F Nov 20</td>
+    <td>Midterm 3: 4.1 through 5.6</td>    
+    <td>
+     </td>
+    <td> </td>
+    <td><a href=exams/midterm3.pdf>Midterm 3</a> (<a href=exams/midterm3solutions.pdf>solutions</a>)<br><a href=exams/practice_3.pdf>Practice exam</a> (<a href=exams/practice_3_solutions.pdf>solutions</a>)</td>
+    <td> </td>
+  </tr>
+
+
+  <tr class="new-week">
+    <td>M Nov 23</td>
+    <td>6.5 Least squares</td>    
+    <td><a href=slides/Nov23.pdf>Nov 23</a> </td> 
+    <td>&nbsp;</td>
+    <td> </td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr class="new-week">
+    <td></td>
+    <td></td>    
+    <td> </td> 
+    <td>6.2, 6.3, 6.5 (not graded)</td>
+    <td><a href=exams/practice_final.pdf>Practice final</a> (<a href=exams/practice_final_solutions.pdf>solutions</a>) </td>
+    <td>&nbsp;</td>
+  </tr>
+
+
+  
+  <tr class="new-week">
+    <td>Fri Dec 4</td>
+    <td colspan=5 class="text-center danger">
+      <em> Final Exam for ALL SECTIONS of Math 1553:
+        8:00am&ndash;11:59pm</em></td>
+  </tr>
+
+</table>
+
+
+
+
+  <script type="text/javascript" src="./index_files/jquery.min.js"></script>
+  <script type="text/javascript" src="./index_files/bootstrap.min.js"></script>
+
+
+
+
+</body></html>

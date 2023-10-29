@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+
+<html style="height:100%;" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math 1553 D1 - D4</title>
+    <link rel="shortcut icon" href="http://www.math.gatech.edu/sites/all/themes/gtmathematics/favicon.ico" type="image/x-icon">
+    <link type="text/css" rel="stylesheet" href="./index_files/bootstrap.min.css">
+    <style type="text/css">
+      .table>tbody>.new-week>td { border-top: 3px solid #aaa; }
+      
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+.oh-list {
+    margin-left: 1em;
+}
+
+    </style>
+  </head>
+
+<body style="background-color:#ccc;height:100%;">
+
+
+  <div style="min-height:100%;max-width:800px;
+              background-color:#fff;
+              border-color:#aaa;
+              border-width:0px 1px 1px 1px;
+              border-style:solid;
+              margin-bottom:0em;
+              padding-bottom:2em;" class="center-block">
+
+    <div class="container" style="width:100%;">
+      <div class="page-header">
+        <h1>
+    <img src="./index_files/gatech.jpg" alt="GaTech" height="60" class="pull-right hidden-xs">
+    Math 1553<br>Introduction to Linear Algebra<br>
+    <small>Spring 2020 — Sections D1 - D4</small>
+    <img src="./index_files/gatech.jpg" alt="GaTech" height="60" class="visible-xs">
+</h1>
+      </div>
+      
+
+
+
+
+
+<p><font color=red>For the revisions to the syllabus due to the corona virus, click <a href=revisions.pdf>here</a>.</font></p>
+
+
+<p>For most course information, including the course calendar, see the Math 1553 Master Site:
+    <br>
+    </p>
+    <div class="butngroup btn-group-justified">
+    <a type="button" class="btn btn-success btn-lg" href=http://people.math.gatech.edu/~cjankowski3/20s/m1553/webpage/index.html>
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+        Master Course Website
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+    </a>
+    </div>
+<p></p>
+<p>This is the master syllabus:<br></p>
+    <div class="butngroup btn-group-justified">
+    <a type="button" class="btn btn-success btn-lg" href="http://people.math.gatech.edu/~cjankowski3/20s/m1553/webpage/common-syllabus.pdf">
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+        Syllabus
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+    </a>
+    </div>
+<p></p>
+<p>The textbook:<br></p>
+    <div class="butngroup btn-group-justified">
+    <a type="button" class="btn btn-success btn-lg" href="https://textbooks.math.gatech.edu/ila/">
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+        Interactive Linear Algebra
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+    </a>
+    </div>
+<p></p>
+<p>A complete set of slides (not the slides I use in class):<br></p>
+    <div class="butngroup btn-group-justified">
+    <a type="button" class="btn btn-success btn-lg" href="Math1553Slides.pdf">
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+        Math 1553 Slide Deck
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+    </a>
+    </div>
+<p></p>
+<p>For WeBWorK, Piazza, Grades, etc. see Canvas:<br></p>
+    <div class="butngroup btn-group-justified">
+    <a type="button" class="btn btn-success btn-lg" href="https://canvas.gatech.edu">
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+        Canvas
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+    </a>
+    </div>
+<p></p>
+<p>For online discussions and polls you can go directly to Piazza:<br></p>
+    <div class="butngroup btn-group-justified">
+    <a type="button" class="btn btn-success btn-lg" href="http://www.piazza.com">
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+        Piazza
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+    </a>
+    </div>
+<p></p>
+<p>For on-line access to the supplementary textbook see MyMathLab (course id: jankowski45035):<br></p>
+    <div class="butngroup btn-group-justified">
+    <a type="button" class="btn btn-success btn-lg" href="https://www.pearsonmylabandmastering.com/northamerica/mymathlab/">
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+        MyMathLab
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true"></span>-->
+    </a>
+    </div>
+<p></p>
+
+<h3>
+    Instructor
+</h3>
+
+<a name=officehours></a>
+
+<dl class="dl-horizontal">
+
+  <dt>Professor</dt>
+  <dd><a href=http://www.math.gatech.edu/~margalit>Dan Margalit</a></dd>
+
+  <dt>Lecture time</dt>
+  <dd><ul class="list-unstyled" style="margin-bottom:0pt;">
+      <li>MW 9:05-9:55</li>
+  </ul></dd>
+
+  <dt>Lecture location</dt>
+  <dd><ul class="list-unstyled" style="margin-bottom:0pt;">
+      <li><a href="https://www.google.com/maps/place/Gilbert+Hillhouse+Boggs+Building/@33.7757611,-84.3997425,15z/data=!4m2!3m1!1s0x0:0xb9a8c30e4aaf1178?sa=X&ved=2ahUKEwist6uA8O3mAhWQhOAKHUtWCAwQ_BIwCnoECAwQCA">Gilbert Hillhouse Boggs Building</a> B5</li>
+  </ul></dd>
+
+  <dt>Office</dt>
+  <dd><a href="http://www.myatlascms.com/map/?id=82&amp;mrkIid=10194">Skiles 234</a></dd>
+
+  <dt>Email</dt>
+  <dd><img src="../../email.gif" alt="email" height=20></dd>
+
+  <dt id="myoffice">Office hours</dt>
+  <dd>Mon 3-4, Wed 2-3, and by appointment</dd>
+</dl>
+
+<h3>Teaching Assistants</h3>
+
+<dl class="dl-horizontal">
+  <dt>Studio time</dt>
+  <dd><ul class="list-unstyled" style="margin-bottom:0pt;">
+      <li>F 9:05 - 9:55</li>
+  </ul></dd>
+
+  <dt>Studios</dt>
+  <dd><ul class="list-unstyled" style="margin-bottom:0pt;">
+      <li>D1: <!--Skiles 269,--> Isabella Bowland, <a href=https://bluejeans.com/946900052?src=calendarLink>Blue Jeans</a></li>
+      <li>D2: <!--Skiles 170,--> Kyle Jiang, <a href=https://bluejeans.com/399919658>Blue Jeans</a></li>
+      <li>D3: <!--Clough 246,--> Kalen Patton, <a href=https://bluejeans.com/5404873994>Blue Jeans</a></li>
+      <li>D4: <!--Skiles 156,--> Sidhanth Raman, <a href=https://bluejeans.com/665231237?src=calendarLink>Blue Jeans</a></li>
+  </ul></dd>
+
+<!--
+  <dt>TA Office Hours</dt>
+  <dd><ul class="list-unstyled" style="margin-bottom:0pt;">
+      <li>Isabella Bowland, Thu 2-3 Skiles 230</li>
+      <li>Kyle Jiang, Thu 1-3 Skiles 230</li>
+      <li>Kalen Patton, Mon/Wed 1-1:50 Skiles 230</li>
+      <li>Sidhanth Raman, Tue 10:45-11:45 Skiles 230</li>
+  </ul></dd>
+-->
+
+  <dt>TA Office Hours</dt>
+  <dd><ul class="list-unstyled" style="margin-bottom:0pt;">
+      <li>Isabella Bowland, Wed 11-12, click <a href=https://bluejeans.com/977690664>here</a></li>
+      <li>Kyle Jiang, Wed 3-5, Thu 1-3, click <a href=https://bluejeans.com/717849166>here</a> on Wed and <a href=https://bluejeans.com/930879157>here</a> on Thu</li>
+      <li>Kalen Patton, Mon/Wed 1-2, click <a href=https://bluejeans.com/537387296>here</a></li>
+      <li>Sidhanth Raman, Tue 10:00-12:00, click <a href=https://bluejeans.com/556424103?src=calendarLink>here</a></li>
+  </ul></dd>
+
+
+</dl>
+
+<h3>Textbook</h3>
+The textbook for the course is <i>Interactive Linear Algebra</i>, by Dan Margalit and Joe Rabinoff.  Click on the icon below.
+
+<p>
+<center>
+<a href=https://textbooks.math.gatech.edu/ila/ target=book><img width=300 src=http://people.math.gatech.edu/~dmargalit7/ILA.gif></a>
+</center>
+
+<p><p>
+
+Another resource is Lay's book Linear Algebra and its Applications.  There is also an option for a bundle consisting of all of the linear algebra and calculus texts needed for the basic math courses at GaTech.  You may want to purchase Lay or the bundle if (1) you want an extra reference for the material, (2) you want extra practice exercises, (3) you want access to the online exercises in MyMathLab, a proprietary tool for online homework, or (4) you are going to 
+take calculus at GaTech (it is cheaper to buy the bundle than any individual parts).  The choice between the book and the loose leaf version is up to you.  Information about the bundle can be found <a href=http://www.math.gatech.edu/sites/default/files/images/textbooks-fall2018.pdf>here</a>.  Just to emphasize, I will not be using or discussing Lay's book, or assigning any problems from it, this semester.  If you do want to use MyMathLab for the extra online homework, I highly recommend buying the bundle directly from the store (second hand codes might not work).  This is completely your decision.  You probably won't know until the middle of the semester whether you need/want more practice problems.
+
+<h3>Other resources</h3>
+
+<p>
+Here is a <a href=Math1553Slides.pdf>slide deck</a> that can be used as a reference for the whole course.
+</p>
+
+<p>        Here is a <a href="reference.pdf">reference sheet</a> containing most theorems and definitions that you will learn (and be responsible for knowing) over the course of the semester.  It will be tweaked as we cover the material.
+</p>
+
+<p>Here is the <a href=https://textbooks.math.gatech.edu/ila/demos/rrinter.html>interactive row reducer</a>.</p>
+
+<p>There are some games related to the course <a href=http://people.math.gatech.edu/~cjankowski3/20s/m1553/webpage/demos.html>here</a>.</p>
+
+<p>You can play Lights Out <a href=https://www.neok12.com/games/lights-out/lights-out.htm>here</a>.  If you want to know what this has to do with linear algebra, ask me!<p>
+
+<p>
+The master course web site has supplementary materials for each studio on the calendar there, as well as practice exams.
+</p>
+
+<p>
+<a href=JonesR0.pdf>Here</a> is the discussion of R<sub>0</sub> I mentioned in the practice class.
+</p>
+
+<p>
+Here is a <a href=https://bluejeans.com/s/B3Zk_>video</a> by Chris Jankowski showing an application of linear algebra to data compression.
+</p>
+
+<p>Here is a <a href=getanA.pdf>list of suggestions</a> for doing well in a math class, which applies very well to this course.
+
+<h3>Homework</h3>
+
+<p>
+Homework will be assigned through WeBWorK, an online homework delivery platform accessible via <a href=http://canvas.gatech.edu>Canvas</a>.  The due dates can be found on WeBWorK itself or on the course calendar on the master course web site.
+</p>
+
+<a name=calendar></a>
+
+<h3>Course Calendar and Materials</h3>
+
+For worksheets, supplements, practice exams, and more, see the <a href=http://people.math.gatech.edu/~cjankowski3/20s/m1553/webpage/index.html>Master Course Web Site</a>.
+
+<table class="table table-bordered table-condensed">
+  <tr class="active">
+    <th style="width:12%;">Date</th>
+    <th style="width:20%;">Topic</th>
+    <th style="width:17%;">Materials</th>
+    <th style="width:10%;">WeBWorK</th>
+    <th style="width:20%;">Quiz/Exam</th>
+  </tr>
+
+  <tr class="new-week">
+    <td>M Jan 6</td>
+    <td>Overview</td>
+    <td><a href=Intro.pdf>Intro</a><br><a href=Overview.pdf>Overview</a> 
+  </td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>W Jan 8</td>
+    <td>1.1 Systems of linear equations</td>
+    <td><a href="slides/Jan08.pdf">Slides</a> </td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr class="active">
+    <td>F Jan 10</td>
+    <td>Studio: through 1.1 </td>
+    <td> 
+    </td>
+    <td>Warmup</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr class="new-week">
+    <td>M Jan 13</td>
+    <td>1.2 Row reduction</td>
+    <td> <a href="slides/Jan13.pdf">Slides</a>  </td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>W Jan 15</td>
+    <td>1.2 (continued) and 1.3 Parametric form</td>
+    <td> <a href="slides/Jan15.pdf">Slides</a></td>
+    <td>1.1</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr class="active">
+    <td>F Jan 17</td>
+    <td>Studio: 1.2 and 1.3</td>
+    <td> 
+      </td> 
+    <td> </td>
+    <td><a href=quizzes/q1solutions.pdf>Quiz: 1.1</a></td>
+  </tr>
+
+  <tr class="new-week success">
+    <td>M Jan 20</td>
+    <td colspan="4" class="text-center"><em> Martin
+	Luther King Jr. Holiday, No Class</em></td>
+  </tr>
+
+  <tr>
+    <td>W Jan 22</td>
+    <td>2.1 and 2.2: Vectors, vector equations, and spans </td>
+    <td> 
+ <a href="slides/2_1.pdf">2.1 slides </a> <br><a href="slides/2_2.pdf">2.2 slides </a><br> <a href="slides/Jan22.pdf">Jan 22 slides </a> </td>
+    <td>1.2 and 1.3</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr class="active">
+    <td>F Jan 24</td>
+    <td>Studio: 2.1 and 2.2</td>
+    <td>
+      
+      </td>
+    <td>&nbsp;</td>
+    <td><a href=quizzes/q2solutions.pdf>Quiz: 1.2 and 1.3</a> </td>
+  </tr>
+
+  <tr class="new-week">
+    <td>M Jan 27</td>
+    <td>2.3 Matrix equations</td>
+    <td> <a href="slides/2_3.pdf">2.3 slides</a> <br> <a href="slides/Jan27.pdf">Jan 27 slides</a> <br>
+ </td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>W Jan 29</td>
+    <td>2.4 Solution sets and 2.5 Linear independence</td>
+    <td> <a href=slides/2_4.pdf>2.4 slides</a><br><a href=slides/2_5.pdf>2.5 slides</a><br><a href=slides/Jan29.pdf>Jan 29 slides</a> </td>
+    <td>2.1+2.2</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr class="active">
+    <td>F Jan 31</td>
+    <td>Studio: 2.3-2.5</td>
+    <td> 
+    </td>
+    <td>&nbsp;</td>
+    <td><a href=quizzes/q3solutions.pdf>Quiz: 2.1 and 2.2</a></td>
+  </tr>
+
+  <tr class="new-week">
+    <td>M Feb 3</td>
+    <td>2.5 Linear independence (continued)</td>
+    <td> <a href=slides/Feb3.pdf>Feb 3 slides</a> </td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>W Feb 5</td>
+    <td>2.6 Subspaces</td>
+    <td> <a href=slides/2_6.pdf>2.6 slides</a><br><a href=slides/Feb5.pdf>Feb 5 slides</a> </td>
+    <td>2.3, 2.4, 2.5 </td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr class="active">
+    <td>F Feb 7</td>
+    <td>Midterm 1: through 2.5</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td> <a href=exams/exam1.pdf>Midterm 1</a> <br> <a href=exams/exam1solutions.pdf>(solutions)</a></td>
+  </tr>
+  
+
+  <tr class="new-week">
+    <td>M Feb 10</td>
+    <td>2.7 and 2.9: Basis, dimension, Rank and basis theorems</td>
+    <td> <a href=slides/2_7.pdf>2.7 slides</a><br><a href=slides/2_9.pdf>2.9 slides</a><br><a href=slides/Feb10.pdf>Feb 10 slides</a></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>W Feb 12</td>
+    <td>3.1 Matrix transformations </td>
+    <td> <a href=slides/3_1.pdf>3.1 slides</a><br><a href=slides/Feb12.pdf>Feb 12 slides</a> </td>
+    <td>2.6</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr class="active">
+    <td>F Feb 14</td>
+    <td>Studio: 2.7, 2.9, 3.1</td>
+    <td> 
+      </td>
+    <td>&nbsp;</td>
+    <td>No quiz</td>
+  </tr>
+
+  <tr class="new-week">
+    <td>M Feb 17</td>
+    <td>3.2 One-to-one and onto transformations</td>
+    <td> <a href=slides/3_2.pdf>3.2 slides</a><br><a href=slides/Feb17.pdf>Feb 17 slides</a> </td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>W Feb 19</td>
+    <td>3.3 Linear transformations</td>
+    <td> <a href=slides/3_3.pdf>3.3 slides</a><br><a href=slides/Feb19.pdf>Feb 19 slides</a> </td>
+    <td>2.7+2.9, 3.1</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr class="active">
+    <td>F Feb 21</td>
+    <td>Studio: 3.2, 3.3</td>
+    <td> 
+    </td>
+    <td>&nbsp;</td>
+    <td><a href=quizzes/q4solutions.pdf>Quiz: 2.7, 2.9, 3.1</a> </td>
+  </tr>
+
+   <tr class="new-week">
+    <td>M Feb 24</td>
+    <td>3.4 and 3.5: Matrix multiplication and inverses</td>
+    <td> 
+</td>
+    <td> <a href=slides/3_4.pdf>3.4 slides</a><br><a href=slides/3_5.pdf>3.5 slides</a><br><a href=slides/Feb24.pdf>Feb 24 slides</a> </td>
+    <td>  </td> 
+  </tr>
+
+  <tr>
+    <td>W Feb 26</td>
+    <td>3.5 (continued) and 3.6: The invertible matrix theorem</td>
+    <td> <a href=slides/3_6.pdf>3.6 slides</a><br><a href=slides/Feb26.pdf>Feb 26 slides</a> </td>
+    <td>3.2 and 3.3</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr class="active">
+    <td>F Feb 28</td>
+    <td>Studio: 3.4-3.6</td>
+    <td> 
+    </td>
+    <td>&nbsp;</td>
+    <td><a href=quizzes/q5solutions.pdf>Quiz: 3.2 and 3.3</a> </td>
+  </tr>
+
+  <tr class="new-week">
+    <td>M Mar 2 </td>
+    <td>4.1 Determinants</td>
+    <td><a href=slides/4_1.pdf>4.1 slides</a><br><a href=slides/Mar2.pdf>Mar 2 slides</a></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+
+  <tr>
+    <td>W Mar 4</td>
+    <td>Review</td>
+    <td> <a href=slides/midterm2review.pdf>Midterm 2 Review slides</a> </td>
+    <td>3.4, 3.5, 3.6</td>
+    <td>&nbsp;</td>
+  </tr>
+  
+    <tr class="active">
+    <td>F Mar 6</td>
+    <td>Midterm 2: 2.6 through 3.6</td>
+    <td></td>
+    <td>&nbsp;</td>
+    <td> <a href=exams/exam2.pdf>Midterm 2</a> <br> <a href=exams/exam2solutions.pdf>(solutions)</a> </td>    
+  </tr>
+
+  <tr class="new-week">
+    <td>M Mar 9</td>
+    <td>4.2 and 4.3: Cofactor expansions, determinants, and volumes</td>
+    <td><a href=slides/4_2.pdf>4.2 slides</a> <br> <a href=slides/Mar9.pdf>Mar 9 slides</a> </td>
+    <td>&nbsp;</td>  
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>W Mar 11</td>
+    <td>5.1 Eigenvalues and eigenvectors</td>
+    <td> <a href=slides/5_1.pdf>5.1 slides</a> <br> <a href=slides/Mar11.pdf>Mar 11 slides</a> </td>
+    <td>Det. I and II</td>
+    <td>&nbsp;</td>
+  </tr>
+
+
+  <tr class="active">
+    <td>F Mar 13</td>
+    <td>Studio: 4.1 and 5.1</td>
+    <td> 
+   </td>
+    <td></td>
+    <td>No quiz</td>
+  </tr>
+
+    <tr class="new-week success">
+    <td>M Mar 16</td>
+  <td colspan=4 rowspan=3 style="vertical-align:middle;" class="text-center">
+      <em>Spring Break (no class)</em>
+    </td>
+  </tr>
+
+  <tr class="success">
+    <td>W Mar 28</td>
+  </tr>
+  
+  
+  <tr class="success">
+    <td>F Mar 20</td>
+  </tr>
+
+ 
+  <tr class="new-week success">
+    <td>M Mar 23</td>
+    <td>5.1 (continued) and 5.2 The characteristic polynomial
+       </td>
+    <td> <a href=slides/LightsOut.pdf>Lights Out</a><br><a href=slides/Mar23.pdf>Mar 23 slides</a></td>
+    <td>&nbsp;</td>
+    <td>Practice week</td>
+  </tr>
+
+  <tr class="new-week success">
+    <td>W Mar 25</td>     
+    <td>5.4 Diagonalization</td>
+    <td><a href=slides/R0.pdf>R<sub>0</sub></a><br><a href=slides/Mar25.pdf>Mar 25 slides</a> </td>
+    <td></td>
+    <td>Practice week</td>
+  </tr>
+
+  <tr class="new-week success">
+    <td>F Mar 27</td>
+    <td>Practice Studio</td>
+     <td> 
+     </td>
+    <td> </td>
+    <td>Practice week</td>
+  </tr>
+
+  <tr class="new-week">
+    <td>M Mar 30</td>
+    <td>5.2 The characteristic polynomial</td>
+    <td> <a href=slides/5_2.pdf>5.2 slides</a><br><a href=slides/Mar30.pdf>Mar 30 slides</a><br><a href=https://www.youtube.com/watch?v=iaXThwrZ04w>Song</a></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>W Apr 1</td>
+    <td>5.4 Diagonalization</td>
+    <td><a href=slides/5_4.pdf>5.4 slides</a><br><A href=slides/Apr1.pdf>Apr 1 slides</a><br><a href=https://www.youtube.com/watch?v=m8SNUCbopDA>Song</a></td>
+    <td>5.1</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>F Apr 3 </td>
+    <td>Studio: 5.1, 5.2, 5.4</td>
+    <td> </td>
+    <td> </td>
+    <td>Quiz: Ch. 4 and 5.1<br><a href=http://people.math.gatech.edu/~cjankowski3/20s/m1553/materials/q6_sols.pdf>(solutions)</a></td>
+  </tr>
+
+
+  <tr class="new-week">
+    <td>M Apr 6</td>
+    <td>5.5 Complex eigenvalues
+      </td>
+    <td> <a href=slides/5_5.pdf>5.5 slides</a><br><a href=slides/Apr6.pdf>Apr 6 slides</a><br><a href=slides/OHApr6.pdf>Office hour notes</a> <br><a href=https://www.youtube.com/watch?v=iD4_UHH5UG8>Song</a></td>
+    <td> </td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>W Apr 8</td>
+    <td>5.6 Stochastic matrices</td>
+    <td><a href=slides/5_6.pdf>5.6 slides</a><br><a href=slides/Apr8.pdf>Apr 8 slides</a>  </td>
+    <td>5.2 and 5.4</td>
+    <td>&nbsp;</td>
+  </tr>
+
+<tr class="active">
+    <td>F Apr 10</td>
+    <td>Studio 5.4-5.6</td>    
+    <td>
+      
+     </td>
+    <td></td>
+    <td>Quiz 5.2, 5.4 <br> (<a href=http://people.math.gatech.edu/~cjankowski3/20s/m1553/materials/quiz7_solutions.pdf>solutions</a>) </td>
+  </tr>
+
+
+  <tr class="new-week">
+    <td>M Apr 13</td>
+    <td>6.1 Dot products and orthogonality </td>    
+    <td> <a href=slides/6_1.pdf>6.1 slides</a><br><a href=slides/6_2.pdf>6.2 slides</a><br><a href=slides/Apr13.pdf>Apr 13 slides</a>
+</td> 
+    <td>&nbsp;</td>
+    <td> </td>
+  </tr>
+
+  <tr>
+    <td>W Apr 15</td>
+    <td>6.2 &amp; 6.3 Orthogonal projections</td>
+    <td> <a href=slides/6_3.pdf>6.3 slides</a><br><a href=slides/Apr15.pdf>Apr 15 slides</a><br><a href=https://www.youtube.com/watch?v=PRzt2rqRj_I>Song</a></td>
+    <td>5.5 and 5.6</td>
+    <td>&nbsp;</td>
+    </tr>
+
+<tr class="active">
+    <td>F Apr 17</td>
+    <td>Midterm 3: 4.1 through 5.6</td>    
+    <td>
+      
+     </td>
+    <td> </td>
+    <td>Midterm 3</td>
+  </tr>
+
+  <tr class="new-week">
+    <td>M Apr 20</td>
+    <td> 6.5 Least squares</td>
+    <td> <a href=slides/6_5.pdf>6.5 slides</a> <br> <a href=slides/Apr20.pdf>Apr 20 slides</a></td>
+    <td> </td>
+   <td> </td>
+  </tr>
+  
+  <tr class="new-week">
+    <td>Tue Apr 28</td>
+    <td colspan=5 class="text-center danger">
+      <em> Final Exam for ALL SECTIONS of Math 1553:
+        6:00pm&ndash;8:50pm (location to be determined)</em></td>
+  </tr>
+
+</table>
+
+
+
+  <script type="text/javascript" src="./index_files/jquery.min.js"></script>
+  <script type="text/javascript" src="./index_files/bootstrap.min.js"></script>
+
+
+
+
+</body></html>

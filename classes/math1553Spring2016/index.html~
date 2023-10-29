@@ -1,0 +1,746 @@
+<html>
+<head>
+<title>Math 1553 Home Page</title>
+<!--<base href="http://www.math.gatech.edu/~dmargalit7/classes/math1553/">-->
+<base target = content>
+</head>
+<body link=#000000 vlink=#000000>
+
+
+<table cellpadding=20 width=650><tr>
+<td valign=top align=center>
+<font face=Arial size=+3 color=#cc9900>
+<b>Math 1553</b></font><br>
+<font face=arial size="+2"color=#cc9900>Introduction to Linear Algebra</font>
+<br><font face=arial size="+0"color=#cc9900>Sections H &#38; J<br>Spring 2016
+</font><br>
+<img src=../../gatech.jpg>
+</td>
+<td align=center>
+<img src=sheep.jpg width=175>
+</td>
+</tr>
+<tr><td colspan=2 align=center>
+
+<!--
+<table border=1 cellpadding=25>
+
+<tr><td>
+<font face=Arial size=-1>
+News: Welcome to Math 1553!
+</font>
+</td>
+</tr>
+</table>
+-->
+
+</td>
+</tr>
+</table>
+
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+2" color=#cc9900>
+<b>Course Objectives</b>
+</font><p>
+
+This is a basic, first course in linear algebra.  The main goals are to understand matrices and systems of linear equations, to learn to solve problems from a mathematical perspective, and to prepare for the many applications of linear algebra in other science and engineering courses.  Specifically objectives include:
+<ul>
+<li>To learn to solve systems of linear equations through the use of matrices, including the methods of row reduction, inverse matrices, and LU decompositions.
+<li>To understand the set of all solutions of a system of linear equations - with varying parameters - specifically through the parametric forms for solutions, the geometry of linear transformations, the characterizations of invertible matrices, and determinants.
+<li>To learn to solve eigenvalue problems through the use of the characteristic polynomial.
+<li>To use the computation of eigenvalues and eigenvectors to understand the structure of a linear transformation, for instance by diagonalization.
+<li>To understand orthogonal projections and how they are used to find best-fit solutions to systems of linear equations that have no actual solution.
+</ul>
+
+<p><p>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+2" color=#cc9900>
+<b>Instructor</b>
+</font><p>
+
+<p>
+
+Prof. Dan Margalit<br>
+Skiles 244<br>
+(404) 894-2715<br>
+<img src=http://www.math.gatech.edu/~dmargalit7/email.gif>
+
+<p><p>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+2" color=#cc9900>
+<b>Learning Assistants</b>
+</font><p>
+
+Section H: Baishen Huang and Shivang Sullere<br>
+Section J: Scott Guan, Matthew Krumwiede, and Yashvi Shah
+
+<p><p>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+2" color=#cc9900>
+<b>Class Meetings</b>
+</font><p>
+
+Mondays, Wednesdays, and Fridays 11:05-11:55 (Section H) and 1:05-1:55 (Section J) in Clough 144.
+
+<p><p>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+2" color=#cc9900>
+<b>Book</b>
+</font><p>
+
+<img src=lay.jpg width=150>
+
+<p>
+
+Students with a Pearson code can access the text via <a href=mymathlab.com>MyMathLab</a>.  The course id is margalit31057.  Note: While the Pearson code is not required for this course, you are likely to need the code for other Math courses you take at GaTech, and so most likely buying the code now will save you money in the long run.
+
+<p><p>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+2" color=#cc9900>
+<b>Office Hours</b>
+</font><p>
+
+Prof. Margalit, Skiles 244 or 236, Tue 2-3, Wed 2-3, and by appointment<p>
+Scott Guan, Skiles 230, Mon 12-1<br>
+Yashvi Shah, Skiles 230, Mon 2-3<br>
+Baishen Huang, Skiles 230, Wed 4-5<br>
+Matt Krumwiede, Skiles 230, Thu 3-4<br>
+Shivang Sullere, Skiles 230, Tue 5-6
+
+<p><p>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+2" color=#cc9900>
+<b>Math Lab</b>
+</font><p>
+
+Drop-in help, Clough 280.  The Math Lab will be strictly devoted to Math 1553 5:00-6:00 Monday through Thursday and 11:00-12:00 on Tuesdays and Thursdays.  The Math Lab is also open for all classes Mondays and Wednesdays 11-5, and Tuesdays and Thursdays 12-5.  Our Learning Assistants will be in the Math Lab at the following times:
+
+<p>
+
+Matt Krumwiede: Tuesday 11-12<br>
+Scott Guan: Tuesday 5-6<br>
+Baishen Huang: Thu 11-12<br>
+Yashvi Shah: Thu 5-6<br>
+Shivang Sullere: Thu 5-6
+
+<p><p>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+2" color=#cc9900>
+<b>Homework</b>
+</font><p>
+
+There are three forms of homework.
+<ul>
+<li>  Most homework will be assigned on WebWork, an online homework system accessible via TSquare.  Online assignments will be due on Thursdays at 11:59 pm.  Note that each week's assignment will consist of problems from 1-2 sections of the text (so they will look like multiple assignments online).
+<li>The second form of homework will be written, and will consist of one problem per week, similar to an exam problem, and due on Friday at the start of class.
+<li>The third type of homework will consist of two short papers on applications of linear algebra.  The lowest homework grade will be dropped.
+</ul>
+
+<p><p>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+2" color=#cc9900>
+<b>Quizzes</b>
+</font><p>
+
+Quizzes will be given during each Friday that has no exam (except the first).  Quizzes will be based on the homework and additionally serve as practice for exams.  The lowest quiz grade will be dropped.
+
+<p><p>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+2" color=#cc9900>
+<b>Participation</b>
+</font><p>
+
+The course will use Piazza, available via TSquare, to perform classroom polling.  Student scores are based solely on participation.  The three lowest participation scores will be dropped.
+
+<p><p>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+2" color=#cc9900>
+<b>Schedule</b>
+</font><p>
+
+<table border=1 cellpadding=5 width=100%>
+
+<tr>
+<td>Week</td>
+<td>Date</td>
+<td>Sections</td>
+<td>Topics and Course Notes</td>
+<td>WebWork</td>
+<td>Homework</td>
+<td>Quiz/Exam</td>
+</tr>
+
+<tr>
+<td>1</td>
+<td>Jan 11</td>
+<td></td>
+<td><a href=notes/Jan11.pdf>Overview</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+
+<tr>
+<td></td>
+<td>Jan 13</td>
+<td>1.1</td>
+<td><a href=notes/Jan13.pdf>Linear systems</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Jan 15</td>
+<td>1.2</td>
+<td><a href=notes/Jan15.pdf>Row reduction</a></td>
+<td>Warmup</td>
+<td></td>
+<td></td>
+</tr>
+
+
+<tr>
+<td>2</td>
+<td>Jan 18</td>
+<td colspan = 4 align=center><i>Martin Luther King Day</i></td>
+<td></td>
+</tr>
+
+
+<tr>
+<td></td>
+<td>Jan 20</td>
+<td>1.3</td>
+<td><a href=notes/Jan20.pdf>Vector equations</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Jan 22</td>
+<td colspan = 4 align=center><i>Snow Day</i></td>
+<td></td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>Jan 25</td>
+<td>1.4</td>
+<td><a href=notes/Jan25.pdf>Matrix equations</a></td>
+<td>1.1,1.2</td>
+<td><a href=hw1solutions.pdf>Written Homework 1</a></td>
+<td><a href=q1solutions.pdf>Quiz 1</a>: 1.1,1.2</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Jan 27</td>
+<td>1.5</td>
+<td><a href=notes/Jan27.pdf>Linear systems</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Jan 29</td>
+<td></td>
+<td></td>
+<td>1.3, 1.4</td>
+<td><a href=hw2solutions.pdf>Written Homework 2</a></td>
+<td><a href=q2solutions.pdf>Quiz 2: 1.3,1.4</a></td>
+</tr>
+
+<tr>
+<td>4</td>
+<td>Feb 1</td>
+<td>1.7</td>
+<td><a href=notes/Feb1.pdf>Linear independence</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Feb 3</td>
+<td>1.8</td>
+<td><a href=notes/Feb3.pdf>Linear transformations</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+
+<tr>
+<td></td>
+<td>Feb 5</td>
+<td></td>
+<td><a href=notes/Feb5.pdf>Worksheet 1</a></td>
+<td>1.5</td>
+<td><a href=hw3solutions.pdf>Written Homework 3</a></td>
+<td><a href=q3solutions.pdf>Quiz 3</a>: 1.5</td>
+</tr>
+
+
+<tr>
+<td>5</td>
+<td>Feb 8</td>
+<td>1.9</td>
+<td><a href=notes/Feb8.pdf>Matrix of a linear transformation</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Feb 10</td>
+<td></td>
+<td><a href=notes/Feb10.pdf>Review</a></td>
+<td></td>
+<td></td>
+<td><a href=practice1.pdf>Practice 1</a></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Feb 12</td>
+<td>Chapter 1</td>
+<td>Linear equations</td>
+<td>1.8,1.9</td>
+<td></td>
+<td><font color=red><a href=midterm1solutions.pdf>Exam 1</a></font></td>
+</tr>
+
+<tr>
+<td>6</td>
+<td>Feb 15</td>
+<td>2.1,2.2</td>
+<td><a href=notes/Feb15.pdf>Matrix Algebra</a> / <a href=notes/Feb15a.pdf>Inverses</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Feb 17</td>
+<td>2.3</td>
+<td><a href=notes/Feb17.pdf>Invertible matrices</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Feb 19</td>
+<td></td>
+<td><a href=notes/Feb19.pdf>Worksheet 2</a></td>
+<td>2.1, 2.2</td>
+<td><a href=hw4.pdf>Written Homework 4</a></td>
+<td><a href=q4solutions.pdf>Quiz 4</a>: 2.1, 2.2</td>
+</tr>
+
+<tr>
+<td>7</td>
+<td>Feb 22</td>
+<td>2.5</td>
+<td><a href=notes/Feb22.pdf>LU decomposition</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Feb 24</td>
+<td>2.8</td>
+<td><a href=notes/Feb25.pdf>Subspaces</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Feb 26</td>
+<td></td>
+<td></td>
+<td>2.3, 2.5</td>
+<td><a href=hw5solutions.pdf>Written Homework 5</a></td>
+<td><a href=q5solutions.pdf>Quiz 5</a>: 2.3, 2.5</td>
+</tr>
+
+<tr>
+<td>8</td>
+<td>Feb 29</td>
+<td>2.9</td>
+<td><a href=notes/Feb29.pdf>Dimension and rank</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+
+<tr>
+<td></td>
+<td>Mar 2</td>
+<td>3.1</td>
+<td><a href=notes/Mar2.pdf>Determinants</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+
+<tr>
+<td></td>
+<td>Mar 4</td>
+<td></td>
+<td></td>
+<td>2.8, 2.9</td>
+<td><a href=hw6solutions.pdf>Written Homework 6</a></td>
+<td><a href=q6solutions.pdf>Quiz 6</a>: 2.8, 2.9</td>
+</tr>
+
+<tr>
+<td>9</td>
+<td>Mar 7</td>
+<td>3.2</td>
+<td><a href=notes/Mar7.pdf>Properties of determinants</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Mar 9</td>
+<td></td>
+<td><a href=notes/Mar9blank.pdf>Review</a></td>
+<td></td>
+<td></td>
+<td><a href=practice2.pdf>Practice 2</a></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Mar 11</td>
+<td>Chapters 2-3</td>
+<td>Matrix algebra</td>
+<td>3.1, 3.2</td>
+<td></td>
+<td><font color=red><!--<a href=midterm2solutions.pdf>Exam 2</a>-->Exam 2</font></td>
+</tr>
+
+<tr>
+<td>10</td>
+<td>Mar 14</td>
+<td>5.1</td>
+<td><a href=notes/Mar14.pdf>Eigenvectors</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Mar 16</td>
+<td>5.2</td>
+<td><a href=notes/Mar16.pdf>Characteristic polynomial</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Mar 18</td>
+<td></td>
+<td><a href=Mar18.pdf>Worksheet 6</a></td>
+<td>5.1</td>
+<td><a href=project.pdf>Written Homework 7</a></td>
+<td><a href=q7solutions.pdf>Quiz 7</a>: 5.1</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Mar 21</td>
+<td colspan = 4 align=center><i>Spring break</i></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Mar 23</td>
+<td colspan = 4 align = center><i>Spring break</i></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Mar 25</td>
+<td colspan = 4 align=center><i>Spring break</i></td>
+<td></td>
+</tr>
+
+
+
+<tr>
+<td>11</td>
+<td>Mar 28</td>
+<td>5.3</td>
+<td><a href=notes/Mar28.pdf>Diagonalization</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Mar 30</td>
+<td>5.5</td>
+<td><a href=notes/Mar30.pdf>Complex eigenvalues</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td><a href=notes/Apr1blank.pdf>April 1</a></td>
+<td></td>
+<td></td>
+<td>5.2, 5.3</td>
+<td><a href=hw8solutions.pdf>Written Homework 8</a></td>
+<td><a href=q8solutions.pdf>Quiz 8</a>: 5.2,5.3</td>
+</tr>
+
+<tr>
+<td>12</td>
+<td>Apr 4</td>
+<td>5.5</td>
+<td><a href=notes/Apr4.pdf>Complex eigenvalues</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Apr 6</td>
+<td></td>
+<td><a href=notes/Apr6.pdf>Review</a></td>
+<td></td>
+<td></td>
+<td><a href=practice3.pdf>Practice 3</a></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Apr 8</td>
+<td>Chapter 5</td>
+<td>Eigenvectors</td>
+<td>5.5</td>
+<td></td>
+<td><font color=red><a href=midterm3solutions.pdf>Exam 3</a>Exam 3</a></font></td>
+</tr>
+
+<tr>
+<td>13</td>
+<td>Apr 11</td>
+<td>6.1</td>
+<td><a href=notes/Apr11.pdf>Inner products</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Apr 13</td>
+<td>6.2,6.3</td>
+<td><a href=notes/Apr13.pdf>Orthogonal projections</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+
+<tr>
+<td></td>
+<td>Apr 15</td>
+<td><a href=notes/Apr15blank.pdf>Worksheet 9</a></td>
+<td></td>
+<td>6.1, 6.2</td>
+<td><a href=hw9solutions.pdf>Written Homework 9</a></td>
+<td><a href=q9solutions.pdf>Quiz 9</a>: 6.1, 6.2</td>
+</tr>
+
+
+<tr>
+<td>14</td>
+<td>Apr 18</td>
+<td>6.4</td>
+<td><a href=notes/Apr18.pdf>Gram-Schmidt and QR</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Apr 20</td>
+<td>6.5</td>
+<td><a href=notes/Apr20.pdf>Method of least squares</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+
+<tr>
+<td></td>
+<td>Apr 22</td>
+<td><a href=notes/Apr22blank.pdf>Worksheet 10</a></td>
+<td></td>
+<td>6.3, 6.4</td>
+<td><a href=hw10.pdf>Written Homework 10</a></td>
+<td><!--<a href=q10solutions.pdf>Quiz 10</a>-->Quiz 10: 6.3, 6.4</td>
+</tr>
+
+<tr>
+<td>15</td>
+<td>Apr 25</td>
+<td></td>
+<td><a href=notes/final_review.pdf>Review</a></td>
+<td>6.5</td>
+<td></td>
+<td><a href=practicefinal.pdf>Practice Final</a></td>
+</tr>
+
+<tr>
+<td>16</td>
+<td>May 2</td>
+<td>Cumulative</td>
+<td>Linear algebra</td>
+<td></td>
+<td></td>
+<td><font color=red>Final Exam Sec J</font>, 2:50-5:40</td>
+</tr>
+
+<tr>
+<td></td>
+<td>May 4</td>
+<td>Cumulative</td>
+<td>Linear algebra</td>
+<td></td>
+<td></td>
+<td><font color=red>Final Exam Sec H</font>, 8:00-10:50</td>
+</tr>
+
+
+</table>
+
+<p><p>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+2" color=#cc9900>
+<b>Grading</b>
+</font><p>
+
+Final grades will be computed according to the following scale:
+
+<p><table>
+<tr><td width=10%></td><td><table border=1 cellpadding=5>
+<tr><td>Participation</td><td>5&#37;</td></tr>
+<tr><td>Quizzes</td><td>10&#37;</td></tr>
+<tr><td>Homework</td><td>10&#37;</td></tr>
+<tr><td>Midterms</td><td>45&#37;</td></tr>
+<tr><td>Final Exam</td><td>30&#37;</td></tr>
+</table>
+</td></tr></table>
+The final exam score may be used to replace half of the lowest midterm score.
+
+<p><p>
+
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+2" color=#cc9900>
+<b>Absences</b>
+</font><p>
+
+As a general rule, absences are excused for official Georgia Tech business only.  I reserve the right to ask for a letter from the Dean of Students.  If you have an official excuse for absence for an exam, you will be excused from that exam without penalty, meaning that your other exams will count for a larger portion of your grade.
+
+<p><p>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+2" color=#cc9900>
+<b>Devices</b>
+</font><p>
+
+Please do not use electronic devices during class for activities that are not related to class.
+
+<p><p>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+2" color=#cc9900>
+<b>Resources</b>
+</font><p>
+
+<font color=white>---</font><a href=http://people.math.gatech.edu/~dmargalit7/classes/math1553Fall2015>Math 1553 HP Fall 2015</a>
+
+<p>
+
+<font color=white>---</font><a href=Math1553NotesFall2015.pdf>Course notes Fall 2015</a>
+
+<p>
+
+<font color=white>---</font><a href=http://people.math.gatech.edu/~dmargalit7/classes/math1553/revsp16.pdf>Prof. Grodzinsky's Review Sheet</a>
+
+<p>
+
+<font color=white>---</font><a href=https://www.dropbox.com/s/jcqzygk6pfxosaq/determinants.pdf?dl=0>Determinants</a>
+
+<p>
+
+<font color=white>---</font><a href=http://www.wright.edu/~chaocheng.huang/lecture/mth255/mth255lect13.pdf>Complex Eigenvalues and Factorization</a>
+
+<p>
+
+<font color=white>---</font><a href=http://t-square.gatech.edu target=tsquare>T-Square</a>
+
+<p>
+
+<font color=white>---</font><a href=http://www.math.gatech.edu/academics/undergraduate/tutors-and-labs target=mathlab>Math Lab</a>, in Clough 280.
+
+
+<p>
+
+<font color=white>---</font><a href=http://www.success.gatech.edu/ target=success>Center for Academic Success</a>, Drop in tutoring and one-on-one tutoring
+
+<p>
+
+<font color=white>---</font><a href=http://www.adapts.gatech.edu target=adapts>ADAPTS</a>, Disabilities Services Program
+
+<p>
+
+<font color=white>---</font><a href=http://www.honor.gatech.edu target=honor>Honor code</a>
+
+<p>
+
+<iframe width="100%"
+    style="width:1px;padding:0 !important; height:1px"
+    frameborder="0"
+    marginwidth="0"
+    marginheight="0"
+    scrolling="auto"
+    src="https://webwork.math.gatech.edu/casgrab">
+</iframe>
+
+</body>
+</html>
