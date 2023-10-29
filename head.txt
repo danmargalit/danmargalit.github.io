@@ -6,9 +6,8 @@ xmlns:og="http://ogp.me/ns#">
 
     <meta property="og:title" content=“Dan Margalit“/>
     <meta property="og:type" content="website"/>
-    <meta property="og:url" content="http://people.math.gatech.edu/~dmargalit7"/>
-    <meta property="og:image" content="http://www.math.gatech.edu/~margalit/dm.jpg"/>
-    <meta property="og:site_name" content="GaTech Math"/>
+    <meta property="og:url" content="https://danmargalit.github.io/"/>https://danmargalit.github.io/dm.jpg"/>
+    <meta property="og:site_name" content="Vanderbilt Math"/>
     <meta property="og:description"
           content=“Dan Margalit’s web site”/>
 
