@@ -11,10 +11,10 @@ xmlns:og="http://ogp.me/ns#">
     <meta property="og:description"
           content=“Dan Margalit’s web site”/>
 
-<!--<style type="text/css">
+<style type="text/css">
 	p{font-family: Geneva;}
 	body{font-family: Geneva, Tahoma, Verdana, sans-serif;}
-</style>-->
+</style>
 
 <style href>a {text-decoration: none; font-family:Geneva} </style>
 
