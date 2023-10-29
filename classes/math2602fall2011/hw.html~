@@ -1,0 +1,258 @@
+<html>
+<body>
+
+<center>
+<h2>Homework and Quizzes</h2>
+</center>
+
+<p>
+
+<center>
+<table border=1 cellpadding=5>
+<tr>
+<td></td>
+<td>Date</td>
+<td>Topics</td>
+<td>Text Sections</td>
+<td>Homework problems</td>
+<td>Solutions</td>
+</tr>
+
+<tr>
+<td>Quiz 1</td>
+<td>Aug 31</td>
+<td>Induction</td>
+<td>Part I, 5.1</td>
+<td>page 156 &#35; 4(d), 4(g), 4(k), 6(c), 6(e),<br> 9(d), 9(e), 13, 14, 15, 34</td>
+<td><a href=quiz1solutions.pdf>Quiz 1</a></td>
+</tr>
+
+<tr>
+<td>Quiz 2</td>
+<td>Sep 7</td>
+<td>Recurrence relations</td>
+<td>Part I, 5.2-5.4</td>
+<td>page 167 &#35; 1, 10, 12, 23, 27, 45, 48<br>
+page 174 &#35; 6, 8, 11, 13, 16, 18, 23, 24<br>
+page 181 &#35; 1, 2, 8, 9, 10, 14
+<td>
+<a href=quiz2solutions.pdf>Quiz 2</a></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Complexity</td>
+<td>Part I, 8.1-8.2</td>
+<td>page 264 &#35; 7, 8, 12, 13, 14, 19, 20
+</td>
+<td>
+</tr>
+
+<tr>
+<td><font color=red>Exam 1</font></td>
+<td>Sep 14</td>
+<td></td>
+<td>Part I: 5.1-5.4, 8.1-8.2</td>
+<td>
+<td><a href=exam1solutions.pdf>Exam 1</a></td>
+</tr>
+
+<tr>
+<td>Quiz 3</td>
+<td>Sep 21</td>
+<td>Counting</td>
+<td>Part I, 6.1-6.3</td>
+<td>page 190 &#35; 3, 5, 6, 10, 12, 15<br>
+page 198 &#35; 4, 6, 10, 16, 17, 21<br>
+page 202 &#35; 2,3,6,7,12,13,16, 23, 27</td>
+<td><a href=quiz3solutions.pdf>Quiz 3</a>
+</td>
+</tr>
+
+<tr>
+<td>Quiz 4</td>
+<td>Sep 28</td>
+<td>Permutations and<br>Combinations</td>
+<td>Part I, 7.1-7.2</td>
+<td>page 209 &#35; 4,6,7,8,11,15,17<br>
+page 215 &#35; 2,7,9,12,16,7,18<br>
+</td>
+<td><a href=quiz4solutions.pdf>Quiz 4</a></td>
+</tr>
+
+<tr>
+<td>Quiz 5</td>
+<td>Oct 5</td>
+<td>Probability</td>
+<td>Part I, 7.3-7.4</td>
+<td>page 222 &#35; 3,4,6,10,12,14,18,24,25,27<br>
+page 230 &#35; 2,4,6,8,10,12,16,19,22<br>
+</td>
+<td><a href=quiz5solutions.pdf>Quiz 5</a></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Counting topics</td>
+<td>Part I, 7.5-7.7</td>
+<td>
+page 235 &#35; 5,6,7,8,9,10,11,14 <br>
+page 239 &#35; 2,5,6,7 <br>
+page 244 &#35; 5,7,16,18,23 
+</td>
+<td>
+</tr>
+
+<tr>
+<td><font color=red>Exam 2</font></td>
+<td>Oct 12</td>
+<td></td>
+<td>Part I: 6.1-6.3, 7.1-7.7</td>
+<td>
+<td><a href=exam2solutions.pdf>Exam 2</a></td>
+</tr>
+
+<tr>
+<td>Quiz 6</td>
+<td>Oct 19</td>
+<td>Graphs</td>
+<td>Part I, 9.1-9.3</td>
+<td>page 287 &#35; 7,8,9,10<br>
+page 294 &#35; 2,4,8,12,14,18,20,21,25,26<br>
+page 299 &#35; 1,3,4,9,10 
+</td>
+<td><a href=quiz6solutions.pdf>Quiz 6</a></td>
+</tr>
+
+<tr>
+<td>Quiz 7</td>
+<td>Oct 26</td>
+<td>Cycles</td>
+<td>Part I, 10.1-10.2</td>
+<td>page 309 &#35; 3,4,7,9,11,12,13,17<br>
+page 317 &#35; 2,3,4,5,11,12,13,14
+</td>
+<td><a href=quiz7solutions.pdf>Quiz 7</a></td>
+</tr>
+
+<tr>
+<td>Quiz 8</td>
+<td>Nov 1</td>
+<td>Short paths</td>
+<td>Part I, 10.4, 12.1</td>
+<td>page 333 &#35; 3,4,6,7,17,18<br>
+page 377 &#35; 2,4,9,10,14,16,20,23,24
+</td>
+<td><a href=quiz8solutions.pdf>Quiz 8</a></td>
+</tr>
+
+<tr>
+<td>Quiz 9</td>
+<td>Nov 9</td>
+<td>Trees</td>
+<td>Part I, 12.1-12.3</td>
+<td>page 377 &#35; 4,9,10,14,16,20,24<br>
+page 383 &#35; 2,6,11,15,17<br>
+page 390 &#35; 1,2,3
+</td>
+<td><a href=quiz9solutions.pdf>Quiz 9</a></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Planar graphs and colorings</td>
+<td>Part I, 13.1, 13.2</td>
+<td>page 417 &#35; 1,2,4,5,6,21,25<br>
+page 425 &#35; 2,3,4,5,17,23,26
+</td>
+<td><!--<a href=quiz9solutions.pdf>Quiz 9</a>--></td>
+</tr>
+
+<tr>
+<td><font color=red>Exam 3</font></td>
+<td>Nov 16</td>
+<td></td>
+<td>Part I: 9.1-9.3, 10.1-10.2,10.4,<br>12.1-12.3,13.1-13.2</td>
+<td>
+<td><a href=exam3solutions.pdf>Exam 3</a></td>
+</tr>
+
+<tr>
+<td>Quiz 10</td>
+<td>Nov 21</td>
+<td>Solving Linear Systems</td>
+<td>Part III, 2.1-2.2</td>
+<td>page 94 &#35; 2,4,8,9,10<br>
+page 113 &#35; 6,10,12,14,16,22,26,28,30 
+</td>
+<td><a href=quiz10solutions.pdf>Quiz 10</a></td>
+</tr>
+
+<tr>
+<td>Quiz 11</td>
+<td>Nov 30</td>
+<td>Eigenvalues and Eigenvectors</td>
+<td>Part III, 7.1</td>
+<td>page 450 &#35; 2,4,6,8,11,12,21,22,30,31,33
+</td>
+<td><a href=quiz11solutions.pdf>Quiz 11</a></td>
+</tr>
+
+<tr>
+<td><font color=red></font></td>
+<td></td>
+<td>Diagonalization</td>
+<td>Part III, 7.2</td>
+<td>page 461 &#35; 2,6,8,10,12,14,16,18,19,20
+</td>
+<td>
+<td><!--<a href=quiz10solutions.pdf>Quiz 10</a>--></td>
+</tr>
+
+<tr>
+<td><font color=red></font></td>
+<td></td>
+<td>Linear programming</td>
+<td>Part II</td>
+<td>page 41 &#35; 1-7,10
+</td>
+<td>
+<td><!--<a href=quiz10solutions.pdf>Quiz 10</a>--></td>
+</tr>
+
+<tr>
+<td valign=top><font color=red><br>Final Exam</font></td>
+<td valign=top><br>Dec 13</td>
+<td></td>
+<td valign=top><br>Part I, 5,6,7,8.1-8.2,9,10.1-2,<br>10.4,12.1-12.3,13.1-13.2<br>
+Part II<br>
+Part III</td>
+<td>Suggested<sup>*</sup> review problems:<p>
+page 182 &#35; 1,3,4,7,21,23,24,25,26,27<br>
+page 204 &#35; 2,5,6,8,10,11<br>
+page 245 &#35; 2,4,5,6,7,8,10,13,15,20,26<br>
+page 280 &#35; 4,7,8,9<br>
+page 301 &#35; 1,4,5,6,7,11,12,13,15,16,18<br>
+page 336 &#35; 1,2,6,7,8,9,10,14,15,19,23,25,26,27<br>
+page 409 &#35; 1,3,4,5,7,8,11,12,19,23,25<br>
+page 435 &#35; 1,2,3,6,8,9,10,11,12,14,15<br>
+page 94 &#35; 2,4,8,9,10<br>
+page 113 &#35; 6,10,12,14,16,22,26,28,30<br>
+page 450 &#35; 2,4,6,8,11,12,21,22,30,31,33<br>
+page 461 &#35; 2,6,8,10,12,14,16,18,19,20<br>
+page 41 &#35; 1-7,10
+</td>
+<td><!--<a href=finalsolutions.pdf>Final Exam</a>--></td>
+</tr>
+
+</table>
+
+<p>
+
+<sup>*</sup>Disclaimer: The suggested review problems are nothing more than suggested review problems.  <br>Specific problems on the final exam may or may not resemble these review problems.
+
+</body>
+</html>

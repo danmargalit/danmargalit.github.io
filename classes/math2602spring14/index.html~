@@ -1,0 +1,653 @@
+<html>
+<head>
+<title>Math 2602 Home Page</title>
+<base href="http://www.math.gatech.edu/~dmargalit7/classes/math2602spring14/">
+<base target = content>
+</head>
+<body link=000000 vlink=000000>
+
+<!--
+<FONT FACE="Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+2" color=cc9900>
+Math 2602
+</font>
+
+<br>
+
+<font color=white>---</font>
+<a href=home.html>Home</a>
+<font color=white>---</font>
+<a href=info.html>General Information</a>
+<font color=white>---</font>
+<a href=hw.html>Homework and Quizzes</a>
+<font color=white>---</font>
+<a href=resources.html>Other Resources</a>
+<font color=white>---</font>
+</font>
+<p>-->
+
+<table cellpadding=20 width=650><tr>
+<td valign=top align=center>
+<font face=Arial color=cc9900>
+<h1>Math 2602</h1></font>
+<font face=arial color=cc9900><h3>Linear and Discrete Mathematics</h3>
+<h4>Section F, Spring 2014</h4>
+</font>
+<img src=../../gatech.jpg>
+</td>
+<td align=center>
+<img src=pigeon.jpg width=300>
+</td>
+</tr>
+<tr><td colspan=2 align=center>
+
+<!--
+<table border=1 cellpadding=25>
+
+<tr><td>
+<font face=Arial size=-1>
+News: Welcome to Math 2602!
+</font>
+</td>
+</tr>
+</table>
+-->
+
+</td>
+</tr>
+</table>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Handout</h2>
+</font>
+
+Click <a href=syllabus.pdf>here</a> for the handout from the first day.
+
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Instructors</h2>
+</font>
+
+Prof. Dan Margalit
+
+<p>
+
+TAs: Rebecca Winarski, J.D. Walsh
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2></h2>
+</font>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Book</h2>
+</font>
+
+<img src=gp.jpg width=150>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Class Meetings</h2>
+</font>
+
+<ul>
+<li>Lecture: Tuesday and Thursday, 12:05-1:25, CULC 102.
+<li>Section F1 (Winarski): Monday and Wednesday 1:05-1:55, CULC 423.
+<li>Section F2 (Walsh): Monday and Wednesday 1:05-1:55, CULC 129.
+</ul>
+
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Office Hours</h2>
+</font>
+
+<ul>
+<li>Prof. Margalit: Monday 3-4, Tuesday and Thursday after class, and by appoinment in Skiles 244.
+<li>Rebecca Winarski: Wednesday 12-1, Skiles 152
+<li>J.D. Walsh: Monday 12-1, Skiles 149
+</ul>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Course Objectives</h2>
+</font>
+
+The main goals of this course are to learn how to prove mathematical statements, to solve mathematical problems, and to apply and analyze known theorems and algorithms in the subject areas of combinatorics, number theory, and graph theory.
+
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>T-Square</h2>
+</font>
+
+The course <a href=http://t-square.gatech.edu target=tsquare>T-Square</a>
+ site includes links to the course Grade book, Piazza site, and Announcements.
+
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Clickers</h2>
+</font>
+
+The course will use Turning Point clickers.  Student scores are based solely on their response rates.  It is the student's responsibility to maintain a working clicker and to have it registered on T-Square.
+
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Piazza</h2>
+</font>
+
+Piazza will be available on T-Square as an optional tool for online discussions about the course material.
+
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Homework</h2>
+</font>
+
+Homework will primarily assigned via <a href=https://courses1.webwork.maa.org/webwork2/gatech-math2602/ target=webwork>WebWork</a>.  It is generally due on Tuesday night at midnight and covers the previous week's material.  Multiple attempts are usually allowed.  Some weeks, there will be problems that are not graded, and hence do not count towards the final score.
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Quizzes</h2>
+</font>
+
+Quizzes, again assigned via <a href=https://courses1.webwork.maa.org/webwork2/gatech-math2602/ target=webwork>WebWork</a>, are given before each class meeting, and are intended to check comprehension of the reading/viewing material.  Multiple attempts are not allowed on the questions.  For the quizzes you will be learning new material that has not yet been covered in class.
+
+<p>
+
+Write to <a href=malto:rwinarski@math.gatech.edu>Becca</a> if you still need to sign up for a WebWork account.  Send your gtlogin, recitation number (1 or 2), your email address, and your full name.
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Reading, Viewing, Notes, Schedule, and Exams</h2>
+</font>
+
+
+
+<table border=1 cellpadding=3 width=100%>
+<tr>
+<td align=center>Date</td>
+<td align=center>Topics</td>
+<td align=center>Text Sections</td>
+<td align=center>Videos</td>
+<td align=center>Notes</td>
+</tr>
+
+<tr>
+<td>Jan 7</td>
+<td>Statements</td>
+<td>0.1</td>
+<td>
+<a href=http://www.youtube.com/watch?v=UuETUEJo0rk&feature=c4-overview-vl&list=PL2419488168AE7001>Statements</a><br>
+<a href=http://www.youtube.com/watch?v=wEyRz5H6RIU>Converse / contrapositive</a><br>
+<a href=http://www.youtube.com/watch?v=PG6zHqt9PsI&list=PL2419488168AE7001&index=11>Negation</a><br>
+<a href=http://www.youtube.com/watch?v=eUDz2Cgoty0>Negation of conditional</a><br>
+<a href=http://www.youtube.com/watch?v=6qTzP03waOA&list=PL2419488168AE7001&index=27>Quantifiers</a>
+</td>
+<td><a href=Meeting1.pdf target=lecture>Meeting 1</a><!--<a href=quiz0solutions.pdf>Quiz 0</a>--></td>
+</tr>
+
+
+<tr>
+<td>Jan 9</td>
+<td>Proofs</td>
+<td>0.2</td>
+<td>
+<a href=http://www.youtube.com/watch?v=0vIj582-rbQ&index=31&list=PL2419488168AE7001>Direct proof</a><br>
+<a href=https://www.youtube.com/watch?v=jCZnEdqeDtw>Proof by contradiction</a><br>
+<a href=http://www.youtube.com/watch?v=hAFpc9abNFc>Proof by contraposition</a><br>
+<a href=https://www.youtube.com/watch?v=zmMk_YITBIo&list=PL2419488168AE7001&index=43> Proof by cases</a><br>
+<a href=https://www.youtube.com/watch?v=ctC33JAV4FI>Infinitude of the primes</a>
+</td>
+<td><a href=Meeting2.pdf target=lecture>Meeting 2</a></td>
+</tr>
+
+
+<tr>
+<td>Jan 14</td>
+<td>Truth tables / Logic</td>
+<td>1.1-1.2</td>
+<td>
+<a href=https://www.youtube.com/watch?v=yUhVacW3DQs>Truth Tables</a><br>
+<a href=https://www.youtube.com/watch?v=2npo-L0DJRQ>Truth Tables for Conditional Statements</a><br>
+<a href=https://www.youtube.com/watch?v=2npo-L0DJRQ>Truth Tables for Conditional Statements</a><br>
+<a href=https://www.youtube.com/watch?v=_GD25pbPTFs&list=PL2419488168AE7001>Truth Table with 3 statements</a><br>
+<a href=https://www.youtube.com/watch?v=w6_Yldevy5s&list=PL2419488168AE7001>Tautologies</a><br>
+<a href=https://www.youtube.com/watch?v=8nB1e64CzJM&list=PL2419488168AE7001>Contradictions</a><p>
+
+<a href=https://www.youtube.com/watch?v=oY8Xt5GvZ1g&list=PL2419488168AE7001>Logical Equivalence with truth tables</a><br>
+<a href=https://www.youtube.com/watch?v=iPbLzl2kMHA&list=PL2419488168AE7001>Logical Equivalence without truth tables</a><br>
+</td>
+<td><a href=Meeting3.pdf target=lecture>Meeting 3</a></td>
+</tr>
+
+
+<tr>
+<td>Jan 16</td>
+<td>Binary relations</td>
+<td>2.3-2.4</td>
+<td>
+<a href=https://www.youtube.com/watch?v=h34hZ_hynzE>Binary Relations</a><br>
+<a href=https://www.youtube.com/watch?v=JFXgXYCzXB4>Equivalence Relations</a><br>
+<a href=https://www.youtube.com/watch?v=-C6Rnk0W2lE>Equivalence Classes</a><br>
+<a href=https://www.youtube.com/watch?v=92tHXfOAjl4>Properties of Equivalence Classes</a>
+</td>
+<td><a href=Meeting4.pdf target=lecture>Meeting 4</a></td>
+</tr>
+
+
+<tr>
+<td>Jan 21</td>
+<td>Functions</td>
+<td>3.1-3.2</td>
+<td>
+</td>
+<td><a href=Meeting5.pdf target=lecture>Meeting 5</a></td>
+</tr>
+
+
+<tr>
+<td>Jan 23</td>
+<td>Cardinality</td>
+<td>3.3</td>
+<td>
+<a href=http://www.youtube.com/watch?v=_aXwKJk8oBw>Cardinality of Sets</a><br>
+<a href=https://www.youtube.com/watch?v=_DkFYA9A_1I>Infinite Sets</a><br>
+<a href=https://www.youtube.com/watch?v=UPA3bwVVzGI>Different Infinities</a>
+</td>
+<td><a href=Meeting6.pdf target=lecture>Meeting 6</a></td>
+</tr>
+
+
+<tr>
+<td>Jan 28</td>
+<td>Congruence</td>
+<td>4.4-4.5</td>
+<td>
+<a href=https://www.youtube.com/watch?v=_-ZMdsQyIJw>Congruence</a><br>
+<a href=https://www.youtube.com/watch?v=SO6l6sDwEFg>Reducing modulo n</a><br>
+<a href=https://www.youtube.com/watch?v=uX6xtY_whTc>Linear Congruence Equations</a><br>
+<a href=https://www.youtube.com/watch?v=kXnxYHh1XNw>Chinese Remainder Theorem</a>
+</td>
+<td><a href=Meeting7.pdf target=lecture>Meeting 7</a></td>
+</tr>
+
+
+<tr>
+<td>Jan 30</td>
+<td><font color=red>Midterm 1</a></td>
+<td>0.1-0.2, 1.1-1.2, 2.3-2.4, 3.1-3.3</td>
+<td>
+</td>
+<td><a href=exam1solutions.pdf target=exam>Solutions</a></td>
+</tr>
+
+<tr>
+<td>Feb 4</td>
+<td><font color=red>Snow day</a></td>
+<td></td>
+<td>
+</td>
+<td></td>
+</tr>
+
+
+<tr>
+<td>Feb 6</td>
+<td>Induction</td>
+<td>5.1</td>
+<td>
+<a href=http://www.khanacademy.org/math/trigonometry/seq_induction/proof_by_induction/v/proof-by-induction>Proof by Induction</a><br>
+<a href=https://www.youtube.com/watch?v=wblW_M_HVQ8>Proof by Induction</a><!--<br>
+<a href=https://www.youtube.com/watch?v=ML-g2xLYruE>Strong Induction</a><br>
+<a href=https://www.youtube.com/watch?v=n-bJB_7QbQU>Strong Induction Example</a>-->
+</td>
+<td>
+<a href=Meeting8.pdf>Meeting 8</a><br>
+<a href=http://www.math.utah.edu/mathcircle/notes/induction.pdf>Induction</a>
+</td>
+</tr>
+
+
+<tr>
+<td>Feb 11</td>
+<td><font color=red>Snow day</font></td>
+<td></td>
+<td>
+</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Feb 13</td>
+<td><font color=red>Snow day</font></td>
+<td></td>
+<td>
+</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Feb 18</td>
+<td>Recursive sequences</td>
+<td>5.2-5.3</td>
+<td>
+<a href=http://www.youtube.com/watch?v=_cooC3yG_p0 target=video>Arithmetic Sequences</a><br>
+<a href=http://www.youtube.com/watch?v=dIGLhLMsy2U target=video>Geometric Sequences</a><br>
+<a href= http://www.youtube.com/watch?v=iqjM9RucX_E target=video>Recurrence Relations</a>
+</td>
+<a href=Meeting9.pdf>Meeting 9</a><br>
+<td><a href=http://math.furman.edu/~tlewis/math260/scheinerman/chap4/sec22handout.pdf target=8>Recurrence relations</a></td>
+</tr>
+
+
+
+<tr>
+<td>Feb 20</td>
+<td>Algorithms / Complexity</td>
+<td>8.1-8.3</td>
+<td>
+<a href= https://www.youtube.com/watch?v=6hfOvs8pY1k target=video>What is an algorithm?</a><br>
+<a href= https://www.youtube.com/watch?v=6Ol2JbwoJp0 target=video>Big O</a><br>
+<a href= https://www.youtube.com/watch?v=w7-6h64HSQ8 target=video>Order of complexity</a>
+</td>
+<td><a href=Meeting10.pdf>Meeting 10</a><br><a href=http://www.inf.ed.ac.uk/teaching/courses/.../Ch3.pdf>Big O</a></td>
+</tr>
+
+
+
+<tr>
+<td>Feb 25</td>
+<td>Inclusion-exclusion</td>
+<td>6.1-6.2</td>
+<td>
+<a href= http://www.youtube.com/watch?v=Zj-imVt1LGU&noredirect=1target=video>Inclusion-Exclusion</a><br>
+<a href= http://www.youtube.com/watch?v=vOsKK9NECtA&noredirect=1target=video>Multiplication and Addition Principles</a><br>
+</td>
+<td><a href=http://www.eecs.yorku.ca/course_archive/2008-09/S/1019/Website_files/18-basics-of-counting.pdf>Basics of counting</a></td>
+</tr>
+
+
+<tr>
+<td>Feb 27</td>
+<td><font color=red>Midterm 2</font></td>
+<td>4.4-4.5, 5.1-5.3, 8.1-8.3</td>
+<td>
+</td>
+<td><a href=exam2solutions.pdf target=exam>Solutions</a></td>
+</tr>
+
+
+<tr>
+<td>Mar 4</td>
+<td>Pigeonhole principle</td>
+<td>6.3</td>
+<td>
+<a href= http://www.youtube.com/watch?v=Uic3ECK1nso&noredirect=1 target=video>Pigeonhole Principle</a>
+</td>
+<td><a href=Meeting12.pdf>Meeting 12</a></td>
+</tr>
+
+<tr>
+<td>Mar 6</td>
+<td>Permutations / Combinations</td>
+<td>7.1-7.2</td>
+<td>
+<a href= https://www.youtube.com/watch?v=XqQTXW7XfYA target=video>Permutations</a><br>
+<a href= https://www.youtube.com/watch?v=bCxMhncR7PU target=video>Combinations</a>
+</td>
+<td><a href=Meeting13.pdf>Meeting 13</a><br><a href=PermComb.pdf target=notes>Permutations and Combinations</a></td>
+</tr>
+
+<tr>
+<td>Mar 11</td>
+<td>Probability</td>
+<td>7.3</td>
+<td>
+<a href= https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19 target=video>Basic Probability</a><br>
+<a href= https://www.youtube.com/watch?v=Xqfcy1rqMbI&list=PLC58778F28211FA19 target=video>Probability (coin flips)</a><br>
+<a href= https://www.youtube.com/watch?v=RNH_O2QvkWA target=video>Probability (more than 2 outcomes)</a>
+</td>
+<td><a href=Meeting14.pdf>Meeting 14</a></td>
+</tr>
+
+<tr>
+<td>Mar 13</td>
+<td>Bayes' Rule</td>
+<td>7.4</td>
+<td>
+<a href= https://www.youtube.com/watch?v=H02B3aMNKzE target=video>Conditional Probability</a><br>
+<a href= https://www.youtube.com/watch?v=E4rlJ82CUZI target=video>Bayes' Theorem</a><br>
+<a href= https://www.youtube.com/watch?v=j2tNxIaGpR4 target=video>Bayes' Theorem and Cancer Screening</a>
+</td>
+<td><a href=Meeting15.pdf>Meeting 15</a></td>
+</tr>
+
+<tr>
+<td>Mar 25</td>
+<td>Repetitions</td>
+<td>7.5</td>
+<td>
+<a href= https://www.youtube.com/watch?v=DpRjzwbwfUk target=video>Permutations with Repetition</a>
+</td>
+<td><a href=Meeting16.pdf>Meeting 16</a></td>
+</tr>
+
+<tr>
+<td>Mar 27</td>
+<td>Binomial Theorem</td>
+<td>7.7</td>
+<td>
+<a href=https://www.youtube.com/watch?v=OMr9ZF1jgNc>Pascal's triangle and binomial coefficients</a><br>
+<a href=https://www.youtube.com/watch?v=ZyZD6yEbR_I>Introducing Pascal's triangle</a><br>
+<a href=https://www.youtube.com/watch?v=_44TYnloDc0>Patterns in Pascal's triangle</a> 
+</td>
+<td><a href=Meeting17.pdf>Meeting 17</a></td>
+</tr>
+
+<tr>
+<td>Apr 1</td>
+<td>Graphs</td>
+<td>9.1-9.3</td>
+<td>
+<a href= https://www.youtube.com/watch?v=Vfm2h1MZJNM target=video>Konigsberg Bridge Problem</a><br>
+<a href= https://www.youtube.com/watch?v=Ivx6YTUCrXU target=video>Graph Definitions</a><br>
+<a href= https://www.youtube.com/watch?v=68F3sTaejE0 target=video>Bipartite Graph</a><br>
+<a href= https://www.youtube.com/watch?v=8mhBl7n1dXk target=video>Sum of degrees is twice the number of edges</a><br>
+<a href= https://www.youtube.com/watch?v=jJKqtYkWePo target video>Graph Isomorphism</a>
+</td>
+<td><a href=Meeting18.pdf>Meeting 18</a></td>
+</tr>
+
+
+
+<tr>
+<td>Apr 3</td>
+<td><font color=red>Midterm 3</font></td>
+<td>6.1-6.3, 7.1-7.5, 7.7</td>
+<td>
+</td>
+<td><a href=exam3solutions.pdf target=exam>Solutions</a></td>
+</tr>
+
+<tr>
+<td>Apr 8</td>
+<td>Euler / Hamilton Paths</td>
+<td>10.1-10.2</td>
+<td>
+</td>
+<td><a href=Meeting19.pdf>Meeting 19</a></td>
+</tr>
+
+<tr>
+<td>Apr 10</td>
+<td>Shortest Paths</td>
+<td>10.4</td>
+<td>
+<a href= https://www.youtube.com/watch?v=38G5uSxylaY target video>Weighted Graphs</a><br>
+<a href= https://www.youtube.com/watch?v=8njHSvS_inI target video>Dijkstra's Algorithm</a>
+</td>
+<td><a href=Meeting20.pdf>Meeting 20</a></td>
+</tr>
+
+
+
+
+<tr>
+<td>Apr 15</td>
+<td>Trees</td>
+<td>12.1-12.2</td>
+<td>
+<a href="https://www.youtube.com/watch?v=QFQlxtz7f6g">Trees</a>
+</td>
+<td><a href=Meeting21.pdf>Meeting 21</a></td>
+</tr>
+
+<tr>
+<td>Apr 17</td>
+<td>Spanning Trees</td>
+<td>12.3</td>
+<td>
+<a href="https://www.youtube.com/watch?v=TzLswrllE7E">Spanning Trees</a><br>
+<a href="https://www.youtube.com/watch?v=71UQH7Pr9kU">Krushkal's Algorithm</a><br>
+<a href="https://www.youtube.com/watch?v=YyLaRffCdk4">Prim's Algorithm</a>
+</td>
+<td><a href=Meeting22.pdf>Meeting 22</a></td>
+</tr>
+
+<tr>
+<td>Apr 22</td>
+<td>Planar Graphs</td>
+<td>13.1</td>
+<td>
+<a href="https://www.youtube.com/watch?v=_1mF4l7lSPw">Planar Graphs</a>
+</td>
+<td><a href=Meeting23.pdf>Meeting 23</a></td>
+</tr>
+
+<tr>
+<td>Apr 24</td>
+<td>Graph Coloring</td>
+<td>13.2</td>
+<td>
+<a href="https://www.youtube.com/watch?v=FigozQbZTcQ">Graph Coloring</a>
+</td>
+<td><a href=Meeting24.pdf>Meeting 24</a></td>
+</tr>
+
+<tr>
+<td>Apr 29</td>
+<td><font color=red>Final Exam</font></td>
+<td>
+0.1-0.2, 1.1-1.2, 2.3-2.4, 3.1-3.3<br>
+4.4-4.5, 5.1-5.3, 8.1-8.3<br>
+6.1-6.3, 7.1-7.5, 7.7<br>
+9.1-9.3, 10.1-10.2, 10.4, 12.1-12.3, 13.1-13.2
+</td>
+<td>
+</td>
+<td><a href=practicefinal.pdf>Practice exam</a></td>
+</tr>
+
+
+
+
+</table>
+
+
+
+
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2></h2>
+</font>
+
+
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Grading</h2>
+</font>
+
+Final grades will be computed according to the following scale:
+
+<p><table>
+<tr><td width=10%></td><td><table border=1 cellpadding=5>
+<tr><td>Quizzes</td><td>15&#37;</td></tr>
+<tr><td>Clickers</td><td>10&#37;</td></tr>
+<tr><td>Homework</td><td>25&#37;</td></tr>
+<tr><td>Midterms</td><td>30&#37;</td></tr>
+<tr><td>Final Exam</td><td>20&#37;</td></tr>
+</table>
+</td></tr></table>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2></h2>
+</font>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Absences</h2>
+</font>
+
+As a general rule, absences are excused for official Georgia Tech business only.  I reserve the right to ask for a letter from the Dean of Students.  In general, internships and interviews are not grounds for excused absences.  If you have an official excuse for absence for an exam, you will be excused from that exam without penalty, meaning that your other exams will count for a larger portion of your grade.
+
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Resources</h2>
+</font>
+
+<font color=white>---</font><a href=http://t-square.gatech.edu target=tsquare>T-Square</a>
+
+<p>
+
+<font color=white>---</font><a href=http://www.math.gatech.edu/academics/undergraduate/tutors-and-labs target=mathlab>Math Labs</a>, in Clough 280.  Math 2602 TAs will be available on Mon 1-2, Tue 11-12, Wed 2-3, and Thu 3-4.
+
+<!--
+<center>
+<table width=75%>
+<tr>
+<td>
+<table border=1 cellpadding=5>
+<tr>
+<td align=center>TA</td><td align=center>Hours</td>
+</tr>
+<tr><td>Vladimir Coxall</td><td>Monday 1-2</td></tr>
+<tr><td>Pedro Rangel</td><td>Tuesday 1:30-2:30</td></tr>
+<tr><td>Thao Vuong</td><td>Tuesday 11-12</td></tr>
+<tr><td>Pedro Rangel</td><td>Thursday 1:30-2:30</td></tr>
+<tr><td>Himanshu Sahni</td><td>Thursday 2-3</td></tr>
+<tr><td>Peter Ralli</td><td>Thursday 3-4</td></tr>
+<tr><td>Ben Yeh</td><td>Thursday 4-5</td></tr>
+</table>
+</table>
+</td>
+</tr>
+</center>
+-->
+
+<p>
+
+<font color=white>---</font><a href=http://www.success.gatech.edu/ target=success>Center for Academic Success</a>, Drop in tutoring and one-on-one tutoring
+
+<p>
+
+<font color=white>---</font><a href=http://www.adapts.gatech.edu target=adapts>ADAPTS</a>, Disabilities Services Program
+
+<p>
+
+<font color=white>---</font><a href=http://www.honor.gatech.edu target=honor>Honor code</a>
+
+<p>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2></h2>
+</font>
+
+<!--
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Past Courses</h2>
+</font>
+
+<font color=white>---</font><a href=http://www.math.gatech.edu/~margalit/classes/math2602spring2013>Math 2602K Spring 2013</a>
+
+<p>
+
+<font color=white>---</font><a href=http://www.math.gatech.edu/~margalit/classes/math2602spring2012>Math 2602L Spring 2012</a>
+
+<p>
+
+<font color=white>---</font><a href=http://www.math.gatech.edu/~margalit/classes/math2602fall2011>Math 2602L Fall 2011</a>
+-->
+
+</body>
+</html>

@@ -1,0 +1,1 @@
+pdftk Lecture1.pdf Lecture2.pdf Lecture3.pdf Lecture4.pdf Lecture5.pdf Lecture6.pdf Lecture7.pdf Lecture8.pdf Lecture9.pdf Lecture10.pdf Lecture11.pdf Lecture12.pdf Lecture13.pdf Lecture14.pdf Lecture15.pdf Lecture17.pdf Lecture18.pdf Lecture19.pdf Lecture20.pdf Lecture21.pdf Lecture22.pdf Lecture24.pdf Lecture25.pdf Lecture27.pdf cat output Math2602LecturesSpring2012.pdf

@@ -1,0 +1,80 @@
+\documentclass[12pt]{article}
+
+\usepackage{amssymb,graphics,epsf}
+\usepackage[usenames]{color}
+%\usepackage{pst-plot}
+\usepackage{latexsym,amsfonts,epsfig,verbatim}
+\usepackage{amsmath, textcomp,psfrag}
+\usepackage{float}
+\usepackage{amsthm}
+\usepackage{lineno}
+
+\newcommand{\nc}{\newcommand}
+\nc{\bs}{\bigskip}
+\nc{\np}{\newpage}
+
+\nc{\ds}{\displaystyle}
+
+\setlength{\textwidth}{6.5in}
+\setlength{\oddsidemargin}{0in}
+\setlength{\topmargin}{-.70in}
+\setlength{\textheight}{9.5in}
+\setlength{\parindent}{0in}
+
+
+\newenvironment{dlist}
+{\begin{list}{ $\bullet$}{\let\makelabel\dlabel} \setlength{\itemsep}{1pt} \setlength{\parsep}{0pt} }
+{\end{list}}
+
+\newcommand*\dlabel[1]{\hspace\labelsep \normalfont\bfseries #1}
+
+
+\pagestyle{empty}
+\begin{document}
+
+\input{epsf.sty}
+
+
+%\definecolor{MyGray}{gray}{0.9}
+%{\Large Scores: \textcolor{MyGray}{1 \space 2 \space 3 \space 4 \space 5 \space 6 \space 7 \space 8 \space 9 \space 10}}
+
+\hspace{3.8in}
+Name \underline{\space \space \space \space\space \space \space \space \space
+\space
+\space \space \space \space \space \space\space \space \space \space \space \space
+\space \space  \space \space \space \space \space \space\space \space \space \space \space
+\space}
+\bigskip
+
+\begin{center}
+{\Large Mathematics 2602}
+
+Quiz 2
+
+Prof. Margalit
+
+7 September 2011
+
+\end{center}
+
+1.  Solve the recurrence relation
+\[ a_n = a_{n-1} + 2 a_{n-2} \]
+with initial conditions $a_0=2$ and $a_1=1$.
+
+\bigskip
+
+This is a second order homogeneous recurrence relation.  Its characteristic polynomial is:
+\[ x^2 - x - 2 = (x-2)(x+1), \]
+whose roots are $x=2$ and $x=-1$.  Thus, the solution to the recurrence relation is of the form
+\[ a_n = c_1 2^n + c_2 (-1)^n. \]
+We now solve for $c_1$ and $c_2$.  We have:
+\[ a_0 = c_1 2^0 + c_2(-1)^0 = c_1 + c_2 = 2 \]
+and
+\[ a_1 = c_1 2^1 + c_2(-1)^1 = 2c_1-c_2 = 1 \]
+Solving this system of two equations, we find $c_1=1$ and $c_2=1$.  Thus, we have:
+\[ a_n = 2^n + (-1)^n. \]
+
+
+\vfill
+
+\end{document}

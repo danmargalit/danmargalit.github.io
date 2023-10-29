@@ -1,0 +1,98 @@
+\documentclass[12pt]{article}
+
+\usepackage{amssymb,graphics,epsf}
+\usepackage[usenames]{color}
+%\usepackage{pst-plot}
+\usepackage{latexsym,amsfonts,epsfig,verbatim}
+\usepackage{amsmath, textcomp,psfrag}
+\usepackage{float}
+\usepackage{amsthm}
+\usepackage{lineno}
+
+\newcommand{\nc}{\newcommand}
+\nc{\bs}{\bigskip}
+\nc{\np}{\newpage}
+
+\nc{\ds}{\displaystyle}
+
+\setlength{\textwidth}{6.5in}
+\setlength{\oddsidemargin}{0in}
+\setlength{\topmargin}{-.70in}
+\setlength{\textheight}{9.5in}
+\setlength{\parindent}{0in}
+
+
+\newenvironment{dlist}
+{\begin{list}{ $\bullet$}{\let\makelabel\dlabel} \setlength{\itemsep}{1pt} \setlength{\parsep}{0pt} }
+{\end{list}}
+
+\newcommand*\dlabel[1]{\hspace\labelsep \normalfont\bfseries #1}
+
+
+\pagestyle{empty}
+\begin{document}
+
+\input{epsf.sty}
+
+
+%\definecolor{MyGray}{gray}{0.9}
+%{\Large Scores: \textcolor{MyGray}{1 \space 2 \space 3 \space 4 \space 5 \space 6 \space 7 \space 8 \space 9 \space 10}}
+
+\hspace{3.8in}
+Name \underline{\space \space \space \space\space \space \space \space \space
+\space
+\space \space \space \space \space \space\space \space \space \space \space \space
+\space \space  \space \space \space \space \space \space\space \space \space \space \space
+\space}
+\bigskip
+
+\begin{center}
+{\Large Mathematics 2602}
+
+Quiz 1
+
+Prof. Margalit
+
+31 August 2011
+
+\end{center}
+
+1.  Prove by induction that $5^{2n}-2^{5n}$ is divisible by 7 for $n \geq 0$.
+
+\bigskip
+
+First we check the base case, $n=0$:
+\[  5^{2 \cdot 0} - 2^{5 \cdot 0} = 1 - 1 = 0  .\]
+Since 0 is divisible by 7, we are done with the base case.
+
+\bigskip
+
+Now assume that the statement is true for $n=k$.  That is, assume
+\[ 5^{2k}-2^{5k} \]
+is divisible by 7.  Say that 
+\[ 5^{2k}-2^{5k} = 7N \]
+
+\bigskip
+
+We now need to check that 
+\[ 5^{2(k+1)}-2^{5(k+1)} \]
+is divisible by 7.  We have:
+\[ \begin{array}{rcl}
+5^{2(k+1)}-2^{5(k+1)} &=& 5^{2k+2}-2^{5k+5} \\
+&=& 5^{2k}5^2 - 2^{5k}2^5 \\
+&=& 25\cdot 5^{2k} - 32 \cdot 2^{5k} \\
+&=& 32\cdot 5^{2k} - 32 \cdot 2^{5k} -7 \cdot 5^{2k} \\
+&=&32(5^{2k}-2^{5k}) - 7 \cdot 5^{2k} \\
+&=&32(7N)-7 \cdot 5^{2k} \\
+&=& 7(32N-5^{2k}). 
+\end{array}
+\]
+This is divisible by 7, as desired.
+
+\bigskip
+
+By the principle of mathematical induction, $5^{2n}-2^{5n}$ is divisible by 7 for $n \geq 0$.
+
+\vfill
+
+\end{document}

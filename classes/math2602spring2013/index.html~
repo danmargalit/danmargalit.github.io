@@ -1,0 +1,448 @@
+<html>
+<head>
+<title>Math 2602 Home Page</title>
+<!--<base href="http://www.math.gatech.edu/~dmargalit7/classes/math2602/" target=content>-->
+<base target = content>
+</head>
+<body link=000000 vlink=000000>
+
+<!--
+<FONT FACE="Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+2" color=cc9900>
+Math 2602
+</font>
+
+<br>
+
+<font color=white>---</font>
+<a href=home.html>Home</a>
+<font color=white>---</font>
+<a href=info.html>General Information</a>
+<font color=white>---</font>
+<a href=hw.html>Homework and Quizzes</a>
+<font color=white>---</font>
+<a href=resources.html>Other Resources</a>
+<font color=white>---</font>
+</font>
+<p>-->
+
+<table cellpadding=20 width=650><tr>
+<td valign=top align=center>
+<font face=Arial color=cc9900>
+<h1>Math 2602</h1></font>
+<font face=arial color=cc9900><h3>Linear and Discrete Mathematics</h3>
+<h4>Section K, Spring 2013</h4>
+</font>
+<img src=../../gatech.jpg>
+</td>
+<td align=center>
+<img src=babushka.jpg width=150>
+</td>
+</tr>
+<tr><td colspan=2 align=center>
+
+<!--
+<table border=1 cellpadding=25>
+
+<tr><td>
+<font face=Arial size=-1>
+News: Welcome to Math 2602!
+</font>
+</td>
+</tr>
+</table>
+-->
+
+</td>
+</tr>
+</table>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Handout</h2>
+</font>
+
+Click <a href=syllabus.pdf>here</a> for the handout from the first day.
+
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Instructors</h2>
+</font>
+
+Prof. Dan Margalit
+
+<p>
+
+TAs: Himanshu Sahni, Ben Yeh, Conrad Rybka
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2></h2>
+</font>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Book</h2>
+</font>
+
+<img src=rosen.jpg width=150>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Class Meetings</h2>
+</font>
+
+<ul>
+<li>Lecture: Tuesday and Thursday, 1:35-2:55, Howey L2.
+<li>Section 1 (Himanshu Sahni): Monday and Wednesday 3:05-3:55, Skiles 168
+<li>Section 2 (Ben Yeh): Monday and Wednesday, 3:05-3:55, Skiles 270.
+<li>Section 3 (Conrad Rybka): Monday and Wednesday 3:05-3:55, Skiles 254.
+</ul>
+
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Office Hours</h2>
+</font>
+
+<ul>
+<li>Prof. Margalit: Tuesday 3-4, Wednesday 1-2, Skiles 244.
+<li>Himanshu Sahni: Wednesday 4-5, Skiles 140
+<li>Ben Yeh: Friday 3-4, Skiles 230.
+<li>Conrad Rybka: Wednesday 12-1, Skiles 230.
+</ul>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Course Objectives</h2>
+</font>
+
+The main goals of this course are to develop mathematical maturity and problem solving skills, in particular, to be able to construct and understand mathematical arguments.  We achieve these goals through the study the various important concepts in the following areas of discrete mathematics: logic, counting, algorithms, and graphs. 
+
+
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Clickers</h2>
+</font>
+
+The course will use Turning Point clickers.  Student scores are based solely on their response rates.  It is the student's responsibility to maintain a working clicker and to have it registered on T-Square.  Exams and quizzes account for 100&#37; of the course grade, and clickers account for an extra credit of (up to) 3&#37;.
+
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Reading, Homework, Quizzes, and Exams</h2>
+</font>
+
+Quizzes are generally given every week on Wednsedays, except exam weeks.  Homework is not collected, but is used as a tool for studying for the quizzes.  Each quiz consists of (approximately) one problem, closely based on one or more problems from the homework.  Quizzes are graded on a scale of 0-3.  The table is read as follows: Quiz 1 is given on January 16, and it covers the material from the previous week (January 8 and 10), namely, propositional logic.  To prepare for Quiz 1, one should read Sections 1.1 through 1.3 and do the homework from those sections.  The lowest quiz grade of the semester will be dropped.  I will not post solutions to the homework.  If you want to work on problems where you have the solutions, just do the odd ones.<p>
+
+<p>
+
+<table border=1 cellpadding=5 width=100%>
+<tr>
+<td>Quiz/Exam</td>
+<td>Date</td>
+<td>Topics</td>
+<td>Reading</td>
+<td>Homework</td>
+<td>Solutions</td>
+</tr>
+
+<tr>
+<td>Quiz 0</td>
+<td>Jan 9</td>
+<td>Sets</td>
+<td>2.1-2.4,2.6</td>
+<td>p. 125 &#35; 1,2,4,6,14,16,27<br>
+p. 136 &#35; 2,4,14,26,28,32,34,48<br>
+p. 152 &#35; 2,4,6,8,10,12,14,16,20,22,32,36,42<br>
+p. 167 &#35; 1,2,4,32<br>
+p. 183 &#35; 1,2,4,10,18</td>
+<td><a href=quiz0solutions.pdf>Quiz 0</a></td>
+</tr>
+
+<tr>
+<td>Quiz 1</td>
+<td>Jan 16</td>
+<td>Propositional Logic</td>
+<td>1.1,1.3</td>
+<td>p. 12 &#35; 2,4,6,12,14,18,22,26,28,32,34,36<br>
+p. 35 &#35; 2,4,6,8,10,12,14,16,18,20,22,24,26,30,40</td>
+<td><a href=quiz1solutions.pdf>Quiz 1</a></td>
+</tr>
+
+<tr>
+<td>Quiz 2</td>
+<td>Jan 23</td>
+<td>Quantifiers</td>
+<td>1.4-1.6</td>
+<td>p. 53 &#35; 2,6,8,10,12,14,16,18,20,24,28,34,36,52,59<br>
+p. 64 &#35; 2,4,6,8,10,14,20,22,24,26,28
+<td><a href=quiz2solutions.pdf>Quiz 2</a></td>
+</tr>
+
+<tr>
+<td>No Quiz</td>
+<td align=center>-</td>
+<td>Proofs</td>
+<td>1.6-1.8</td>
+<td>p. 78 &#35; 2,4,6,8,10,12,14,16,18,20<br>
+p. 91 &#35; 2,4,6,8,10,12,14,16,18,22,24,30<br>
+p. 108 &#35; 2,4,6,8,10,14,16,22,36,38,44
+</td>
+<td>
+</tr>
+
+<tr>
+<td><font color=red>Midterm 1</font></td>
+<td>Jan 31</td>
+<td>Logic and Proofs</td>
+<td>1.1,1.3-1.8</td>
+<td><!--<a href=exam1fall2011.pdf>Practice exam</a>--></td>
+<td><a href=exam1solutions.pdf>Midterm 1</a></td>
+</tr>
+
+<tr>
+<td>Quiz 3</td>
+<td>Feb 6</td>
+<td>Algorithms</td>
+<td>3.1</td>
+<td>p. 202 &#35; 1,4,6,8,10,12,16,18,20,24,34,36,38,52,54</td>
+<td><a href=quiz3solutions.pdf>Quiz 3</a></td>
+</tr>
+
+<tr>
+<td>Quiz 4</td>
+<td>Feb 13</td>
+<td>Complexity</td>
+<td>3.2-3.3</td>
+<td>p. 216 &#35; 2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,36,40,42<br>
+p. 229 &#35; 2,4,6,8,12,14,16,24,26,28,34,36</td>
+<td><a href=quiz4solutions.pdf>Quiz 4</a></td>
+</tr>
+
+<tr>
+<td>Quiz 5</td>
+<td>Feb 20</td>
+<td>Induction</td>
+<td>5.1-5.2</td>
+<td>p. 329 &#35; 1,2,4,6,8,10,14,16,18,20,22,28,32,34,40,42,50,52,58,60<br>
+p. 341 &#35; 1,2,4,,8,10,12,32,38</td>
+<td><a href=quiz5solutions.pdf>Quiz 5</a></td>
+</tr>
+
+<tr>
+<td>No quiz</td>
+<td align=center>-</td>
+<td>Recursion</td>
+<td>5.3<!---5.4--></td>
+<td>
+p. 357 &#35; 2,4,6,8,10,12,18,22,24,26,28,48,50,58<!--<br>
+p. 370 &#35; 2,4,6,8,10,14,16,18,22,28,32,33,34,38,40,42,44,50--></td>
+<td>
+</tr>
+
+<tr>
+<td><font color=red>Midterm 2</font></td>
+<td>Feb 28</td>
+<td>Algorithms</td>
+<td>3.1-3.3, 5.1-5.3<!--5.4--></td>
+<td><!--<a href=exam2fall2011.pdf>Practice exam</a>--></td>
+<td><a href=exam2solutions.pdf>Midterm 2</a></td>
+</tr>
+
+<tr>
+<td>Quiz 6</td>
+<td>Mar 6</td>
+<td>Counting</td>
+<td>6.1-6.2</td>
+<td>p. 396 &#35; 8,10,12,14,16,18,20,22,24,26,28,32,36,40,44,46,64,66<br>
+p. 405 &#35; 2,4,6,8,10,,14,16,18,22,26,32,34,38</td>
+<td><a href=quiz6solutions.pdf>Quiz 6</a></td>
+</tr>
+
+<tr>
+<td>Quiz 7</td>
+<td>Mar 13</td>
+<td>Permutations and Combinations</td>
+<td>6.3-6.5</td>
+<td>p. 413 &#35; 2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32<br>
+p. 421 &#35; 2,4,6,8,12,14,16,19,33<br>
+p. 432 &#35; 2,4,6,8,10,12,14,16,18,20,22,26,30,32,38,42</td>
+<td><a href=quiz7solutions.pdf>Quiz 7</a></td>
+</tr>
+
+<tr>
+<td>Quiz 8</td>
+<td>Mar 27</td>
+<td>Recurrence Relations</td>
+<td>8.1-8.2</td>
+<td>p. 510 &#35; 1,2,4,8,12,14,20,28<br>
+p. 524 &#35; 2,4,6,8,12,14,20,24,28,30,32<!--<br>
+p. 535 &#35; 2,6,8,10,12,14,16,18--></td>
+<td><a href=quiz8solutions.pdf>Quiz 8</a></td>
+</tr>
+
+<tr>
+<td>No Quiz</td>
+<td align=center>-</td>
+<td>Inclusion-Exclusion</td>
+<td>8.5-8.6</td>
+<td>p. 557 &#35; 2,4,6,8,10,12,16,18,20,22,24<br>
+p. 564 &#35; 2,4,6,12,14,16</td>
+<td></td>
+</tr>
+
+<tr>
+<td><font color=red>Midterm 3</font></td>
+<td>Apr 4</td>
+<td>Counting</td>
+<td>6.1-6.5, 8.1-8.2,8.5-8.6</td>
+<td><!--<a href=exam3fall2011.pdf>Practice exam</a>--></td>
+<td><a href=exam3solutions.pdf>Midterm 3</a></td>
+</tr>
+
+<tr>
+<td>Quiz 9</td>
+<td>Apr 10</td>
+<td>Graphs</td>
+<td>10.1-10.3</td>
+<td>p. 649 &#35; 16,34 <br>
+p. 665 &#35; 2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,34,36,38,42<br>
+p. 675 &#35; 2,4,6,8,10,12,14,16,18,20,22,30,34,36,38,40,42,44,48,54,56,62</td>
+<td><a href=quiz9solutions.pdf>Quiz 9</a></td>
+</tr>
+
+<tr>
+<td>Quiz 10</td>
+<td>Apr 17</td>
+<td>Paths</td>
+<td>10.5-10.6</td>
+<td>p. 703 &#35; 2,4,6,8,10,14,26,28,30,32,34,36,38,40,56,60<br>
+p. 716 &#35; 2,4,6,8,10,14,16,17,26</td>
+<td><a href=quiz10solutions.pdf>Quiz 10</a></td>
+</tr>
+
+
+<tr>
+<td>Quiz 11</td>
+<td>Apr 24</td>
+<td>Planar Graphs and Graph Coloring</td>
+<td>10.7-10.8</td>
+<td>p. 725 &#35; 2,4,6,8,10,12,14,16,18,20,22,24,26<br>
+p. 732 &#35; 1,2,3,4,6,7,8,9,10,11,12,14,16</td>
+<td><a href=quiz11solutions.pdf>Quiz 11</a></td>
+</tr>
+
+<tr>
+<td>No Quiz</td>
+<td align=center>-</td>
+<td>Trees</td>
+<td>11.1-11.5</td>
+<td>p. 755 &#35; 2,4,8,10,12,16,33<br>
+<!--p. 769 &#35; 2,4,6,14,38<br>
+p. 783 &#35; 2,4,6,8<br>-->
+p. 795 &#35; 2,4,6,8,10,14,16,20,22,26,30<br>
+p. 802 &#35; 1,2,4,6,8</td>
+<td></td>
+</tr>
+
+<tr>
+<td valign=top><font color=red><br>Final Exam</font></td>
+<td valign=top><br>May 2<br>2:50-5:40p</td>
+<td>Cumulative</td>
+<td valign=top>
+1.1,1.3-1.8<br>
+3.1-3.3, 5.1-5.4<br>
+6.1-6.5, 8.1-8.2,8.5-8.6<br> 
+10.1-10.3,10.5-10.8,11.1-11.5</td>
+<td><!--<a href=finalfall2011.pdf>Practice exam</a>--></td>
+<td><!--<a href=finalexamsolutions.pdf>Final Exam</a>--></td>
+</tr>
+
+
+</table>
+
+
+
+
+
+
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2></h2>
+</font>
+
+
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Grading</h2>
+</font>
+
+Final grades will be computed according to the following scale:
+
+<p><table>
+<tr><td width=10%></td><td><table border=1 cellpadding=5>
+<tr><td>Quizzes</td><td>10&#37;</td></tr>
+<tr><td>Midterm 1</td><td>20&#37;</td></tr>
+<tr><td>Midterm 2</td><td>20&#37;</td></tr>
+<tr><td>Midterm 3</td><td>20&#37;</td></tr>
+<tr><td>Final Exam</td><td>30&#37;</td></tr>
+<tr><td>Clickers</td><td><font color=white>-</font>3&#37;</td></tr>
+</table>
+</td></tr></table>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2></h2>
+</font>
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Absences</h2>
+</font>
+
+As a general rule, absences are excused for official Georgia Tech business only.  I reserve the right to ask for a letter from the Dean of Students.  In general, internships and interviews are not grounds for excused absences.  If you have an official excuse for absence from a quiz or an exam, you will be excused from that exam without penalty, meaning that your other quizzes/exams will count for a larger portion of your grade.
+
+
+<FONT FACE="Arial,Comic Sans MS,Arial, Helvetica, Geneva" SIZE="+0" color=cc9900>
+<h2>Resources</h2>
+</font>
+
+<font color=white>---</font><a href=http://t-square.gatech.edu target=tsquare>T-Square</a>
+
+<p>
+
+<font color=white>---</font><a href=http://www.math.gatech.edu/academics/undergraduate/tutors-and-labs target=mathlab>Math Labs</a>, in Clough 280
+
+<center>
+<table width=75%>
+<tr>
+<td>
+<table border=1 cellpadding=5>
+<tr>
+<td align=center>TA</td><td align=center>Hours</td>
+</tr>
+<tr><td>Vladimir Coxall</td><td>Monday 1-2</td></tr>
+<tr><td>Pedro Rangel</td><td>Tuesday 1:30-2:30</td></tr>
+<tr><td>Thao Vuong</td><td>Tuesday 11-12</td></tr>
+<tr><td>Pedro Rangel</td><td>Thursday 1:30-2:30</td></tr>
+<tr><td>Himanshu Sahni</td><td>Thursday 2-3</td></tr>
+<tr><td>Peter Ralli</td><td>Thursday 3-4</td></tr>
+<tr><td>Ben Yeh</td><td>Thursday 4-5</td></tr>
+</table>
+</table>
+</td>
+</tr>
+</center>
+<p>
+
+<font color=white>---</font><a href=http://www.success.gatech.edu/ target=success>Center for Academic Success</a>, Drop in tutoring and one-on-one tutoring
+
+<p>
+
+<font color=white>---</font><a href=http://www.adapts.gatech.edu target=adapts>ADAPTS</a>, Disabilities Services Program
+
+<p>
+
+<font color=white>---</font><a href=http://www.honor.gatech.edu target=honor>Honor code</a>
+
+<p>
+
+<font color=white>---</font><a href=http://www.math.gatech.edu/~margalit/classes/math2602spring2012>Math 2602L Spring 2012</a>
+
+<p>
+
+<font color=white>---</font><a href=http://www.math.gatech.edu/~margalit/classes/math2602fall2011>Math 2602L Fall 2011</a>
+
+</body>
+</html>
