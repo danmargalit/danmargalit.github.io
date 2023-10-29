@@ -1,0 +1,57 @@
+<html>
+<head>
+<meta http-equiv="Refresh" content="0; url=index.shtml"><title>Dan Margalit's Home Page</title>
+<base href="http://www.math.gatech.edu/~dmargalit7/" target=content>
+<style href>a {text-decoration: none} </style>
+</head>
+<body link=cc9900 vlink=cc9900>
+
+<FONT FACE="Geneva,Helvetica,Arial" SIZE="+2" color=cc9900>
+Dan Margalit
+</font>
+
+<br>
+
+<FONT FACE="Geneva,Helvetica,Arial" SIZE="+0">
+<font color=white>---</font>
+<a href=home.html>Home</a>
+<font color=white>---</font>
+<a href=students.html>Team</a>
+<font color=white>---</font>
+<a href=papers/cv.pdf>CV</a>
+<font color=white>---</font>
+<a href="papers">Papers</a>
+<font color=white>---</font>
+<a href=books.html>Books</a>
+<font color=white>---</font>
+<a href=seminars.html>Seminars</a>
+<font color=white>---</font>
+<a href=classes.html>Classes</a>
+<font color=white>---</font>
+<a href=AGT.html>AGT</a>
+<font color=white>---</font>
+<a href=http://ttc.gatech.edu target=ttc>TTC</a>
+<font color=white>---</font>
+<a href=tsw/index.shtml target=tsw>TSW</a>
+<font color=white>---</font>
+<a href=tsr/index.shtml target=tsr>TSR</a>
+<font color=white>---</font>
+<a href=reu.html>REU</a>
+<font color=white>---</font>
+<a href=other.html>Other</a>
+<font color=white>---</font>
+</font>
+<p>
+
+<iframe src="home.html", width=100%, height=75%, name="content", scrolling=auto ></iframe>
+
+<!--<frameset rows="*" noresize, border=0, scrolling=no>
+
+  <frame src="menu.html" scrolling=no /> 
+  <frame src="home.html" />
+
+</frameset>
+-->
+
+</body>
+</html>

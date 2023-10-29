@@ -1,0 +1,24 @@
+
+<!--#include file="head.txt" -->
+
+<!--<h2><font FACE="Geneva,Arial, Helvetica" SIZE="+2" color=003399>AGT</font></h2>-->
+
+<table cellpadding=15>
+<tr>
+<td>
+<img src=agt.jpg height=200>
+</td>
+<td valign=top>
+
+<h2><font face=Geneva color=003399>Algebraic and Geometric Topology</font></h2>
+
+I am an editor for the mathematics journal Algebraic &amp; Geometric Topology.  
+
+<p>
+
+You can submit an article <a target=agt href=https://ef.msp.org/submit_new.php?jpath=agt>here</a>.
+</td></tr></table>
+
+<!--#include file="foot.txt" -->
+
+

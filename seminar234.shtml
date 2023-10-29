@@ -1,0 +1,54 @@
+<!--#include file="head.txt" -->
+
+
+
+<table>
+<tr>
+<td>
+<h2><font FACE="Geneva,Arial, Helvetica" SIZE="+2" color=003399>Seminar 234</font></h2>
+
+Seminar 234 is an informal weekly seminar for students and postdocs working with me or interested in working with me.  Everyone is welcome.  <p>
+
+To enquire about the seminar, please contact me.
+
+</td>
+<td>
+
+<center><img width=33% src=pics/234logo_large.png></center>
+</td>
+</tr></table>
+
+<!--
+In 
+Spring 2020 it is held 1-2:00 pm on Wednesdays in Skiles 234. 
+
+<p>
+
+The current format is that we decide on a paper the previous week, the members look over the paper, and we then have an informal discussion.  Usually, there is no lecture.
+
+<p>
+
+Recently discussed papers include:
+<ul>
+<li>Right-angled Artin groups as normal subgroups of mapping class groups, by Clay, Mangahas, and Margalit
+<li>Vanishing of the Euler class in Power subgroups of the punctured mapping class group, by Chen
+<li>The congruence subgroup problem for pure braid groups: Thurston’s proof, by McReynolds
+<li>Automorphisms of the loop and arc graph of an infinite-type surface, by Schafer-Cohen
+<li>Pseudo-Anosov mappings and toral automorphisms, by Kenyon
+</ul>
+
+<p>
+
+-->
+
+<!--
+<a href=https://docs.google.com/spreadsheets/d/15d0AZGGkNYHS544W0msw49WD0j_duDfLFjBaoXrKEqg/edit?usp=sharing>List of papers</a>
+-->
+
+<p>
+
+<!--sign up <a href=https://lists.gatech.edu/sympa/info/seminar234>here</a>.  You are also welcome to stop by the seminar, or contact me with questions.-->
+
+
+<!--#include file="foot.txt" -->
+

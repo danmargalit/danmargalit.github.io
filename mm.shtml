@@ -1,0 +1,58 @@
+<!--#include file="head.txt" -->
+
+
+
+<center>
+<h2><font FACE="Geneva,Arial, Helvetica" SIZE="+2" color=003057>Animations for "Mixing surfaces, algebra, and geometry"</font></h2>
+</center>
+
+<center>
+<img width=40% src=papers/mm/3prong_puller.gif>&nbsp;&nbsp;&nbsp;<img width=40% src=papers/mm/4prong_puller.gif><p>
+Figure 3. Left: a 3-pronged taffy puller; right: a 4-pronged taffy puller 
+</center>
+
+<p><p>
+
+<center>
+<img width=50% src=papers/mm/taffy_blank.gif><p>
+Bonus Figure. The 3-pronged taffy puller
+</center>
+
+<p><p>
+
+<center>
+<img width=50% src=papers/mm/taffy_curve.gif><p>
+Figure 4. The effect of the 3-pronged taffy puller on a piece of taffy
+</center>
+
+<p><p>
+
+<center>
+<img width=50% src=papers/mm/taffy_pinch.gif><p>
+Figure 5, right: squooshing a curve to a labeled train track
+</center>
+
+<p><p>
+
+<center>
+<img width=50% src=papers/mm/taffy_track.gif><p>
+Figure 6. A train track labeled by variables and its image under the 3-pronged taffy puller
+</center>
+
+<p><p>
+
+<center>
+<img width=50% src=papers/mm/taffy_curve_4prong.gif><p>
+Figure 7. A curve on a taffy puller, its image, and a train track
+</center>
+
+<p><p>
+
+<center>
+<img width=50% src=papers/mm/taffy_track_4prong.gif><p>
+Bonus Figure. A train track labeled by variables and its image under the 4-pronged taffy puller
+</center>
+
+
+<!--#include file="foot.txt" -->
+

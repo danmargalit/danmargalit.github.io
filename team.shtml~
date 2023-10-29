@@ -1,0 +1,358 @@
+<!--#include file="head.txt" -->
+
+<p>
+
+<!--<table cellpadding=20 width=80%>
+<tr><td>
+
+<!--<h3><font color=003399 face=Geneva>Me</font></h3>-->
+
+<p>
+
+<img src=dm.jpg height=250 align=left hspace=50 vspace=0>
+
+<!--</td>
+<td valign=top>-->
+<p>Welcome!  Below you'll find pictures of some of the graduate students, postdocs, and other researchers that I have worked with in my research.  I enjoy working in collaboration and mentoring students.  If you are an undergraduate or graduate student interested in working on a project with me, please email me or stop by my office to chat.  You can find some career advice (including advice on choosing an advisor) at the <a href=http://tsr.gatech.edu target=tsr>Topology Students Resource</a>.  
+
+<!--If you want to get an idea of what I work on, click <a href=about.shtml>here</a>.  There is an interview with me <a href=http://cos.gatech.edu/hg/item/530471>here</a>.
+
+
+<p>
+
+Other ways to get involved include the semi-annual Topology Students Workshop (TSW) and the annual REU.
+
+-->
+
+
+<!--</td>
+</tr>
+</table>-->
+
+</table>
+
+<table>
+
+<p><p><p>
+
+<table cellpadding=20>
+<tr>
+<td colspan=4>
+<h3><font color=003057 face=Geneva>Graduate students</font></h3>
+</td>
+</tr>
+
+
+<tr valign=top>
+
+<td align=center>
+<img src=pics/becca.jpg height=200> <p>
+<a href=https://sites.google.com/site/rebeccawinarski/ target=student>Rebecca Winarski</a><br>Ph.D. 2014<br>
+Michigan
+</td>
+
+<td align=center>
+<img src=pics/hyunshik.png height=200> <p>
+<a href=https://www.math.uga.edu/directory/people/hyunshik-shin target=student>Hyunshik Shin</a><br>Ph.D. 2014<br>
+Georgia
+</td>
+
+
+<td align=center>
+<img src=pics/shane.jpg height=200> <p>
+Shane Scott<br>Ph.D. 2018<br>Divergent 3D
+</td>
+
+<td align=center>
+<img src=pics/jlanier.jpg height=200> <p>
+<a href=http://www.math.gatech.edu/~jlanier8 target=student>Justin Lanier</a><br>2015-2020<br>Chicago
+</td>
+
+
+
+
+</tr>
+
+<tr>
+
+<!--
+<td align=center>
+<img src=pics/afton.png height=200> <p>
+<a href=http://www.math.gatech.edu/~safton3 target=student>Santana Afton</a><br>2019-present
+</td>
+-->
+
+<td align=center>
+<img src=pics/minahan.jpg height=200> <p>
+<a href=http://www.math.gatech.edu/~dminahan6 target=student>Dan Minahan</a><br>2019-present
+</td>
+
+<td align=center>
+<img src=pics/shapiro.jpg height=200> <p>
+<a href=http://www.math.gatech.edu/~rshapiro32 target=student>Roberta Shapiro</a><br>2019-present
+</td>
+
+</tr>
+
+
+<tr>
+<td colspan=4>
+<h3><font color=003057 face=Geneva>Postdocs &amp; Visitors</font></h3>
+</td>
+</tr>
+
+
+<tr>
+
+<td align=center>
+<img src=pics/verberne.jpg height=200> <p>
+<a href=https://www.math.toronto.edu/verberne/ target=student>Yvon Verberne</a><br>2020-present
+</td>
+
+<td align=center>
+<img src=pics/loving.png height=200> <p>
+<a href=https://sites.google.com/view/lovingmath/home target=student>Marissa Loving</a><br>2019-2020
+</td>
+
+<td align=center>
+<img src=pics/kordek.png height=200> <p>
+<a href=http://people.math.gatech.edu/~kkordek3/ target=student>Kevin Kordek</a><br>2017-2020
+</td>
+
+<td align=center>
+<img src=pics/balazs.jpg height=200> <p>
+Bal&aacute;zs Strenner<br>2016-2019
+</td>
+
+
+</tr>
+
+<tr>
+
+<td align=center>
+<img src=pics/oyku.png height=200> <p>
+<a href=https://tr.linkedin.com/in/oyku-yurttas-1b76ba43 target=student>&Ouml;yk&uuml; Yurtta&scedil;</a><br>2014-2015
+</td>
+
+
+
+</tr>
+
+
+<tr>
+<td colspan=4>
+<h3><font color=003057 face=Geneva>Collaborators</font></h3>
+</td>
+</tr>
+
+
+
+<tr>
+
+<td align=center>
+<img src=pics/ianagol.jpg height=200> <p>
+<a href=https://math.berkeley.edu/~ianagol/ target=student>Ian Agol</a><br>Berkeley
+</td>
+
+<td align=center>
+<img src=pics/baykur.png height=200> <p>
+<a href=http://people.math.umass.edu/~baykur/ target=student>Inanc Baykur</a><br>UMass
+</td>
+
+<td align=center>
+<img src=pics/rbell.jpg height=200> <p>
+<a href=http://users.math.msu.edu/users/robertbe/ target=student>Bob Bell</a><br>Michigan State
+</td>
+
+<td align=center>
+<img src=pics/belk.jpg height=200> <p>
+<a href=https://risweb.st-andrews.ac.uk/portal/en/persons/james-michael-belk(fed66893-7f45-4e55-bc6b-3646a332fb06).html target=student>Jim Belk</a><br>St. Andrews
+</td>
+
+</tr>
+
+
+
+
+
+<tr>
+
+<td align=center>
+<img src=pics/bestvina.jpg height=200> <p>
+<a href=https://www.math.utah.edu/~bestvina/ target=student>Mladen Bestvina</a><br>Utah
+</td>
+
+<td align=center>
+<img src=pics/birman.jpg height=200> <p>
+<a href=https://www.math.columbia.edu/~jb/ target=student>Joan Birman</a><br>Columbia
+</td>
+
+<td align=center>
+<img src=pics/brendle.jpg height=200> <p>
+<a href=http://www.maths.gla.ac.uk/~tbrendle/ target=student>Tara Brendle</a><br>Glasgow
+</td>
+
+<td align=center>
+<img src=pics/brock.jpg height=200> <p>
+<a href=https://math.yale.edu/people/jeff-brock target=student>Jeff Brock</a><br>Yale
+</td>
+
+</tr>
+
+
+
+
+
+<tr>
+
+<td align=center>
+<img src=pics/chen.png height=200> <p>
+<a href=https://sites.google.com/site/alicemath1991/>Lei Chen</a><br>CalTech</td>
+
+<td align=center>
+<img src=pics/childers.jpg height=200> <p>
+<a href=http://www.pittstate.edu/faculty-staff/leah-childers target=student>Leah Childers</a><br>Pittsburg
+</td>
+
+<td align=center>
+<img src=pics/clay.jpg height=200> <p>
+<a href=http://comp.uark.edu/~mattclay/ target=student>Matt Clay</a><br>Arkansas
+</td>
+
+<td align=center>
+<img src=pics/farb.jpg height=200> <p>
+<a href=https://www.math.uchicago.edu/~farb/ target=student>Benson Farb</a><br>Chicago
+</td>
+
+</tr>
+
+
+
+
+
+<tr>
+
+<td align=center>
+<img src=pics/hatcher.jpg height=200> <p>
+<a href=https://www.math.cornell.edu/~hatcher/ target=student>Allen Hatcher</a><br>Cornell
+</td>
+
+<td align=center>
+<img src=pics/djun.jpg height=200> <p>
+<a href=http://sunsite.ubc.ca/Djun/realresume.html target=student>Djun Kim</a><br>ImageX Media
+</td>
+
+<td align=center>
+<img src=pics/leininger.jpg height=200> <p>
+<a href=http://www.math.uiuc.edu/~clein/ target=student>Chris Leininger</a><br>Rice
+</td>
+
+<td align=center>
+<img src=pics/mccammond.jpg height=200> <p>
+<a href=http://web.math.ucsb.edu/~jon.mccammond/ target=student>Jon McCammond</a><br>Santa Barbara
+</td>
+
+</tr>
+
+
+
+
+
+<tr>
+
+<td align=center>
+<img src=pics/mangahas.jpg height=200> <p>
+<a href=http://www.nsm.buffalo.edu/~mangahas/ target=student>Johanna Mangahas</a><br>Buffalo
+</td>
+
+<td align=center>
+<img src=pics/menasco.jpg height=200> <p>
+<a href=http://www.math.buffalo.edu/~menasco/ target=student>Bill Menasco</a><br>Buffalo
+</td>
+
+<td align=center>
+<img src=pics/putman.jpg height=200> <p>
+<a href=http://www3.nd.edu/~andyp/ target=student>Andrew Putman</a><br>Notre Dame
+</td>
+
+<td align=center>
+<img src=pics/schleimer.jpg height=200> <p>
+<a href=http://homepages.warwick.ac.uk/~masgar/ target=student>Saul Schleimer</a><br>Warwick
+</td>
+
+</tr>
+
+<tr>
+<td align=center>
+<img src=pics/spallone.jpg height=200> <p>
+<a href=http://www.iiserpune.ac.in/~sspallone/ target=student>Steven Spallone</a><br>Pune
+</td>
+
+<td></td>
+<td></td>
+<td></td>
+
+
+</tr>
+
+<tr>
+<td colspan=4>
+<h3><font color=003057 face=Geneva>Group Photo at Tech Topology Conference 2017</font></h3>
+</td>
+</tr>
+
+<tr>
+<td colspan=4>
+<img src=pics/team2017.jpeg height=400>
+</td>
+
+</tr>
+
+
+
+</table>
+
+
+
+
+
+
+
+
+
+<!--
+
+<img src=FILE.jpg height=200> <p>
+
+<a href=URL target=student>NAME</a><p>
+
+<img src=FILE.jpg height=200> <p>
+
+<a href=URL target=student>NAME</a><p>
+
+<img src=FILE.jpg height=200> <p>
+
+<a href=URL target=student>NAME</a><p>
+
+<img src=FILE.jpg height=200> <p>
+
+<a href=URL target=student>NAME</a><p>
+
+<img src=FILE.jpg height=200> <p>
+
+<a href=URL target=student>NAME</a><p>
+
+<img src=FILE.jpg height=200> <p>
+
+<a href=URL target=student>NAME</a><p>
+
+<img src=FILE.jpg height=200> <p>
+
+<a href=URL target=student>NAME</a><p>
+
+-->
+
+
+
+
+<!--#include file="foot.txt" -->

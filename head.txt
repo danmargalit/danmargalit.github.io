@@ -1,0 +1,86 @@
+<html xmlns="http://www.w3.org/1999/xhtml"
+1;2c
+xmlns:og="http://ogp.me/ns#">
+
+<head>
+
+    <meta property="og:title" content=“Dan Margalit“/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="http://people.math.gatech.edu/~dmargalit7"/>
+    <meta property="og:image" content="http://www.math.gatech.edu/~margalit/dm.jpg"/>
+    <meta property="og:site_name" content="GaTech Math"/>
+    <meta property="og:description"
+          content=“Dan Margalit’s web site”/>
+
+<style type="text/css">
+	p{font-family: Geneva;}
+	body{font-family: Geneva, Tahoma, Verdana, sans-serif;}
+</style>
+
+<style href>a {text-decoration: none; font-family:Geneva} </style>
+
+
+<title>Dan Margalit</title>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<!--<link rel="icon" href="pics/buzz.ico">-->
+
+</head>
+<body link=cc9900 vlink=cc9900>
+<!--<body link=red vlink=red>-->
+
+
+
+<div id="fb-root"></div>
+
+
+<table cellpadding=15>
+
+<td>
+
+<font face=Geneva size=+2 color=003057><b><a href=index.shtml><font color=003057>Dan Margalit</font></a></b></font>
+
+ 
+<FONT FACE="Geneva,Helvetica,Arial" SIZE="+0">
+<!--
+<font color=white>---</font>
+<a href=index.shtml>Home</a>
+-->
+<font color=white>---</font>
+<a href=about.shtml>About</a>
+<font color=white>---</font>
+<a href=papers/cv.pdf target=cv>CV</a>
+<font color=white>---</font>
+<a href=team.shtml>People</a>
+<font color=white>---</font>
+<a href=papers.shtml>Research</a>
+<font color=white>---</font>
+<a href=books.shtml>Books</a>
+<font color=white>---</font>
+<!--<a href=seminars.shtml>Seminars</a>-->
+<a href=classes.shtml>Teaching</a>
+<!--<font color=white>---</font>
+<a href=classes/math1553Fall2021/index.html>1553</a>-->
+</font>
+<font face=Geneva>
+<font color=white>---</font>
+<!--<a href=http://ttc.gatech.edu target=ttc>TTC</a>
+<font color=white>---</font>
+<a href=tsw/index.shtml target=tsw>TSW</a>
+<font color=white>---</font>
+<a href=tsr/index.shtml target=tsr>TSR</a>
+<font color=white>---</font>-->
+<a href=reu.shtml>CUBE</a>
+<font color=white>---</font>
+<a href=outreach.shtml target=tsr>Outreach</a>
+<!--<font color=white>---</font>
+<a href=other.shtml>Talks</a>
+<font color=white>---</font>-->
+</font>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign=top>

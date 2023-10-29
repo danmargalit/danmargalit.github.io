@@ -1,0 +1,90 @@
+<html xmlns="http://www.w3.org/1999/xhtml"
+1;2c
+xmlns:og="http://ogp.me/ns#">
+
+<head>
+
+    <meta property="og:title" content=“Dan Margalit“/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="http://people.math.gatech.edu/~dmargalit7"/>
+    <meta property="og:image" content="http://www.math.gatech.edu/~margalit/dm.jpg"/>
+    <meta property="og:site_name" content="GaTech Math"/>
+    <meta property="og:description"
+          content=“Dan Margalit’s web site”/>
+
+
+<style href>a {text-decoration: none} </style>
+
+
+</head>
+<body link=cc9900 vlink=cc9900>
+<!--<body link=red vlink=red>-->
+
+
+
+<div id="fb-root"></div>
+
+
+<table cellpadding=15>
+
+<td>
+
+<table cellpadding=5>
+
+<tr>
+
+<td valign=top rowspan=2>
+<font face=Geneva size=+2 color=cc9900><b><a href=index.shtml>Dan Margalit</a></b></font><br>
+<img src=gt.jpg height=75>
+</td>
+
+<td>
+ 
+<FONT FACE="Geneva,Helvetica,Arial" SIZE="+0">
+<!--
+<font color=white>---</font>
+<a href=index.shtml>Home</a>
+-->
+<font color=white>---</font>
+<a href=team.shtml>Team</a>
+<font color=white>---</font>
+<a href=papers/cv.pdf target=cv>CV</a>
+<font color=white>---</font>
+<a href=papers.shtml>Papers</a>
+<font color=white>---</font>
+<a href=books.shtml>Books</a>
+<font color=white>---</font>
+<a href=seminars.shtml>Seminars</a>
+<font color=white>---</font>
+<a href=classes.shtml>Classes</a>
+</font>
+</td>
+</tr>
+<tr>
+<td>
+<font face=Geneva>
+<font color=white>---</font>
+<a href=AGT.shtml>AGT</a>
+<font color=white>---</font>
+<a href=http://ttc.gatech.edu target=ttc>TTC</a>
+<font color=white>---</font>
+<a href=tsw/index.shtml target=tsw>TSW</a>
+<font color=white>---</font>
+<a href=tsr/index.shtml target=tsr>TSR</a>
+<font color=white>---</font>
+<a href=reu.shtml>REU</a>
+<font color=white>---</font>
+<a href=other.shtml>Other</a>
+<font color=white>---</font>
+</font>
+</td>
+
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign=top>

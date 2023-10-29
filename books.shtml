@@ -1,0 +1,126 @@
+<!--#include file="head.txt" -->
+
+
+
+
+
+<table cellpadding=15>
+
+<td>
+<img width=150 src=primer.gif>
+</td>
+
+<td>
+
+
+<h2><font FACE="Geneva,Arial, Helvetica" SIZE="+2" color=003057>Primer</font></h2>
+<p>A Primer on Mapping Class Groups<br>
+<font color=white>---</font>w/ Benson Farb<br>
+<font color=white>---</font><i>Princeton Mathematical Series</i>, Princeton University Press, 2011.<br>
+<font color=white>---</font>Available at <a href=http://press.princeton.edu/titles/9495.html 
+target=pup>Princeton 
+University Press</a> and <a href=http://www.amazon.com/Primer-Mapping-Groups-Princeton-Mathematical/dp/0691147949/ref=sr_1_1?ie=UTF8&s=books&qid=1304781943&sr=1-1 
+target=amazon>Amazon</a>
+
+<p>
+
+SIAM <a href=SIAMreview.pdf>review</a> by Danny Calegari.<br>
+
+
+AMS <a href=AMSreview.pdf>review</a> by Mladen Bestvina.<br>
+
+MAA <a href=http://www.maa.org/publications/maa-reviews/a-primer-on-mapping-class-groups>review</a> by Scott A. Taylor.<br>
+
+EMS <a href=https://euro-math-soc.eu/sites/default/files/reviewMCG.pdf>review</a> by Raquel D&iacute;az and &Aacute;lvarado Mart&iacute;nez 
+</td></tr>
+</table>
+
+<p>
+
+<table cellpadding=15>
+
+<td>
+<img width=150 src=flp.jpg>
+</td>
+
+<td>
+
+
+<h2><font FACE="Geneva,Arial, Helvetica" SIZE="+2" color=003057>FLP</font></h2>
+Thurston's Work on Surfaces<br>
+Translation of Travaux de Thurston sur les Surfaces, edited by Albert Fathi, <br>Fran&ccedil;ois Laudenbach, and Valentin Po&eacute;naru<br>
+<font color=white>---</font>w/ Djun Kim<br>
+<font color=white>---</font><i>Mathematical Notes</i> series, Princeton University Press, 2012.<br>
+<font color=white>---</font>Available at <a 
+href=http://press.princeton.edu/titles/9494.html target=pup>Princeton 
+University 
+Press</a> and <a 
+href=http://www.amazon.com/Thurstons-Work-Surfaces-Mathematical-Notes/dp/0691147353/ref=sr_1_2?s=books&ie=UTF8&qid=1304782208&sr=1-2 
+target=amazon>Amazon</a>
+
+<p>Here is a <a href=papers/bams.pdf>review</a> I wrote for Bulletin of the AMS.<br>
+MAA <a href=https://www.maa.org/press/maa-reviews/thurstons-work-on-surfaces>review</a> by Scott Taylor.
+
+
+</td></tr>
+</table>
+
+<p>
+
+<table cellpadding=15>
+
+<td>
+<img width=150 src=pics/ohggt.gif>
+</td>
+
+<td>
+
+<h2><font FACE="Geneva,Arial, Helvetica" SIZE="+2" color=003057>Office Hours</font></h2>
+Office Hours with a Geometric Group Theorist<br>
+<font color=white>---</font>edited w/ Matt Clay<br>
+<font color=white>---</font>Princeton University Press<br>
+<font color=white>---</font>Available at <a href=http://press.princeton.edu/titles/11042.html 
+target=pup>Princeton 
+University Press</a> and <a href=https://www.amazon.com/Office-Hours-Geometric-Group-Theorist/dp/0691158665/ref=sr_1_1?ie=UTF8&qid=1487188693&sr=8-1&keywords=office+hours+with+a+geometric+group+theorist>Amazon</a>.<p>
+Blog <a href=https://ldtopology.wordpress.com/2017/03/03/office-house-with-a-geometric-group-theorist/#more-4774>review</a> by Daniel Moskovich.<br>
+CMS <a href=CMSreview.pdf>review</a> by Dale Rolfsen.<br>
+Americal Mathematical Monthly <a href=>review</a> by Tullia Dymarz.<br>
+MathSciNet <a href=OHGGTMSN.pdf>review</a> by Andy Putman.<br>
+Mathematical Gazette <a href=https://www.cambridge.org/core/journals/mathematical-gazette/article/office-hours-with-a-geometric-group-theorist-edited-by-matt-clay-and-dan-margalit-pp-441-4595-paper-isbn-9780691158662-princeton-university-press-2017/96DD455A27F589B4FF35183E1254A65F>review</a> by Mark Hunacek
+<p><p>
+A list of <a href=OHGGT_Errata.pdf>errata</a>.
+<p>
+<p>
+<a href=ohggt.shtml>Pictures</a> of satisfied customers.
+
+
+</td></tr>
+</table>
+
+
+<table cellpadding=15>
+
+<td>
+<a href=https://textbooks.math.gatech.edu/ila/ target=book><img width=150 src=ILA.gif></a>
+</td>
+
+<td>
+
+<h2><font FACE="Geneva,Arial, Helvetica" SIZE="+2" color=003057>ILA</font></h2>
+Interactive Linear Algebra<br>
+<font color=white>---</font>w/ Joseph Rabinoff<br>
+<!--<font color=white>---</font>Princeton University Press<br>-->
+This is a free, interactive, online introductory text for linear algebra.<br>
+It is specifically designed for Math 1553 at Georgia Tech.<br>
+Click on the animated image to access the text.<br>
+Some <a href=testimonials.html>testimonials</a>.
+<p>
+A <a href=https://news.ycombinator.com/item?id=21628449>discussion</a> on Hacker news.
+
+
+</td></tr>
+</table>
+
+
+<!--#include file="foot.txt" -->
+

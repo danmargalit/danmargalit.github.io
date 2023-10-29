@@ -1,0 +1,416 @@
+<!--#include file=head.txt -->
+
+
+<center><h2><font color=003057 face=Geneva>Research Articles</font></h2></center>
+
+<p>
+
+My research articles are listed below, roughly by topic.  Click on a title to download.  You can also find my papers on the <a href=http://arxiv.org/a/margalit_d_1 target=arxiv>arXiv</a>.
+
+<p>
+
+Click <a href=papers_chron.shtml>here</a> for a list of papers in (reverse) chronological order.
+
+<p>
+
+<center><img src=pics/exceptions.png vspace=25></center>
+
+<font color=white>---</font><h3><font color=CA4A8A>Complex dynamics</font></h3>
+
+<p>
+
+<img src=pics/4eared.png height=200 align=right hspace=15>
+
+<a href=papers/LiftingAlgorithm.pdf>Recognizing topological polynomials by lifting trees</a><br>
+<font color=white>-----</font>w/ Jim Belk, Justin Lanier, and Becca Winarski<br>
+<font color=white>-----</font><i>Duke Mathematical Journal</i>, to appear<br>
+
+<p>
+
+<font color=white>---</font><h3><font color=CA4A8A>Torelli groups</font></h3>
+
+<p>
+
+<img src=pics/surgery.png height=250 align=right hspace=15>
+
+<a href=papers/cdi.pdf>The dimension of the Torelli group</a><br>
+<font color=white>-----</font>w/ Mladen Bestvina and Kai-Uwe Bux<br>
+<font color=white>-----</font><i>Journal of the AMS</i> 23 (2010), no. 1, 61-105.<br>
+
+<p>
+
+<a href=papers/igen.pdf>Generating the Torelli group</a><br>
+<font color=white>-----</font>w/ Allen Hatcher<br>
+<font color=white>-----</font><i>L'Enseignement Math&eacute;matique</i> 58 (2012), 165-188.<br>
+
+<p>
+
+<a href=papers/tn.pdf>Dimension of the Torelli group for Out(F<sub>n</sub>)</a><br>
+<font color=white>-----</font>w/ Mladen Bestvina and Kai-Uwe Bux<br>
+<font color=white>-----</font><i>Inventiones Mathematicae</i> 170 (2007), no. 1, 1-32.
+
+
+
+
+<font color=white>---</font><h3><font color=CA4A8A>Hyperelliptic Torelli groups</font></h3>
+
+<p>
+
+<a href=papers/HainConjecture.pdf>Generators for the hyperelliptic Torelli group and the kernel of the Burau representation at t = &#8722;1</a><br>
+<font color=white>-----</font>w/ Tara Brendle and Andy Putman<br>
+<font color=white>-----</font><i>Inventiones Mathematicae</i> 200 (1) p. 263-310, 2015.
+
+<p>
+
+<a href=papers/Level4.pdf>Representation stability in the level four braid group</a><br>
+<font color=white>-----</font>w/ Kevin Kordek<br>
+<font color=white>-----</font><i>Mathematische Zeitschrift</i> 302, p. 433-482, 2022.<br>
+
+<p>
+
+<a href=papers/bncong.pdf>The level four braid group</a><br>
+<font color=white>-----</font>w/ Tara Brendle<br>
+<font color=white>-----</font><i>Journal f&uuml;r die reine und angewandte Mathematik</i>, 735, 249-264, 2018<br>
+
+<p>
+
+<a href=papers/bncong_corrigendum.pdf>Corrigendum to: The level four braid group</a><br>
+<font color=white>-----</font>w/ Tara Brendle<br>
+<font color=white>-----</font><i>submitted</i><br>
+
+<p>
+
+<img src=pics/oldfactor.png height=200 align=right hspace=15>
+
+<a href=papers/factor.pdf>Factoring in the hyperelliptic Torelli group</a><br>
+<font color=white>-----</font>w/ Tara Brendle<br>
+<font color=white>-----</font><i>Mathematical Proceedings of the Cambridge Philosophical Society</i>, 159 (02), 207-217, 2015.
+
+<p>
+
+<a href=papers/sibk.pdf>Point pushing, homology, and the hyperelliptic involution</a><br>
+<font color=white>-----</font>w/ Tara Brendle<br>
+<font color=white>-----</font><i>Michigan Mathematical Journal</i> 62(3), 451-473, 2013.
+
+<p>
+
+<a href=papers/cdsi.pdf>Cohomology of the hyperelliptic Torelli group</a><br>
+<font color=white>-----</font>w/ Tara Brendle and Leah Childers<br>
+<font color=white>-----</font><i>Israel Journal of Mathematics</i>, 195, 613-630, 2013.
+
+
+
+
+
+<font color=white>---</font><h3><font color=CA4A8A>Automorphisms of Mapping Class Groups and Curve Complexes</font></h3>
+
+<p>
+
+<a href=papers/autfc.pdf>Automorphisms of the fine curve graph</a><br>
+<font color=white>-----</font>w/ Adele Long, Anna Pham, Yvon Verberne, and Claudia Yao<br>
+<font color=white>-----</font><i>Transactions of the American Mathematical Society</i>, to appear
+
+<p>
+
+<a href=papers/bn2bn.pdf>Homomorphisms between braid groups</a><br>
+<font color=white>-----</font>w/ Lei Chen and Kevin Kordek<br>
+<font color=white>-----</font><i>preprint</i>
+
+<p>
+
+<a href=papers/Bnprime.pdf>Homomorphisms of commutator subgroups of braid groups</a><br>
+<font color=white>-----</font>w/ Kevin Kordek<br>
+<font color=white>-----</font><i>Bulletin of the London Mathematical Society</i>, 54 (1) 95-111, 2022.
+
+<p>
+
+<a href=papers/meta.pdf>Normal subgroups of mapping class groups and the metaconjecture of Ivanov</a><br>
+<font color=white>-----</font>w/ Tara Brendle<br>
+<font color=white>-----</font><i>Journal of the AMS</i>, 32 (4) 1009-1070, 2019.
+
+<p>
+
+<a href=papers/raagvmcg.pdf>Abstract commensurators of right-angled Artin groups and mapping class groups</a><br>
+<font color=white>-----</font>w/ Matt Clay and Chris Leininger<br>
+<font color=white>-----</font><i>Mathematical Research Letters</i> 21 (3) 461-467, 2014.
+
+<p>
+
+<a href=papers/coartin.pdf>Injections of Artin groups</a><br>
+<font color=white>-----</font>w/ Robert Bell<br>
+<font color=white>-----</font><i>Commentarii Mathematici Helvetici</i>, 82 (2007) 725-751.
+
+<p>
+
+<a href=papers/wp.pdf>Weil-Petersson isometries via the pants complex</a><br>
+<font color=white>-----</font>w/ Jeff Brock<br>
+<font color=white>-----</font>
+<i>Proceedings of the AMS</i> 135 (2007), 795-803.
+
+<p>
+
+<img src=pics/fareycomplex.png height=300 align=right hspace=15>
+
+
+<a href=papers/cohopf.pdf>Braid groups and the co-Hopfian property</a><br>
+<font color=white>-----</font>w/ Robert Bell<br>
+<font color=white>-----</font><i>Journal of Algebra</i> 303: 275-294, 2006.
+
+<p>
+
+<a href=papers/commbn.pdf>Abstract commensurators of braid groups</a><br>
+<font color=white>-----</font>w/ Chris Leininger<br>
+<font color=white>-----</font><i>Journal of Algebra</i> 299 (2): 447-455, 2006.
+
+<p>
+
+<a href=papers/g1.pdf>Curve complexes and finite index subgroups of mapping class groups</a><br>
+<font color=white>-----</font>w/ Jason Behrstock<br>
+<font color=white>-----</font><i>Geometriae Dedicata</i> 118(1): 71-85, 
+2006.
+
+<p>
+
+<a href=papers/kg.pdf>Commensurations of the Johnson kernel</a><br>
+<font color=white>-----</font>w/ Tara Brendle<br>
+<font color=white>-----</font><i>Geometry and Topology</i> 4:1361-1384, 2004.
+
+<p>
+
+<a href=papers/kg2.pdf>Addendum to: Commensurations of the Johnson kernel</a><br>
+<font color=white>-----</font>w/ Tara Brendle<br>
+<font color=white>-----</font><i>Geometry and Topology</i> 12 (2008), 97-101.
+
+<p>
+
+<a href=papers/kgerrata.pdf>Erratum to: Commensurations of the Johnson kernel</a><br>
+<font color=white>-----</font>w/ Tara Brendle<br>
+<font color=white>-----</font><i>Submitted</i>
+
+<p>
+
+<a href=papers/pants.pdf>Automorphisms of the pants complex</a><br>
+<font color=white>-----</font><i>Duke Mathematical Journal</i> 121(3): 
+457-479, 2004.
+
+
+
+
+<font color=white>---</font><h3><font color=CA4A8A>Pseudo-Anosov Stretch Factors</font></h3>
+
+<p>
+
+<a href=papers/normal.pdf>Normal generators for mapping class groups are abundant</a><br>
+<font color=white>-----</font>w/ Justin Lanier<br>
+<font color=white>-----</font><i>Commentarii Mathematici Helvetici</i> 97, 1-59, 2022.
+
+<p>
+
+<img src=pics/dogtoy.png height=300 align=right hspace=15>
+
+<a href=papers/homology_dilatations.pdf>Pseudo-Anosov stretch factors and homology of mapping tori</a><br>
+<font color=white>-----</font>w/ Ian Agol and Chris Leininger<br>
+<font color=white>-----</font><i>Journal of the London Mathematical Society</i> 93 (3), 664-682, 2016.
+
+<p>
+
+<a href=papers/geography.pdf>On the number and location of short geodesics in moduli space</a><br>
+<font color=white>-----</font>w/ Chris Leininger<br>
+<font color=white>-----</font><i>Journal of Topology</i>, 6(1), 30-48, 2013.<br>
+
+<p>
+
+<a href=papers/dil2.pdf>Small dilatation pseudo-Anosov homeomorphisms and 3-manifolds</a><br>
+<font color=white>-----</font>w/ Benson Farb and Chris Leininger<br>
+<font color=white>-----</font><i>Advances in Mathematics</i>, 228(3): 1466-1502, 2011.<br>
+
+<p>
+
+<a href=papers/dil.pdf>The lower central series and pseudo-Anosov dilatations</a><br>
+<font color=white>-----</font>w/ Benson Farb and Chris Leininger<br> 
+<font color=white>-----</font><i>The American Journal of Mathematics</i> 130 (2008), no. 3, 799-827.
+
+<p>
+
+<a href=papers/homcrit.pdf>A homological recipe for pseudo-Anosovs</a><br>
+<font color=white>-----</font>w/ Steven Spallone<br>
+<font color=white>-----</font><i>Mathematical Research Letters</i> 14 (2007), no.5, 853-863.
+
+
+
+
+<font color=white>---</font><h3><font color=CA4A8A>Geometry of the Complex of Curves</font></h3>
+
+<p>
+
+<a href=papers/distance.pdf>Efficient geodesics and an effective algorithm for distance in the complex of curves</a><br>
+<font color=white>-----</font>w/ Joan Birman and Bill Menasco<br>
+<font color=white>-----</font><i>Mathematische Annalen</i> 366(3), 1253-1279, 2016.
+
+
+
+<font color=white>---</font><h3><font color=CA4A8A>Stable commutator length</font></h3>
+
+<p>
+
+<a href=papers/SurfaceGen.pdf>Surface groups, infinite generating sets, and stable commutator length</a><br>
+<font color=white>-----</font>w/ Andy Putman<br>
+<font color=white>-----</font><i>Proceedings A of the Royal Society of Edinburgh</i>, to appear
+
+
+
+<font color=white>---</font><h3><font color=CA4A8A>Relations in Mapping Class Groups</font></h3>
+
+<p>
+
+<img src=pics/squaredance.png height=250 align=right hspace=15>
+  
+<a href=papers/Windmills.pdf>Right-angled Artin groups as normal subgroups of mapping class groups</a><br>
+<font color=white>-----</font>w/ Matt Clay and Johanna Mangahas<br>
+<font color=white>-----</font><i>Compositio Mathematica</i>, 157, no. 8, 1807-1852, 2021.<br>
+
+<p>
+
+<a href=papers/pbrels.pdf>Two-generator subgroups of the pure braid group</a><br>
+<font color=white>-----</font>w/ Chris Leininger<br>
+<font color=white>-----</font><i>Geometriae Dedicata</i> 147(1): 107-113, 2010.<br>
+
+<p>
+
+<a href=papers/roots.pdf>Dehn twists have roots</a><br>
+<font color=white>-----</font>w/ Saul Schleimer<br>
+<font color=white>-----</font><i>Geometry and Topology</i> 13 (2009), 1495-1497.<br>
+
+
+<p>
+
+<a href=papers/pure-braids.pdf>Geometric presentations for the pure braid group</a><br>
+<font color=white>-----</font>w/ Jon McCammond<br>
+<font color=white>-----</font><i>Journal of Knot Theory and Its Ramifications</i> 18 (2009), no. 1, 1-20.<br>
+
+<p>
+
+<a href=papers/lantern.pdf>A lantern lemma</a><br>
+<font color=white>-----</font><i>Alg. and Geom. Topology</i> 2: 1179-1195 2002.
+
+
+
+
+
+<font color=white>---</font><h3><font color=CA4A8A>Lefschetz Fibrations</font></h3>
+
+<p>
+
+<a href=papers/LefschetzTorelli.pdf>Lefschetz fibrations and Torelli groups</a><br>
+<font color=white>-----</font>w/ Inanc Baykur<br>
+<font color=white>-----</font><i>Geometriae Dedicata</i> 177 (1), 275-291, 2015.<br>
+
+<p>
+
+<a href=papers/IndecomposableSurfaceBundles.pdf>Indecomposable surface bundles over surfaces</a><br>
+<font color=white>-----</font>w/ Inanc Baykur<br>
+<font color=white>-----</font><i>Journal of Topology and Analysis</i> 5(2), 161-181, 2013.<br>
+
+
+
+
+<!--
+<p>
+
+Geometry versus algebra in the mapping class group <br>
+<font color=white>-----</font><i>Ph.D. Thesis</i>, University of Chicago, 2003.
+-->
+
+<center><h2><font color=003057 face=Geneva>Expository Articles</font></h2></center>
+
+<p>
+
+<img src=pics/pinthenose.png height=200 align=right hspace=15>
+
+<a href=papers/mm.pdf>Mixing Surfaces, Algebra, and Geometry</a><br>
+<font color=white>-----</font><i>Notices of the American Mathematical Society</i>, May 2023.<br>
+<p>
+
+<a href=papers/jsb.pdf>The Mathematics of Joan Birman</a><br>
+<font color=white>-----</font><i>Notices of the American Mathematical Society</i>, March 2019.<br>
+<font color=white>-----</font><i>Winner of the 2021 <a href=https://www.ams.org/news?news_id=6447>Levi L. Conant Prize</a>.</i>
+<p>
+
+<a href=papers/problems.pdf>Problems, questions, and conjectures about mapping class groups</a><br>
+<font color=white>-----</font><i>Breadth in contemporary topology: 2017 Georgia International Topology Conference</i>, Proc. Sympos. Pure Math. 102, 157-186, 2019.
+<p>
+
+<a href=papers/bh.pdf>The Birman-Hilden theory</a><br>
+<font color=white>-----</font>w/ Rebecca Winarski<br>
+<font color=white>-----</font><i>Celebratio Mathematica</i> and<br>
+<font color=white>-----</font><i>Bulletin of the London Mathematical Society</i> 53 (3), 643-659, 2021.
+<p>
+
+<a href=papers/bams.pdf>Thurston’s Work on Surfaces</a> (book review)<br>
+<font color=white>-----</font><i>Bulletin of the AMS</i> 51 (1), 151-161, 2014.
+<p>
+
+
+<a href=papers/carnival_focus.pdf>A Carnival of Calculus</a><br>
+<font color=white>---</font><i>MAA Focus</i>, May 2008
+
+<p>
+
+
+<center><h2><font FACE="Geneva,Arial, Helvetica" SIZE="+2" color=003057>Videos</font></h2></center>
+
+<font color=white>---</font><a href=http://www.birs.ca/events/2013/5-day-workshops/13w5108/videos/watch/201304080908-Margalit.mp4 target=movie>BANFF</a>
+
+<font color=white>---</font><a href=http://www-irma.u-strasbg.fr/annexes/conferences/MCG2012/program.html target=movie>IRMA</a>
+
+
+
+<font color=white>---</font><a href=http://www.msri.org/workshops/416/schedules/2959 target=movie>MSRI</a>
+
+
+
+<font color=white>---</font><a href=http://www.ctqm.au.dk/events/2008/Workshop/Videos/Margalit_web.mov target=movie>CTQM</a>
+
+
+
+<font color=white>---</font><a href=http://www.birs.ca/events/2007/5-day-workshops/07w5104/videos/watch/200704251000-Margalit.mp4 target=movie>BANFF</a>
+
+
+
+<font color=white>---</font><a href=http://ymc.math.osu.edu/2011/speaker2.php>YMC</a>
+
+<font color=white>---</font><a href=https://www.youtube.com/watch?v=yR1L6JpQ2P4>SLC</a>
+
+<font color=white>---</font><a href=https://icerm.brown.edu/video_archive/?play=1055>ICERM</a>
+
+<font color=white>---</font><a href=https://echo360.org/media/2ec3b090-5d3e-4be9-a637-7f56b202a554/public>WPI</a>
+
+<font color=white>---</font><a href=https://www.youtube.com/watch?v=MPcdJFv4OAc>JMM</a>
+
+
+
+
+
+<!--
+
+<h2><font FACE="Geneva,Arial, Helvetica, Geneva" SIZE="+2" color=003399>Slides</font></h2>
+
+<p>
+
+<font color=white>---</font>Train tracks, braids, and dynamics on surfaces
+(<a href=YMCweb.pdf>pdf</a>)
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+<!--#include file=foot.txt -->
