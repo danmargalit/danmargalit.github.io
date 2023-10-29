@@ -1,0 +1,84 @@
+<html>
+<head>
+<title>Dan Margalit</title>
+</head>
+<body bgcolor=white link=red vlink=red>
+
+<table cellpadding=20 width=650><tr>
+<td valign=top align=center>
+<font face=Arial>
+<h1>Math 6121</h1>
+<h3>Abstract Algebra I</h3>
+</font>
+<img src=../../gatech.jpg>
+</td>
+<td align=center>
+<img src=cube.jpg width=150>
+</td>
+</tr>
+
+<tr>
+<td valign=top colspan=2 align=center>
+
+<table border=1>
+
+<tr><td>
+<font face=Arial size=-1>
+News: Homework 13 assigned, due Dec 10.  Final exam will be distributed at the end of the last class Dec 10.  It is a 96 hour, open book, comprehensive exam.
+<br>
+<br>
+<br>
+</font>
+</td>
+</tr>
+</table>
+
+<!--
+
+<tr>
+<td colspan=2>
+I am generally  interested in low-dimensional topology and geometric group theory.  In particular, I study 
+mapping class groups and Torelli groups, braid groups and Artin groups,  Teichm&uuml;ller space, and Out(F<sub>n</sub>).
+</td></tr>
+
+-->
+
+</table>
+
+<!--
+<h3>R&eacute;sum&eacute;</h3>
+<ul>
+<li>Curriculum vitae (<a href=papers/cv.ps>ps</a> <a
+href=papers/cv.pdf>pdf</a>)
+<li>Teaching statement (<a href=papers/teaching.ps>ps</a> <a
+href=papers/teaching.pdf>pdf</a>)
+<li>Research statement (<a href=papers/research.ps>ps</a> <a
+href=papers/research.pdf>pdf</a>)
+</ul>
+-->
+
+<!--
+<h3>Course</h3>
+<ul>
+Math 1210 (Fall 2007)
+</ul>
+-->
+
+<!--
+<h3>Links</h3>
+<ul>
+<a href=../>Math Department</a><br>
+<a href=http://www.utah.edu>University of Utah</a><br>
+<a href=http://www.lib.utah.edu>Utah Library</a><br>
+<a href=maxdehn>Max Dehn Seminar</a><br>
+<a href=../wtc/>Wasatch Topology Conference</a><br>
+<a href=http://front.math.ucdavis.edu/>ArXiv front</a><br>
+<a href=http://www.ams.org/mathscinet/search
+>MathSciNet</a>
+</ul>
+-->
+
+</body>
+</html>
+
+
