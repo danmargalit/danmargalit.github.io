@@ -1,0 +1,75 @@
+<!--#include file="head.txt" -->
+
+
+
+<center><b><font face="Helvetica" color=333399 size=6>Participants</font></b></center>
+
+<p>
+
+
+<!--This could be you! -->
+
+
+<center>
+<table cellpadding=50>
+<tr>
+<td valign=top>
+<ul>
+<li>Fraser Binns, Boston College
+<li>Eliot Bongiovanni, Rice University
+<li>Katherine Booth, Georgia Tech
+<li>Mauro Camargo, Cornell University
+<li>Noah Caplinger, University of Chicago
+<li>Fabio Capovilla-Searle, Purdue University
+<li>Clair Dai, Harvard
+<li>Ethan Dlugie, UC Berkeley
+<li>Schinella D'Souza, University of Michigan
+<li>Ethan Farber, Boston College
+<li>Sam Freedman, Brown University
+<li>Shintaro Fushida-Hardy, Stanford University
+<li>Milana Golich, Purdue University
+<li>Devashi Gulati, University of Georgia
+<li>Amy Herron, University at Buffalo
+<li>Annie Holden, University of Notre Dame
+<li>James Hughes, UC Davis
+<li>Jean-Baptiste Follet, ENS de Lyon
+<li>Meenakshy Jyothis, Binghamton University
+<li>Yasin Karacan, UMass
+<li>Colby Kelln, Cornell University
+<li>Sayantan Khan, University of Michigan
+<li>Louisa Liles, University of Virginia <lml2tb@virginia.edu>
+</ul>
+</td>
+<td valign=top>
+<ul>
+<li>Trent Lucas, Brown University
+<li>Alex Manchester, Rice University
+<li>Leslie Mavrakis, UC Santa Barbara
+<li>Mackenzie McPike, Tufts University
+<li>Katherine Merkl, UC Santa Barbara
+<li>Melody Molander, UC Santa Barbara
+<li>Adriano Pacifico, University of Toronto
+<li>Prayagdeep Parija, UW Milwaukee
+<li>Braeden Reinoso, Boston College
+<li>Jorge Robinson Arrieta, University of Arkansas
+<li>Anna Roig Sanchis, Sorbonne Universite
+<li>Roberta Shapiro, Georgia Tech <shapirorh@gmail.com>
+<li>Jiayi Shen, University of Notre Dame <jshen4@nd.edu>
+<li>Weizhe Shen, Georgia Tech <wshen41@gatech.edu>
+<li>Bratati Som, University at Buffalo
+<li>Shuxian Song, Xi'an Jiaotong University
+<li>Charles Stine, Brandeis University
+<li>Cindy Tan, University of Chicago
+<li>Ye Tian, University of Georgia
+<li>Alec Traaseth, University of Virginia
+<li>Terrin Warren, University of Georgia
+<li>Leyla Yardimci, Wesleyan University
+<li>Yichi Zhang, The University of Chicago
+</ul>
+</td>
+</tr>
+</table>
+
+
+<!--#include file="foot.txt" -->
+
