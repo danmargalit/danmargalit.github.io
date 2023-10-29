@@ -1,0 +1,28 @@
+<!--#include file="head.txt" -->
+
+
+<center><b><font face="Helvetica" color=333399 size=6>Mentors</font></b></center>
+
+<p>
+
+<center>
+<table>
+<tr><td>
+<ul>
+<li>Tarik Aougab, Brown
+<li>Tara Brendle, Glasgow
+<li>Ruth Charney, Brandeis
+<li>Kelly Delp, Cornell
+<li>John Etnyre, Georgia Tech
+<li>Jesse Johnson, Google
+<!--<li>Vincent Lucarelli, NSA-->
+<li>Jason Manning, Cornell
+<li>Dan Margalit, Georgia Tech
+<li>Priyam Patel, Purdue
+<!--<li>Shaffiq Welji, Westminster-->
+</ul>
+
+More to be announced!
+
+<!--#include file="foot.txt" -->
+

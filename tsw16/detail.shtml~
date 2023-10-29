@@ -1,0 +1,377 @@
+<!--#include file="head.txt" -->
+
+
+<center><b><font face="Comic Sans MS" color=333399 size=6>Schedule</font></b></center>
+
+<p>
+
+<!--The conference will run from Monday morning to Friday afternoon.  On Wednesday there will be some free time in the afternoon, as well as a social gathering.
+
+We are planning workshops on the following topics:
+<ul>
+<li>Giving research talks
+<li>Applying for grants
+<li>Writing abstracts
+<li>CVs and Web sites
+<li>Publishing
+<li>Refereeing
+</ul>
+<ul>
+<li>The job process
+<li>Careers
+<li>Good habits
+<li>Collaborations
+<li>A day in the life
+</ul>
+<ul>
+<li>Inkscape
+<li>Beamer
+<li>Sage
+</ul>
+
+We will also have a daily seminar, which will consist of an hour long talk by one of the mentors of the workshop.  Some of the workshop participants will give 20 minute lectures, for which there will be feedback from mentors as well as other participants.-->
+
+Click <a href=schedule.shtml><font color=blue>here</font></a> for the quick-look schedule.
+
+<h2>Monday</h2>
+
+<p>
+
+9:00 <i>Registration</i>
+
+<p>
+
+9:15 <i>Welcome/Overview:</i> Dan Margalit and Panel
+
+<p>
+
+10:45 <i>CV / Web / Teaching Statements</i> Jen Taback and Dan Margalit
+
+<p>
+
+12:00 <i>Lunch</i>
+
+<p>
+
+2:00 <i>Seminar: Dilatation vs self-intersection number for point-pushing pseudo-Anosovs</i>, Spencer Dowdall
+
+<p>
+
+This talk is about the dilatations of pseudo-Anosov mapping
+classes obtained by pushing a marked point around a filling curve. After
+reviewing this "point-pushing" construction, I will give both upper and
+lower bounds on the dilatation in terms of the self-intersection number
+of the filling curve. I'll also give bounds on the least dilatation of
+any pseudo-Anosov in the point-pushing subgroup and describe the
+asymptotic dependence on self-intersection number. All of the upper
+bounds involve analyzing explicit examples using train tracks, and the
+lower bound is obtained by lifting to the universal cover and studying
+the images of simple closed curves.
+
+<p>
+
+4:30 <i>Abstracts</i>, Priyam Patel
+
+<p>
+
+3:00 <i>Tea</i>
+
+<p>
+
+3:30 <i>Beamer / Inkscape</i>, Spencer Dowdall
+
+<p>
+
+<h2>Tuesday</h2>
+
+9:00 <i>Etiquette</i>, Kevin Wortman and Dan Margalit
+
+<p>
+
+10:30 <i>Tea</i>
+
+<p>
+
+10:45 <i>Talks I</i>, Moon Duchin and Kevin Wortman
+
+<p>
+
+<!--How to give a good talk.  We'll focus on the standard seminar length of
+50-60 minutes, but also discuss principles for 20-minute or 10-minute
+talks.  Topics include:  structure, organization, and pace; making good
+notes for a chalk talk; designing slides for a screen talk (and pros and
+cons of chalk versus slide talks); how much to define; board work and
+"signposting"; adapting to your audience; showcasing your work engagingly.
+
+<p>-->
+
+12:00 <i>Lunch</i>
+
+<p>
+
+2:00 <i>Job Process</i>, Moon Duchin and Jen Taback
+
+<p>
+
+3:00 <i>Tea</i>
+
+<p>
+
+3:30 <i>Seminar: Automorphisms of higher rank lamplighter groups</i>, Jen Taback
+
+<p>
+
+I will describe the geometry of the higher rank lamplighter groups, whose Cayley graph with respect to a specified generating set is a Diestel-Leader graph.  I will mention why Diestel-Leader graphs are of independent interest, but mainly focus on how the algebra and geometry of the group interact to produce a perhaps unexpected result about possible automorphisms.
+
+<p>
+
+4:30 <i>Student Talk: Constant Mean Curvature Surfaces of Revolution versus Willmore Surfaces of Revolution: A Comparative Study with Physical Applications</i>, Thanuja Paragoda
+<p>
+
+This work is concerened with some special types of surfaces of revolution and their real world applications. The main two cases hereby considered are the constant mean curvature surfaces of revolution (also called Delaunay surfaces) and Willmore’s surfaces of revolution, respectively. We present the original construction of Delaunay surfaces, based on roulettes of conics, after which we characterize these geometric objects as solutions to specific ODEs. We present a few physical models of Delaunay surfaces arising as liquid bridges between two vertical walls - which are proved to be unduloidal surfaces, by using Calculus of Variations. We numerically computed the profile curves of these surfaces and provided some numerical models for them. By contrast, we studied Willmore surfaces as minimizers of the Willmore energy (or bending energy). In particular, we have studied some Willmore surfaces of revolution which come in as solutions to BVP problems consisting of the Willmore
+ equation, together with some special Dirichlet type boundary conditions.
+
+<p>
+
+5:00 <i>Student Talk: Generalized north-south dynamics on the space of geodesic currents</i>, Caglar Uyanik
+
+<p>
+
+The study of outer automorphism group of a free group $Out(F_N)$ is closely related to study of Mapping Class Groups. The $Out(F_N)$ analog of a pseudo-Anosov homeomorphism is called a fully irreducible or iwip (short for irreducible with irreducible powers). We will talk about types of iwips, geometric and hyperbolic, and prove that any iwip $\phi$ acts on the space of geodesic currents with a certain kind of north-south dynamics. As an application, we will give a criterion for subgroups of $Out(F_N)$ to contain a hyperbolic iwip.
+
+<p>
+
+5:30 <i>Student Talk: Point-pushing and Nielsen realization</i>, Bena Tshishiku
+
+<p>
+
+Let M be a manifold with mapping class group Mod(M). Any subgroup G subset Mod(M) can be represented by a collection of diffeomorphisms that form a group up to isotopy.  The Nielsen realization problem asks whether or not G can be represented by an honest subgroup of diffeomorphisms. We will discuss a special case of this problem when M is a locally symmetric manifold and G = pi_1(M) is the point-pushing subgroup. This generalizes work of Bestvina-Church-Souto.
+
+<p>
+
+<h2>Wednesday</h2>
+
+9:00 <i>Careers</i>, Panel
+
+<p>
+
+10:30 <i>Tea</i>
+
+<p>
+
+10:45 <i>Habits</i>, Ravi Vakil and Kirsten Wickelgren
+
+<p>
+
+12:00 <i>Lunch</i>
+
+<p>
+
+1:00 <i>Seminar: Random functions on finite sets</i>, Vincent Lucarelli
+
+<p>
+
+The first part of this talk decribes employment opportunities for mathematicians at the National Security Agency, the agency's primary missions, and the work-life balance for government employees. The second part of the talk introduces random functions on finite sets, properties of these functions, and concludes with an application.
+
+<p>
+
+2:00 <i>Seminar: Hyperbolic-like geodesics</i>, Ruth Charney
+
+<p>
+
+What is the difference between geodesics in a negatively curved space and geodesics in a non-positively curved space?  We will explore this question and why it matters.
+
+<p>
+
+
+3:00 <i>Tea</i>
+
+<p>
+
+3:30 <i>Colloquium: Cutting and pasting in algebraic geometry</i>, Ravi Vakil
+
+<p>
+
+Given some class of ``geometric spaces'', we can make a ring as follows.  
+<ol>
+<li> {\em  (additive structure)}  When U is an open subset of such a space X,  
+[X] = [U] + [(X \ U)];
+<li> (multiplicative structure)  [X x Y] = [X] [Y].
+</ol>
+In the algebraic setting, this ring (the "Grothendieck ring of varieties") contains
+surprising structure, connecting geometry to arithmetic and topology.  I will discuss some remarkable
+statements about this ring (both known and conjectural), and present new statements
+(again, both known and conjectural).  A motivating example will be polynomials in one variable. (This talk is intended for a broad audience.)  This is joint work with Melanie Matchett Wood.
+
+<p>
+
+The tea and colloquium will be held in the Clary Theater at the Student Success Center.
+
+<p>
+
+4:30 <i>Publishing</i> Moon Duchin and Ruth Charney
+
+<p>
+
+6:30 Pizzaque
+
+
+<h2>Thursday</h2>
+
+9:00 <i>Student Talk: Legendrian Knots, Augmentations, and Rulings</i>, Caitlin Leverson
+
+<p>
+
+A Legendrian knot in R^3 with the standard contact structure is a knot for which dz-ydx=0. Given a Legendrian knot, one can associate the Chekanov-Eliashberg differential graded algebra (DGA) over Z/2, a Legendrian knot invariant. Fuchs and Sabloff showed there is a correspondence between augmentations to Z/2 of the DGA and rulings of the knot diagram. Etnyre, Ng, and Sabloff showed that one can define a lift of the Chekanov-Eliashberg DGA over Z/2 to a DGA over Z[t,t^{-1}], which is also a Legendrian knot invariant. This talk will give an extension of the relationship between rulings and augmentations for the DGA over Z/2, to the DGA over Z[t,t^{-1}].
+
+<p>
+
+9:30 <i>Student Talk: One sledgehammer, many mosquitos</i>, Jeffrey Carlson
+
+<p>
+
+Equivariant cohomology is a tool for studying group actions that has been around since the 1950s and engendered occasional revivals of interest due to discoveries in physics and symplectic geometry. To demonstrate its power, I use two major results, due to Borel and Atiyah-Bott/Berline-Vergne, here to recover some classical theorems with substantially less work.
+
+<p>
+
+10:00 <i>Student Talk: Small dilatation pseudo-anosovs on non-orientable surfaces</i>, Balazs Strenner
+
+<p>
+
+
+We present an implementation of a search algorithm for pseudo-anosov homeomorphisms that works on any (not necessarily oriented) punctured surface, and of McMullen's algorithm for computing Teichm\"{u}ller polynomials from pseudo-anosovs. This code helps us find non-orientable 3-manifolds whose fibrations give rise to minimal dilatation pseudo-anosovs on non-orientable surfaces.
+
+<p>
+
+
+
+
+10:30 <i>Tea</i>
+
+<p>
+
+10:45 <i>Writing grants/Research statements</i>, Ruth Charney and Moon Duchin
+
+<p>
+
+12:00 <i>Lunch</i>
+
+<p>
+
+2:00 <i>Talks II</i>, Ruth Charney, Moon Duchin, and Dan Margalit
+
+3:00 <i>Tea</i>
+
+<p>
+
+3:30 <i>Seminar:  Quantifying Finiteness Properties of Hyperbolic Surface Groups and
+3-Manifold Groups</i>, Priyam Patel
+
+<p>
+
+The fundamental groups of hyperbolic surfaces and 3-manifolds,
+referred to as surface groups and 3-manifold groups, respectively, have various
+algebraic finiteness properties. Two of these properties, residual
+finiteness and subgroup separability, have played an important role in the
+recent resolution of some outstanding conjectures in 3-manifold theory. To
+begin this talk, we will define residual finiteness and subgroup
+separability. We will then explain what it means to quantify these
+properties and the topological implications of such quantifications.
+Focusing on residual finiteness in the surface case, we will emphasize the
+use of hyperbolic geometry in tackling quantification problems, and if time
+permits, we will describe related methods used in joint work with K.
+Bou-Rabee and M.F. Hagen to generalize the results to hyperbolic
+3-manifolds.
+
+<p>
+
+4:30 <i>Student Talk: The left-orderability and the cyclic branched coverings</i>, Ying Hu
+
+<p>
+
+We give a sufficient condition for the fundamental group of the $n^{th}$ cyclic branched covering of S^3 along a prime knot K to be left-orderable in terms of representations of the knot group. As an application, we show that for any $(p,q)$ two-bridge knot, with p = 3 mod  4, there are only finitely many cyclic branched coverings
+ whose fundamental groups are not left-orderable. This answers a question posed
+by Dabkowski, Przytycki and Togha.
+
+<p>
+
+5:00 <i>Student Talk: Generalizing Geometric Identities on Moduli Space</i>, Andrew Yarmola
+
+<p>
+
+We will start by introducing the identities of McShane and Basmajan on the moduli space of a finite area hyperbolic surface with boundary. Labourie and McShane have recently discussed how the former generalizes to Hitchin representations of the fundamental group. We will discuss a close relationship between the two identities that allows us to extend Basmajan's identity in a similar fashion.
+
+<p>
+
+5:30 <i> Student Talk: The geometry of Hopf Fibrations</i>, Priyanka Rajan
+
+<p>
+
+We will study the geometry and symmetry of Hopf fibrations over complex numbers, quaternions, and the cayley numbers, and also give a sketch of proof that the symmetry group of the fibration S^15 \rightarrow S^8 (with fibers S^7) is isomorphic to Spin(9), the simply connected double cover of  SO(9).
+
+
+<p>
+
+<h2>Friday</h2>
+
+9:00 <i>Student Talk: Effective conjugacy in nilpotent groups</i>, Mark Andrew Pengitore
+
+<p>
+
+In 1965 Blackburn showed that finitely generated nilpotent groups are conjugacy separable. Using the Conj function of Lawton, Louder, McReynolds one can measure the asymptotic behavior of conjugacy separability to understand the difficulty of solving the conjugacy problem for finitely generated groups. In particular we demonstrate for finitely generated nilpotent groups that the Conj function has polynomial upper and lower bounds using the ideas of Mal'cev and Blackburn.
+
+<p>
+
+9:30 <i>Student Talk: Monodromy of Cyclic Covers</i>, Lalit Jain
+
+<p>
+
+We compute the Z/\ell monodromy of Hurwitz spaces
+corresponding to cyclic covers with specified ramification. Using
+techniques from topology, finite group theory and algebraic geometry we
+will show that as long as the genus of the parametrized curves is
+sufficiently large, the monodromy group is ``big.''
+
+<p>
+
+10:00 <i>Student Talk: Computing Khovanov Homology</i>, Deniz Kutluay
+
+<p>
+
+Khovanov homology is an invariant of oriented links which is
+strictly stronger than the Jones polynomial. The main aim of this talk is
+to illustrate the combinatorial construction of Khovanov homology on a
+generic computation. We will then highlight some of its properties and
+applications. This talk is for general audience – no familiarity on the
+subject is assumed.
+
+<p>
+
+10:30 <i>Tea</i>
+
+<p>
+
+11:00 <i>Student Talk: McCullough-Miller 4-Space is Not CAT(0)</i>, Charles Cunningham
+
+<p>
+
+McCullough-Miller Space (MM) is virtually a geometric model for the Outer Automorphism Group of a Universal Right-Angled Coxeter Group, Out(W). As it is currently an open question as to whether or not Out(W) is CAT(0) or not, it would be helpful to know whether MM can be equipped with an Out(W)-equivariant CAT(0) metric. We show that the answer is in the negative. This is particularly interesting as there are very few examples of proving that a space of independent interest is NOT CAT(0).
+
+<p>
+
+11:30 <i>Student Talk: Recognizing right-angled Coxeter groups</i>, Andrew Eisenberg
+
+<p>
+
+Despite the importance of right-angled Coxeter groups (RACGs) to combinatorial group theory, geometry and topology, there are very few methods known of identifying whether a given group is a RACG.  We will discuss a new method and some applications.  This is joint work (in progress) with Charlie Cunningham, Adam Piggott, and Kim Ruane.
+
+<p>
+
+
+
+
+12:00 Reflections and Farewell
+
+
+<!--#include file="foot.txt" -->
+

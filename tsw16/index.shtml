@@ -1,0 +1,26 @@
+
+<!--#include file="head.txt" -->
+
+
+<center><h1><font face="Helvetica" color=333399 size=7>Topology Students Workshop</font></h1><br>
+<img src=TSW.jpeg width=500>
+</center>
+
+<font face=arial>
+
+<p><p><p>
+
+<font size=+2><font color=red><a href=apply.php><!--Apply now!--></a></font><p><p>June 6-10, 2016<br>
+Georgia Institute of Technology<br>
+Atlanta, GA</font>
+
+<p><p><p>Organizers: Dan Margalit, Priyam Patel, and Rebecca Winarski<br>
+Sponsor: National Science Foundation
+</font>
+
+<p>
+
+<div class="fb-like" data-href="http://tsw.gatech.edu" data-send="false" data-width="450" data-show-faces="false" data-action="recommend" data-font="arial"></div>
+
+
+<!--#include file="foot.txt" -->
