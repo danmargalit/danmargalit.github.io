@@ -1,0 +1,60 @@
+<!--#include file="head.txt" -->
+
+
+
+<center><b><font face="Helvetica" color=333399 size=6>Participants</font></b></center>
+
+<p>
+
+
+This could be you!
+
+<center>
+<table cellpadding=50>
+<tr>
+<td valign=top>
+<ul>
+<li>Paul Apisa, Yale
+<li>Sahana Balasubramanian, Greensboro
+<li>Yu-Chan Chang, Wisconsin
+<li>Michelle Chu, Illinois-Chicago
+<li>Christhian Hidber Cruz, UNAM
+<li>Edward Einstein, Illinois-Chicago
+<li>David Freund, Harvard
+<li>Giles Gardam, Muenster
+<li>Ty Ghaswala, Waterloo
+<li>Simon Gritschacher, Copenhagen
+<li>Kyle Haden, Columbia
+<li>Michael Harrison, Carnegie Mellon
+<li>Mikhail Hluschanka, UCLA
+<li>Kasia Jankiewicz, Chicago
+<li>Artem Kotelskiy, Indiana
+<li>Michael Landry, Wash U
+</ul>
+</td>
+<td valign=top>
+<ul>
+<li>Ivan Levcovitz, Technion
+<li>Guiseppe Martone, Michigan
+<li>Margaret Nichols, Buffalo
+<li>Lorenzo Ruffoni, Florida State
+<li>William Rushworth, McMaster
+<li>Chandrika Sadanand, Illinois
+<li>Nur Saglam, Virginia Tech
+<li>Ignat Soroko, Lousisiana State
+<li>Bin Sun, Riverside
+<li>Hung C Tran, Oklahoma
+<li>Yvon Verberne, MSRI
+<li>Jane Wang, Indiana
+<li>Morgan Weiler, Rice
+<li>Joe Wells, Virginia Tech
+<li>William Worden, Rice
+<li>Boyu Zhang, Princeton
+</ul>
+</td>
+</tr>
+</table>
+-->
+
+<!--#include file="foot.txt" -->
+
