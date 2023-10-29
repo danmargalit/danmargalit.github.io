@@ -1,0 +1,398 @@
+<!--#include file="head.txt" -->
+
+The conference will include plenary talks, lightning talks, a banquet, and a problem session.  The conference will start at 9:00 on Friday and end at 3:15 on Sunday.
+
+<p>
+
+<font color=da242a>
+<h1>Plenary Speakers</h1>
+</font>
+
+
+<ul> 
+<li> Ian Agol, Berkeley
+<!--<li> Joan Birman, Columbia-->
+<li> Thomas Church, Stanford
+<li> Pallavi Dani, LSU
+<li> Tullia Dymarz, Wisconsin
+<li> Jordan Ellenberg, Wisconsin
+<li> Ursula Hamenst&auml;dt, Bonn
+<li> Mark Kisin, Harvard
+<li> Curtis McMullen, Harvard
+<li> Kathryn Mann, Brown
+<li> Howard Masur, Chicago
+<li> Karin Melnick, Maryland
+<li> Lee Mosher, Rutgers-Newark
+<li> Andrew Putman, Notre Dame
+<li> Peter Shalen, UIC
+<!--<li> Dennis Sullivan, CUNY-->
+<li> Amie Wilkinson, Chicago
+<li> Jesse Wolfson, Irvine
+</ul>
+
+<font color=da242a>
+<h1>Lightning Speakers</h1>
+</font>
+
+
+<ul>
+<li>Carolyn Abbott, Berkeley
+<li>Tori Akin, Duke
+<li>Khalid Bou-Rabee, CCNY
+<li>Tara Brendle, Glasgow
+<li>Kevin Casto, Chicago
+<li>Lei Chen, Chicago
+<li>Weiyan Chen, Minnesota
+<li>Spencer Dowdall, Vanderbilt
+<li>Nir Gadish, Chicago
+<li>Asaf Hadari, Hawaii
+<li>Angela Kubena, Michigan
+<li>Justin Lanier, Georgia Tech
+<li>Wouter Limbeek, Michigan
+<li>Justin Malestein, Oklahoma 
+<li>Dan Margalit, Georgia Tech
+<li>Nick Salter, Harvard
+<li>Balazs Strenner, Georgia Tech
+<li>Daniel Studenmund, Notre Dame
+<li>Bena Tshishuku, Harvard
+<li>Jenny Wilson, Stanford
+<li>Rebecca Winarski, Wisconsin-Milwaukee
+</ul>
+
+<font color=da242a>
+<h1>Rooms</h1>
+</font>
+
+Lectures will be held in the following buildings:
+<ul>
+<!--<li>Cummings Life Sciences, 920 E 58th St
+<li>Math Stat Building, 5727 S. University Ave.-->
+<li>Eckhart Hall, 5734 S. University Avenue
+<li>Kent Hall, 1020 E. 58th Street
+<li>Social Sciences Reseach Building, 1126 E. 59th Street
+<!--<li>Ryerson Laboratory, 1100 E. 58th St.-->
+</ul>
+
+
+
+
+<font color=da242a>
+<h1>Tentative Schedule</h1>
+</font>
+
+<font color=black>
+<h3>Friday</h3>
+</font>
+
+Morning Location: Social Sciences 122
+
+<table cellpadding=15>
+<tr>
+<td align=right>
+9:00-9:45
+</td>
+<td>
+Lee Mosher, <i>Hyperbolic actions of Out(F_n) and its subgroups</i>
+</td>
+</tr>
+
+<tr>
+<td align=right>
+10:00-10:45
+</td>
+<td>
+Jesse Wolfson, <i>On the theory of resolvent degree - after Hamilton, Sylvester, Hilbert, Segre, and Brauer</i>
+</td>
+</tr>
+
+<tr>
+<td align=right>
+11:00-11:45
+</td>
+<td>
+Tullia Dymarz, <i>Quasi-isometric rigidity and solvable groups</i>
+</td>
+</tr>
+
+<tr>
+<td align=right>
+12:00-1:30
+</td>
+<td>
+Lunch
+</td>
+</tr>
+</table>
+
+<p>
+
+Afternoon Location: Social Sciences 122
+
+<table cellpadding=15>
+<tr>
+<td align=right>
+1:30-2:15
+</td>
+<td>
+Mark Kisin, <i>The Grothendieck p-curvature conjecture - variations</i>
+</td>
+</tr>
+
+<tr>
+<td align=right>
+2:30-3:15
+</td>
+<td>
+Andy Putman, <i>Covers and simple closed curves</i>
+</td>
+</tr>
+
+<tr>
+<td align=right>
+3:30-4:00
+</td>
+<td>
+Tea in Eckhart tea room
+</td>
+</tr>
+</table>
+
+<p>
+
+Late Afternoon Location: Kent 107
+
+<table cellpadding=15>
+<tr>
+<td align=right>
+4:00-5:00
+</td>
+<td>
+Colloquium: Jordan Ellenberg, <i>Farblandia</i>
+</td>
+</tr>
+
+<tr>
+<td align=right valign=top>
+5:15-6:00
+</td>
+<td>
+Lightning Talks
+<ul>
+<li>Tara Brendle and Dan Margalit, <i>Ivanov's metaconjecture</i>
+<li>Khalid Bou-Rabee, <i>The extrinsic primitive torsion problem</i>
+<li>Tori Akin, <i>Algebraic Characterizations in the Mapping Class Group</i>
+<li>Nir Gadish, <i>Finitely generated families of linear subspace arrangements</i>
+<li>Kevin Casto, <i>Bounding the cohomology of configuration spaces and rationality Poincaré series</i>
+<li>Wouter Limbeek, <i>Coarse geometry of expanders from homogeneous spaces</i>
+<!--<li>Joan Birman-->
+</ul>
+</td>
+</tr>
+
+<tr>
+<td align=right>
+6:30
+</td>
+<td>
+Problem Session in "The Barn" (Ryerson Hall) - click <a href=https://goo.gl/forms/xUdLjPa6DetYSM8l2><font color=da242a>here</font></a> to submit a problem
+</td>
+</tr>
+
+</table>
+
+
+<font color=black>
+<h3>Saturday</h3>
+</font>
+
+Location: Kent 107
+
+<table cellpadding=15>
+<tr>
+<td align=right>
+9:00-9:45
+</td>
+<td>
+Ian Agol, <i>Coloring maps on surfaces</i>
+</td>
+</tr>
+
+<tr>
+<td align=right>
+10:00-10:45
+</td>
+<td>
+Pallavi Dani, <i>The large-scale geometry of right-angled Coxeter groups</i>
+</td>
+</tr>
+
+<tr>
+<td align=right>
+11:00-11:45
+</td>
+<td>
+Kathryn Mann, <i>Rigidity implies geometricity for surface group representations</i>
+</td>
+</tr>
+
+<tr>
+<td align=right>
+11:50
+</td>
+<td>
+Conference Photo
+</td>
+</tr>
+
+<tr>
+<td align=right>
+12:00-1:30
+</td>
+<td>
+Lunch
+</td>
+</tr>
+
+<tr>
+<td align=right>
+1:30-2:15
+</td>
+<td>
+Curtis McMullen, <i>Solving polynomials:  braids, rigidity and dynamics</i>
+</td>
+</tr>
+
+<tr>
+<td align=right>
+2:30-3:15
+</td>
+<td>
+Ursula Hamenst&auml;dt, <i>Strata of abelian differentials, Artin groups and tautological classes</i>
+</td>
+</tr>
+
+<tr>
+<td align=right>
+3:30-4:00
+</td>
+<td>
+Tea
+</td>
+</tr>
+
+<tr>
+<td align=right valign=top>
+4:00-5:00
+</td>
+<td>
+Lightning talks
+<ul>
+<li>Rebecca Winarski, <i>Twisted Rabbits and Hubbard Trees</i>
+<li>Asaf Hadari, <i>homological eigenvalues for pseudo-Anosov mapping classes</i>
+<li>Nick Salter, <i>Plane curves and mapping class groups</i>
+<li>Daniel Studenmund, <i>Semidualities from products of trees</i>
+<li>Balazs Strenner, <i>Fast Nielsen-Thurston classification</i>
+<li>Lei Chen, <i>Adding points to configurations</i>
+<li>Spencer Dowdall, <i>Mapping class groups: Bigger. Better? Commensurably rigid!</i>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td align=right>
+5:15-6:00
+</td>
+<td>
+Amie Wilkinson, <i>Benson 'n' Dynamics 'n' Me</i>
+</td>
+</tr>
+
+<tr>
+<td align=right>
+6:00
+</td>
+<td>
+Banquet &#64; Quadrangle Club
+</td>
+</tr>
+
+</table>
+
+<font color=black>
+<h3>Sunday</h3>
+</font>
+
+Location: Kent 107
+
+<table cellpadding=15>
+<tr>
+<td align=right>
+9:00-9:45
+</td>
+<td>
+Howard Masur, <i>Ergodic Theory of Interval Exchange Transformations</i>
+</td>
+</tr>
+
+<tr>
+<td align=right>
+10:00-10:45
+</td>
+<td>
+Tom Church, <i>The Johnson filtration is finitely generated</i>
+</td>
+</tr>
+
+<tr>
+<td align=right>
+11:00-11:45
+</td>
+<td>
+Karin Melnick, <i>Topology of automorphism groups of parabolic geometries</i>
+</td>
+</tr>
+
+<tr>
+<td align=right>
+12:00-1:30
+</td>
+<td>
+Lunch
+</td>
+</tr>
+
+<tr>
+<td align=right valign=top>
+1:30-2:15
+</td>
+<td>
+Lightning talks
+<ul>
+<li>Justin Lanier, <i>Normal generators for mapping class groups are abundant</i>
+<li>Carolyn Abbott, <i>Hyperbolic structures on groups</i>
+<!--<li>Angela Kubena-->
+<li>Weiyan Chen, <i>How many points can be chosen continuously on smooth cubic plane curves?</i>
+<li>Justin Malestein, <i>Arithmetic Quotients</i>
+<li>Jenny Wilson, <i>Stability in the homology of configuration spaces</i>
+<li>Bena Tshishuku, <i>Unstable cohomology of arithmetic groups and characteristic classes of manifold bundles</i>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td align=right>
+2:30-3:15
+</td>
+<td>
+Peter Shalen, <i>Nerves, k-free groups, and quantitative Mostow rigidity</i>
+</td>
+</tr>
+
+</table>
+
+
+
+
+
+<!--#include file="foot.txt" -->
+
