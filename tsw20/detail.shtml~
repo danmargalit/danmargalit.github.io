@@ -1,0 +1,961 @@
+<!--#include file="head.txt" -->
+
+
+<center><b><font face="Helvetica" color=333399
+size=6>Schedule</font></b></center>
+
+<p>
+
+<!--The conference will run from Monday morning to Friday afternoon.  On
+Wednesday there will be some free time in the afternoon, as well as a
+social gathering.
+
+We are planning workshops on the following topics:
+<ul>
+<li>Giving research talks
+<li>Applying for grants
+<li>Writing abstracts
+<li>CVs and Web sites
+<li>Publishing
+<li>Refereeing
+</ul>
+<ul>
+<li>The job process
+<li>Careers
+<li>Good habits
+<li>Collaborations
+<li>A day in the life
+</ul>
+<ul>
+<li>Inkscape
+<li>Beamer
+<li>Sage
+</ul>
+
+We will also have a daily seminar, which will consist of an hour long talk
+by one of the mentors of the workshop.  Some of the workshop participants
+will give 20 minute lectures, for which there will be feedback from mentors
+as well as other participants.-->
+
+Click <a href=schedule.shtml><font color=blue>here</font></a> for the
+quick-look schedule.
+
+
+
+<h2>Monday</h2>
+
+<p>
+
+9:00 <i>Registration and bagels</i>
+
+<p>
+
+9:15 <i>Welcome/Overview/Conferences</i>, Dan Margalit, Caitlin Leverson, Becca Winarski
+
+<p>
+
+10:30 <i>Tea</i>
+
+<p>
+
+10:45 <i>Talks I</i>, Katie Mann, Lisa Traynor
+
+<p>
+
+12:00 <i>Lunch</i>
+
+<p>
+
+2:00 <i>Seminar: Lagrangian Fillings of Legendrian Knots</i>, Lisa Traynor
+
+<p>
+
+A classic question in knot theory is: Given a smooth knot in the 3-sphere, what surfaces in the 4-ball can it bound?  In symplectic geometry, a natural question is:  Given a Legendrian knot, what Lagrangian surfaces can it bound?  Whereas any smooth knot can be filled by an infinite number of topologically distinct surfaces, there are classical and non-classical obstructions to the existence of Lagrangian fillings of Legendrian knots. In particular, a polynomial associated to the Legendrian through the technique of generating functions can show that there is no compatible embedded Lagrangian filling.  Legendrians that admit generating functions will always admit compatible immersed Lagrangian fillings, and I will describe how this polynomial also gives information about the minimal number and indices of double points in compatible immersed Lagrangian fillings.  In addition, I will describe some constructions to realize minimally immersed fillings.  This is joint work with Samantha Pezzimenti (a TSW alumna!).
+
+<p>
+
+3:00 <i>Tea</i>
+
+<p>
+
+3:30 <i>Workshopping talks</i>, Caitlin Leverson, Katie Mann, Dan Margalit, Rebecca Winarski
+
+<p>
+
+4:30 <i>Group workshopping</i>
+
+<p>
+
+<h2>Tuesday</h2>
+
+9:00 <i>Job Process</i>, Kelly Delp, John Etnyre, Lisa Traynor
+
+<p>
+
+10:30 <i>Tea</i>
+
+<p>
+
+10:45 <i>Habits</i>, Jason Manning, Becca Winarski
+
+<p>
+
+<!--How to give a good talk.  We'll focus on the standard seminar length of
+50-60 minutes, but also discuss principles for 20-minute or 10-minute
+talks.  Topics include:  structure, organization, and pace; making good
+notes for a chalk talk; designing slides for a screen talk (and pros and
+cons of chalk versus slide talks); how much to define; board work and
+"signposting"; adapting to your audience; showcasing your work engagingly.
+
+<p>-->
+
+12:00 <i>Lunch</i>
+
+<p>
+
+2:00 <i>Seminar: Cohomology of Bowditch boundaries</i>, Jason Manning
+
+<p>
+
+Relatively hyperbolic groups generalize geometrically finite Kleinian groups and fundamental groups of finite volume negatively curved manifolds.  A relatively hyperbolic group has a boundary at infinity called the Bowditch boundary.  For a geometrically finite Kleinian group, this boundary coincides with the llimit set.  We show that the cohomology of this boundary can be described entirely group theoretically, generalizing work of Bestvina-Mess and M. Kapovich.  In the case of a Poincare duality pair, we show the boundary is a homology manifold.  This is joint work with Oliver Wang.
+
+<p>
+
+3:00 <i>Tea</i>
+
+<p>
+
+3:30 <i>CV/Webpage/Teaching Statement</i>, Kelly Delp, Lisa Traynor
+
+<p>
+
+4:30 <i>Group Workshopping</i>
+
+<p>
+
+
+
+<h2>Wednesday</h2>
+
+8:30 Sublime Donuts
+
+<p>
+
+9:00 <i>Etiquette</i>, Katie Mann, Dan Margalit
+<p>
+
+10:30 <i>Tea</i>
+
+<p>
+
+10:45 <i>Careers</i>, Panel: Kelly Delp, Alan Diaz, Vince Lucarelli, Brian Mann
+
+
+<p>
+
+12:00 <i>Open BBQ</i>
+
+<p>
+
+12:15 <i>Lunch n’ Learn</i>, Vincent Lucarelli
+
+<p>
+
+2:00 <i>Grants and Research Statements</i>, John Etnyre, Katie Mann
+
+<p>
+
+3:00 <i>Photo + Tea</i>
+
+<p>
+
+3:30 <i>Colloquium: Mating habits of polynomials</i>, Sarah Koch
+
+<p>
+
+Given two complex polynomials, we can try to mathematically paste them together to obtain a rational function through a procedure known as mating the polynomials. In this talk, we will begin by trying to understand the "shape" of complex polynomials in general. We will then discuss the mating of two quadratic polynomials: we explore examples where the mating does exist, and examples where it does not. There will be lots of movies and exploration in this talk. 
+
+
+<p>
+
+4:30 <i>Publishing</i>, John Etnyre, Sarah Koch, Jason Manning
+
+<p>
+
+6:30 Pizzaque
+
+
+<h2>Thursday</h2>
+
+8:00 <i>Meditation</i> (tentative)
+
+<p>
+
+9:00 <i>Student Talks I</i>
+
+<p>
+
+<i>Morse subsets of Hierarchically Hyperbolic Spaces</i>, Jacob Russell
+<p>
+
+ The study of convexity is a central facet of many flavors of geometry. In the study of the coarse geometry of metric spaces, a useful notation of convexity is the Morse property. A subset of a metric space is Morse if every quasi-geodesic with endpoints on the subset lies a bounded distance from the subset. Unlike the traditional definition of convexity, the Morse property is preserved by quasi-isometry and understanding the Morse subsets of a metric space have been a key feature of many quasi-isometric rigidity results. Our goal is to understand the Morse property in the class of hierarchically hyperbolic spaces. Hierarchically hyperbolic spaces are a generalization of Gromov hyperbolic spaces that includes the mapping class group, right angled Artin groups and many 3-manifold groups. The hallmark of hierarchically hyperbolic spaces is that the coarse geometry can be recovered from a family of projections onto hyperbolic space and we classify the Morse subset in these spaces in terms of these projections. Joint work with Hung C. Tran and Davide Spriano.
+
+<p>
+
+<i>Unoriented cobordism maps and involutive upsilon invariants</i>, Haofei Fan
+
+<p>
+
+ We study the problem of defining maps on link Floer homology induced by unoriented link cobordisms. We provide a natural notion of link cobordism, disoriented link cobordisms. Then we construct a map on unoriented link Floer homology associated to a disoriented link cobordism. Furthermore, we will discuss some possible applications on involutive upsilon invariants.
+
+<p>
+
+<i>Algorithmic Aspects of the Contracting Boundary</i>, Abdul Zalloum
+
+<p>
+
+The geodesicity condition for Gromov delta hyperbolic groups is a coarse local condition, in other words, in order to check whether a given edge path is a geodesic you need only to check that subsegments of length m, where m depends only on delta, are geodesics. The formal way of stating the above is to say that hyperbolic groups admit a regular language that reads all geodesics in the group. This seemingly simple observation has many interesting consequences. For example, one can use it to show that hyperbolic groups have a rational growth function. One can also use regularity of the language to show that axes of hyperbolic elements are dense in the boundary.
+
+<p>
+
+Charney and Sultan introduced the notion of contracting boundaries for CAT(0) spaces, in short, these are the collection of all "hyperbolic directions" in a CAT(0) space. This talk will be about our work with Joshua Eike showing that contracting geodesics in CAT(0) groups are realized by a regular language.
+
+
+<p>
+
+10:30 <i>Tea</i>
+
+<p>
+
+10:45 <i>Student Talks II</i>
+
+<p>
+
+<i>Strong contractibility of geodesics in the mapping class group</i>, Yvon Verberne
+
+<p>
+
+A geodesic is strongly contracting if its nearest point projection takes disjoint balls from the geodesic to sets of bounded diameter, where the bound is independent of the ball. In joint work with Kasra Rafi, we show that the axis of a pseudo-Anosov homeomorphism in the mapping class group may not have the strong contractibility property. In particular, we show that it is possible to choose an appropriate generating set for the mapping class group of the five-times punctured sphere so that there exists a pseudo-Anosov homeomorphism $\phi$, a sequence of points $x_k$, and a sequence of radii $R_k$ so that the ball $B_{R_k}(x_k)$ is disjoint from the axis of $\phi$, but the closest point projection of $B_{R_k}(x_k)$ to the axis is at least $c\log(R_k)$. Along the way, we show that it is, in fact, possible to construct explicit geodesics in the mapping class group.
+
+<p>
+
+<i>Curvature in Complex Hyperbolic Space</i>, Nathan Fisher
+
+<p>
+
+ In this talk, we will briefly define complex hyperbolic space and a notion of curvature for a triangle. We will then pick a basepoint in CH^n and calculate how this curvature changes as we look in different directions. This exploration allows us to understand some aspects of the nonconstant sectional curvature in complex hyperbolic space.
+
+<p>
+
+<i>The symplectic structure of decorated Teichmueller space</i>, Didac Martinez-Granado
+
+<p>
+
+ The Teichm&uuml;ller space of a surface with punctures has a symplectic structure, called the Weil-Petersson symplectic form. This space can be seen as a symplectic quotient of a suitably decorated Teichmueller space of relevance in cluster algebra theory. In this talk we introduce this decorated space and its symplectic structure by looking at the once-punctured torus example.
+
+
+<p>
+
+12:30 <i>Lunch</i>
+
+<p>
+
+2:00 <i>Seminar: The possible values of &pi;</i>, Kelly Delp
+
+<p>
+
+This will primarily be an expository talk on some geometric properties of normed linear spaces. These spaces arise in the study of strictly convex real projective structures on manifolds - which are a generalization of hyperbolic structures. This talk should be accessible to grad students, and of interest to anyone who likes metric spaces.
+
+<p>
+
+3:00 <i>Tea</i>
+
+<p>
+
+3:30 <i>Talks II</i>, Katie Mann, Dan Margalit
+
+<p>
+
+4:30 <i>Student Talks III</i>
+
+<p>
+
+<i>The Heisenberg plane</i>, Steve Trettel
+
+<p>
+
+ The Heisenberg group acts on the plane by translations and shears. The resulting geometry is the unique common degeneration of the constant curvature geometries S^2, E^2, H^2 modeled within projective geometry, motivating the study of Heisenberg surfaces and regenerations. In this talk we will discuss the classification of Heisenberg structures on orbifolds and their deformation spaces.
+
+<p>
+
+<i>Primitive Square Tiled Surfaces in H(1,1)</i>, Sunrose Shrestha
+
+<p>
+
+ In this talk we will look at square tiled surfaces in the stratum H(1,1). In particular we will obtain certain criterion for when a square tiled surface in this stratum is primitive, and use that to count the number of primitive square tiled surfaces in this stratum.
+
+<p>
+
+<i>Stable commutator length in generalized Baumslag-Solitar groups</i>, Lvzhou Chen
+
+
+<p>
+
+ The stable commutator length (scl) is a group invariant that measures the least topological complexity of surfaces bounding a given curve in the K(G,1) space. A question essentially due to Gromov asks on which groups scl only takes rational values. This is challenging because scl is hard to compute. We show scl is rational in Baumslag–Solitar groups, and more generally graphs of cyclic groups, by giving an algorithm to compute scl of arbitrary elements using linear programming.
+
+
+<h2>Friday</h2>
+
+7:30 <i>Chair Yoga</i>, Vita LoFria
+
+<p>
+
+9:00 <i>Student Talks IV</i>
+
+<p>
+
+<i>Random Coxeter Groups</i>, Angelica Deibel
+
+
+<p>
+
+ Random right-angled Coxeter groups have been much studied using tools and results from random graph theory. Some of these techniques can be extended to study random Coxeter groups in general. In this talk, I will introduce random Coxeter groups and give a brief tour of what is known about them
+
+<p>
+
+<i>Mean action of area-preserving diffeomorphisms of the annulus</i>, Morgan Weiler
+
+<p> 
+Given an area-preserving diffeomorphism ψ of a closed annulus which is a rotation near the boundary, we can define an “action function” from the annulus to the reals which measures the dynamics of ψ. In particular, it agrees with the rotation number along the boundary, and the values it takes on periodic orbits of ψ is related to the symplectic flux of ψ. The "mean action" of a periodic orbit of ψ is defined as the average value of the action over the orbit, and the Calabi invariant of ψ is the average of the action function over the annulus. If the Calabi invariant is less than the maximum of the values which the action function takes along the boundary, then the infimum of the mean action is less than or equal to the Calabi invariant. In particular, our result is a quantitative refinement of existence results for periodic orbits of a wide class of area-preserving annulus diffeomorphisms, many of which are not twist maps. The key tool is a generalization of a filtration by a transverse knot on embedded contact homology introduced by Hutchings, which is applied after realizing ψ as the Poincare return map of a global surface of section for the Reeb flow on a contact three-manifold.
+
+<p>
+
+<i>An Application of Salem Numbers to Braid Group Representations</i>, Nancy Scherich
+
+<p> 
+
+Many well known braid group representations have a parameter. I will show how to carefully choose evaluations of the parameter to force the representation to be discrete, and sometimes even land in a lattice. It is surprising and exciting to see how careful algebraic constructions can lead to geometric results.
+
+
+<p>
+
+10:30 <i>Tea and waffles</i>
+
+<p>
+
+10:45 <i>Student Talks V</i>
+
+<p>
+
+<i> Every surface knot group is the group of a ribbon surface</i>, Jason Joseph
+
+<p> 
+
+We give an elementary, constructive proof that every surface knot group is the group of an orientable ribbon surface. This allows us to define the ribbon genus of a connected surface as the minimum genus of any ribbon surface with the same group. For any 2-bridge knot K, we give a torus which achieves the ribbon genus of any nontrivial twist spin of K. We conclude by investigating the existence of knotted spheres with arbitrarily high ribbon genus and the relationship between ribbon genus, deficiency, and triple point number.
+
+<p>
+
+<i> The space of cubic surfaces equipped with a line </i>, Ronno Das
+
+<p>
+
+The Cayley-Salmon theorem implies the existence of a 27-sheeted covering space specifying lines contained in smooth cubic surfaces over C. We prove that the covering map is an isomorphism in rational cohomology and the cohomology ring is isomorphic to that of PGL(4,C). We derive as a consequence that over the finite field F_q the average number of lines on a cubic surface equals 1 (away from finitely many characteristics).
+
+<p>
+
+12:05 <i>Reflections and Farewell</i>, Dan Margalit
+
+
+
+
+
+<!--
+<h2>Monday</h2>
+
+<p>
+
+9:00 <i>Registration</i>
+
+<p>
+
+9:15 <i>Welcome/Overview/Conferences,</i> Dan Margalit and Panel
+
+<p>
+
+10:30 <i>Tea</i>
+
+<p>
+
+10:45 <i>Talks I,</i> Tara Brendle and Priyam Patel
+
+<p>
+
+12:00 <i>Lunch</i>
+
+<p>
+
+2:00 <i>Seminar</i>, Jason Manning
+
+<p>
+
+3:00 <i>Tea</i>
+
+<p>
+
+3:30 <i>Abstracts</i>, Tarik Aougab
+
+<p>
+
+4:30 <i>Beamer / Inkscape</i>, Justin Lanier and Shane Scott
+
+<p>
+
+<h2>Tuesday</h2>
+
+9:00 <i>Etiquette</i>, Tara Brendle and Priyam Patel
+
+<p>
+
+10:30 <i>Tea</i>
+
+<p>
+
+10:45 <i>Habits</i>, Jason Manning and Rebecca Winarski
+
+<p>
+
+<!--How to give a good talk.  We'll focus on the standard seminar length of
+50-60 minutes, but also discuss principles for 20-minute or 10-minute
+talks.  Topics include:  structure, organization, and pace; making good
+notes for a chalk talk; designing slides for a screen talk (and pros and
+cons of chalk versus slide talks); how much to define; board work and
+"signposting"; adapting to your audience; showcasing your work engagingly.
+
+<p>
+
+12:00 <i>Lunch</i>
+
+<p>
+
+2:00 <i>Seminar: The level four braid group</i>, Tara Brendle
+
+<p>
+
+The so-called integral Burau representation gives a symplectic
+representation of the braid group.  In this talk we will discuss the
+resulting congruence subgroups of braid groups, that is, preimages of the
+principal congruence subgroups of the symplectic group.  In particular, we
+will show that the level 4 congruence braid group is equal to the group
+generated by squares of Dehn twists.  One key tool is a "squared lantern
+relation" amongst Dehn twists. This is joint work with Dan Margalit.
+<p>
+
+3:00 <i>Tea</i>
+
+<p>
+
+3:30 <i>Job Process</i>, Aaron Abrams, Tara Brendle, and Kelly Delp
+
+<p>
+
+4:30 <i>CV / Web / Teaching Statements</i>, Kelly Delp and Aaron Abrams
+
+<p>
+
+<p>
+
+6:30 <i>Sage</i>, Vince Lucarelli
+
+<p>
+
+
+<h2>Wednesday</h2>
+
+9:00 <i>Publishing</i>, Tarik Aougab and Jason Manning
+<p>
+
+10:30 <i>Tea</i>
+
+<p>
+
+10:45 <i>Careers</i>, Panel: Aaron Abrams, Ruth Charney, Kelly Delp, Jesse
+Johnson, Vince Lucarelli, Shaffiq Welji
+
+
+<p>
+
+12:00 <i>Open BBQ</i>
+
+<p>
+
+12:15 <i>Lunch n’ Learn: Random functions on finite sets</i>, Vincent
+Lucarelli
+
+<p>
+
+This talk begins with a description of employment opportunities for mathematicians at the National Security Agency and the agency's primary missions. The second half of the talk introduces random functions on finite sets, properties of these functions, and concludes with an application.
+
+<p>
+
+1:00 <i>Lunch n’ Learn: Google</i>, Jesse Johnson
+
+<p>
+
+2:00 <i>Grants and Research Statements</i>, Ruth Charney, John Etnyre, and
+Jason Manning
+
+<p>
+
+3:00 <i>Photo + Tea</i>
+
+<p>
+
+3:30 <i>Colloquium: Finding hyperbolic-like behavior in non-hyperbolic
+spaces</i>, Ruth Charney
+
+<p>
+
+In the early '90s, Gromov introduced a notion of hyperbolicity for geodesic
+metric spaces.  The study of groups of isometries of such spaces has been
+an underlying theme in much of the work in geometric group theory since
+that time.  Many geodesic metric spaces, while not hyperbolic in the sense
+of Gromov, nonetheless display some hyperbolic-like behavior.  I will
+discuss a new invariant, the Morse boundary of a space, which captures this
+behavior.  (Joint work with Harold Sultan and Matt Cordes.)
+
+<p>
+
+The tea and colloquium will be held in the Clary Theater at the Student
+Success Center.
+
+<p>
+
+4:30 <i>Student Talks I</i>
+
+<p>
+
+<i>Contracting Boundaries of CAT(0) Groups</i>, Devin Murray
+
+<p>
+
+There are a number of different notions for the boundary of a
+non-positively curved group. In many cases, they are powerful tools in
+understanding the algebraic structure of the group as well as the dynamics
+of group actions. Charney and Sultan introduced a new boundary for CAT(0)
+spaces called the contracting boundary which has a number of properties
+that make it particularly well suited for studying groups which act
+isometrically on CAT(0) spaces. I will introduce the main definitions and
+present a number of results about the contracting boundary of CAT(0) groups
+including some results about subgroups, dynamics and a topological
+classification of hyperbolic CAT(0) groups.
+
+<p>
+
+<i>Quasiconvex Hierarchies for Relatively Hyperbolic Non-Positively Curved
+Cube Complexes</i>, Eduard Einstein
+
+<p>
+
+Non-positively curved (NPC) cube complexes are important tools in low
+dimensional topology and group theory and play a prominent role in Agol's
+proof of the Virtual Haken Conjecture. Constructing a hierarchy for a NPC
+cube complex is a powerful method of decomposing its fundamental group
+essential to the theory of NPC cube complex theory. When a cube complex
+admits a hierarchy with nice properties, it becomes possible to use the
+hierarchy structure to make inductive arguments. I will explain what a
+quasiconvex hierarchy of an NPC cube complex is and briefly discuss some of
+the applications. We will see an outline of how to construct a quasiconvex
+hierarchy for a relatively hyperbolic NPC cube complex and some of the
+hyperbolic and relatively hyperbolic geometric tools used to ensure the
+hierarchy is indeed quasiconvex.
+
+<p>
+
+<i>Conjugacy Geodesics in Coxeter Groups</i>, Aaron Calderon
+
+<p>
+
+Coxeter groups are groups generated by reflectional symmetries of
+mathematical objects. These groups and the spaces on which they act are an
+important source of examples in group theory and topology and range from
+tilings of manifolds to homology spheres to CAT(0) cube complexes. In this
+talk I will discuss results on language theoretic properties of the set of
+geodesics on the Cayley graphs of Coxeter groups and a generalization (due
+to Tits) called extended Coxeter groups. These properties are related to
+many classical problems in geometric group theory, including automaticity,
+rationality of the group's growth series and the solvability of the word
+problem.
+
+<p>
+
+<i>1-Dimensional Boundaries of Groups with Isolated Flats</i>, Matthew
+Haulmark
+
+
+<p>
+
+In 2000 Kapovich and Kleiner proved that if G is a one-ended hyperbolic
+group that does not split over a two-ended subgroup, then the boundary of G
+is either a Menger curve, a Sierpinski carpet, or a circle. In this talk I
+will discuss CAT(0) spaces,  their boundaries, and what it means for a
+group to be CAT(0). I will also provide a generalization of the Kapovich
+and Kleiner theorem to the isolated flats setting.
+
+<p>
+
+6:30 Pizzaque
+
+
+<h2>Thursday</h2>
+
+7:30 <i>Chair Yoga</i>, Vita LoFria
+
+<p>
+
+9:00 <i>Student Talks II</i>
+
+<p>
+
+<i>Relative currents and Loxodromic elements in the relative free factor
+complex</i>, Radhika Gupta
+
+<p>
+
+I will define relative currents with respect to a free factor system. Using
+north-south dynamics of relative currents we will show which outer
+automorphisms act on the complex of free factors relative to a free factor
+system.
+
+
+<p>
+
+<i>Divergence in Coxeter Groups</i>, Ivan Levcovitz
+
+<p>
+
+The divergence function measures the rate in which pairs of geodesics stray
+apart in a given metric space. Cayley graphs of Coxeter groups, in
+particular, exhibit a rich class of divergence functions. This talk will
+introduce divergence functions and Coxeter groups and then will discuss new
+developments and applications. No background on these topics will be
+assumed.
+
+<p>
+
+<i>Distortion for Abelian Subgroups of Out(Fn)</i>, Derrick Wigglesworth
+
+<p>
+
+In this talk I will introduce the notion of (un)distorted subgroups. Then I
+will give an outline of the ingredients used to prove that abelian
+subgroups of Out(Fn) are undistorted.
+
+<p>
+
+10:30 <i>Tea</i>
+
+<p>
+
+10:45 <i>Student Talks III</i>
+
+<p>
+
+<i>The Weinstein Conjecture</i>, Bahar Acu
+
+<p>
+
+The Weinstein conjecture states that, on a compact contact manifold, any
+Reeb vector field carries at least one periodic orbit. The conjecture was
+proven for all closed 3-dimensional manifolds by Taubes, but it is still
+open in higher dimensions. In this talk, we will provide the motivation
+behind this conjecture along with related results in certain cases and
+iterate the ideas and the machinery used in dimension 3 to higher
+dimensions to prove the Weinstein conjecture on a special class of
+Weinstein fillable contact manifolds.
+
+<p>
+
+<i>The Milnor Fiber of the Braid Arrangement</i>, Michael Dougherty
+
+<p>
+
+In the 1960s, Milnor proved that certain intersections of balls with
+complex hypersurfaces can be expressed as fiber bundles. In particular, the
+complement of an arrangement of complex hyperplanes is a fiber bundle over
+the circle. However, in even the “nicest” such setting, the braid
+arrangement, the homology of the fiber is unknown in general. To tackle
+this problem, we can leverage the combinatorial structure of noncrossing
+partitions to create a geometrically appealing simplicial complex for the
+Milnor fiber.
+
+<p>
+
+
+<i>The augmentation category map induced by exact Lagrangian
+cobordisms</i>, Yu Pan
+
+<p>
+
+To a Legendrian knot, one can associate an A-infinity category, the augmentation
+category. An exact Lagrangian cobordism between  two Legendrian knots gives
+a functor of the augmentation categories of the two ends.
+We study the functor and establish a long exact sequence relating the
+corresponding Legendrian cohomology categories of the two ends. As
+applications, we prove that the functor between augmentation categories is
+injective on objects, and find new obstructions to the existence of exact
+Lagrangian cobordisms. The main technique is a recent work of Chantraine,
+Dimitroglou Rizell, Ghiggini and Golovko on Cthulhu homology.
+
+<p>
+
+
+
+12:30 <i>Lunch</i>
+
+<p>
+
+2:00 <i>Seminar: Characterizing stable subgroups</i>, Tarik Aougab
+
+<p>
+
+In both group theory and geometry, "negatively curved behavior" is
+extremely useful when it exists. For instance, many computational problems
+that are generally intractable, such as the word problem for finitely
+generated groups, become solvable when we restrict to the class of
+hyperbolic groups. Unfortunately, one naturally comes across many
+interesting groups and spaces that are not hyperbolic. It then becomes
+useful to ask: what subgroups (or subspaces) look negatively curved even
+though the ambient space might have large flat regions? We will discuss
+several different notions of negative curvature and how to detect them in a
+geodesic metric space. We will then use these notions to characterize and
+find "stable subgroups" of the mapping class group and of the outer
+automorphism group of the free group. These are hyperbolic subgroups that
+satisfy strong convexity properties and they turn out to be a natural
+generalization of the "convex cocompact" Kleinian groups. This is joint
+work with Matt Durham and Sam Taylor.
+
+
+<p>
+
+3:00 <i>Tea</i>
+
+<p>
+
+3:30 <i>Talks II</i>, Tarik Aougab and Dan Margalit
+
+<p>
+
+4:30 <i>Student Talks IV</i>
+
+<p>
+
+<i>Dehn functions of subgroups of right-angled Artin groups</i>, Ignat
+Soroko
+
+<p>
+
+The question of what is a possible range for the Dehn functions (a.k.a.
+isoperimetric profile) for certain classes of groups is a natural and
+interesting one. Due to works of many authors starting with Gromov, we know
+a lot about the isoperimetric profile for the class of all finitely
+presented groups. Much less is known for many natural subclasses of groups,
+such as subgroups of CAT(0) groups or of right-angled Artin groups. In the
+joint work with Noel Brady, we prove that polynomials of arbitrary degree
+are realizable as Dehn functions of subgroups of right-angled Artin groups.
+Our examples are built in several stages.
+
+<p>
+
+<i>A basis for the space of order 5 chord diagrams</i>, Allison Stacey
+
+<p>
+
+In the field of Vassiliev Knot Invariants, chord diagrams play a key role
+in that they contain all the necessary information for the invariants.
+Modulo the four-term relations, they form a graded algebra graded by the
+number of chords.  The order of the bases for each grade is known and bases
+are not unique.  I will show a basis I found for the space and a rigorous
+proof that it is indeed a basis.  I discovered it through the connection to
+closed Jacobi diagrams which are trivalent graphs with a circle around the
+outside, so I will also be showing my proposed basis for order 5 closed
+Jacobi Diagrams.  I wrote up my calculations as art pieces so there will
+also be a lot of art shown in this talk.
+
+<p>
+
+<i>Heegard Splittings and Pseudo-Anosov Maps (Paper by Hossein Namazi and
+Juan Souto)</i>, Sunny Xiao
+
+<p>
+
+Let M and M' be two 3-dimensional handlebodies whose boundaries are
+identified with a surface $S$ of genus at least two. The handlebodies can
+be glued along their boundaries using a homeomorphism f of S, and a natural
+question that arises is when (if ever) does the 3-manifold obtained via
+this gluing procedure admit a hyperbolic structure. Using the theory of the
+deformation space of hyperbolic structures on 3-manifolds, Namazi and Souto
+answer this question by giving sufficient conditions on f. In this talk, I
+will present their construction and, time permitting, we will also learn
+about some of the topological consequences of their results that could not
+be obtained assuming the mere existence of such a negatively curved metric.
+
+<p>
+
+<i>Arithmetic progressions in the primitive length spectrum</i>, Nicholas
+Miller
+
+<p>
+
+There have been a host of prime geodesic theorems over the past several
+decades displaying a surprising analogy between the behavior of primitive,
+closed geodesics on hyperbolic manifolds and the behavior of the prime
+numbers in the integers.  For instance, just as the prime number theorem
+dictates the asymptotic growth of the number of primes less than n, there
+is an analogous asymptotic growth for primitive, closed geodesics of length
+less than n.  In this talk, I will give a brief review of the relevant
+definitions and go on to give the history of this analogy.  I will then
+discuss some recent work extending this relationship to give the geodesic
+analogue of the Green--Tao theorem on arithmetic progressions in the prime
+numbers.
+
+<p>
+
+
+
+
+
+<h2>Friday</h2>
+
+9:00 <i>Student Talks V</i>
+
+<p>
+
+<i>Hidden Symmetries and Commensurability of 2-bridge link complements</i>,
+William Worden
+
+<p>
+
+The canonical triangulations and symmetry groups of 2-bridge link
+complements are well understood and relatively easy to describe. We exploit
+this fact to show that non-arithmetic 2-bridge link complements have no
+hidden symmetries (i.e., symmetries of a finite cover that do not descend
+to symmetries of the link complement itself), and are pairwise
+incommensurable. I will discuss commensurability, hidden symmetries, and
+canonical (Delaunay) triangulations of cusped hyperbolic manifolds. With
+this background material in hand, I will then give a rough sketch of our
+proof that 2-bridge links have no hidden symmetries. This work is joint
+with Christian Millichap.
+
+<p>
+
+<i>A geometric construction of thin subgroups in SU(2,1)</i>, Joseph Wells
+
+<p>
+
+In a linear algebraic group, a lattice is a discrete subgroup
+with finite covolume; these objects have been studied quite extensively
+over the past century for their interesting algebraic and geometric
+properties. In recent years, in particular due to the work of Sarnak, there
+has been renewed interest in similar type of subgroup called a thin group,
+which is an infinite-index subgroup of a lattice having same
+Zariski-closure as the lattice. In this talk, I'll discuss recent work
+toward constructing thin subgroups of SU(2,1) by way of complex hyperbolic
+geometry.
+
+<p>
+
+<i>Homological Stability and Instability of Configuration Spaces of
+manifolds.</i>, Megan Maguire
+
+<p>
+
+In it's weakest form, we say that a family of topological spaces is
+homologically stable if for fixed i the ith homology groups of X_n and
+X_{n+1} are isomorphic for n sufficiently large. Notions of homological
+stability have been investigated for a wide range of topological families,
+including Hurwitz spaces, moduli of curves, and configuration spaces.
+Arnol'd first proved integral homological stability for the unordered
+configuration spaces of R^2. This was extended to open (connected,
+orientable, finite type) manifolds by McDuff and Segal (independently), and
+recently Church (via the method of representation stability), followed by
+Randal-Williams (via a method more akin to Segal), proved rational
+homological stability for all (connected, orientable, finite type)
+manifolds. Using the tools of Totaro, we compute the Betti numbers, both
+stable and unstable, of the unordered configuration spaces of some example
+spaces, such as a genus 1 Riemann surface and CP^3, and prove a vanishing
+theorem about the unstable homology a la Church, Farb, and Putman (joint
+with Melanie Wood).
+
+<p>
+
+
+10:30 <i>Tea</i>
+
+<p>
+
+10:45 <i>Student Talks VI</i>
+
+<p>
+
+<i>On links homotopic, but not isotopic to the unlink</i>, Bakul Sathaye
+
+<p>
+
+The Whitehead link is a well-known example of a 2-component link which is
+link homotopic, but not isotopic, to the unlink. However, there aren't any
+known examples of such links with more than 2 components. In this talk, we
+describe a family of such links with more than 2 components. Further, all
+their sublinks are isotopic to the unlink. The same methods also help us
+construct links, which further have all the Milnor invariants to be zero.
+At the end we briefly present an application of this result in constructing
+a family of new examples of 4-manifolds which have singular metric with
+non-positive curvature, but do not support a smooth Riemannian structure
+with non-positive sectional curvature.
+
+<p>
+
+<i>Electricfying Teichmuller Spaces</i>, Ashley Weber
+
+<p>
+
+Take a space X to be any geodesice metric space.  Farb defines a
+related space called the electric space, X_elt, which collapses certain
+subsets to a sphere of radius 1.  Electricfying a space can have some
+interesting consequences.  For example, the electric Teichmuller space is delta-hyperbolic
+and quasi-isometric to the curve complex; this fact was used (and proved)
+in the original proof by Massar and Minsky that the curve complex is
+delta-hyperbolic.  I will define the electric Teichmuller space and prove
+that this space is quasi-isometric to the curve complex.
+
+<p>
+
+
+<i>Cyclic Branched Covers of the Sphere and the Liftable Mapping Class
+Group</i>, Tyrone Ghaswala
+
+<p>
+
+Given a (possibly branched) covering space between surfaces, we can ask the
+following question: Which elements of the mapping class group of the base
+space have representatives that lift to homeomorphisms of the total space?
+These mapping classes form a subgroup called the liftable mapping class
+group.
+
+Birman and Hilden first considered this question in the case of the
+2-sheeted cover of the sphere by a surface. The covering they considered
+arises by taking the quotient of a closed surface by the action of a fixed
+hyperelliptic involution. In this case, they answered the question above
+with a resounding "everything lifts"!
+
+In this talk we will investigate the liftable mapping class group for other
+families of cyclic branched covers over the sphere.
+
+<p>
+
+
+12:05 <i>Reflections and Farewell</i>, Dan Margalit
+
+-->
+
+
+<!--#include file="foot.txt" -->

@@ -1,0 +1,110 @@
+<!--#include file="head.txt" -->
+
+<center><b><font face="Helvetica" color=333399 
+size=6>Photos</font></b>
+
+<p>
+
+<a href=photos3.shtml>Previous</a> &nbsp; &nbsp; <a href=photos1.shtml>1</a> &nbsp;&nbsp; <a href=photos2.shtml>2</a> &nbsp;&nbsp; <a href=photos3.shtml>3</a> &nbsp;&nbsp; <a href=photos4.shtml><font color=red>4</font></a> &nbsp;&nbsp; <a href=photos5.shtml>5</a> &nbsp;&nbsp; <a href=photos5.shtml>Next</a>
+
+<p>
+
+<a href=hi/officehours2.jpg><img src=lo/officehours2.jpg height="300"><a>
+
+<p>
+
+Office Hours
+
+<p><br><p>
+
+<a href=hi/officehours3.jpg><img src=lo/officehours3.jpg height="300"><a>
+
+<p>
+
+Office Hours
+
+<p><br><p>
+<a href=hi/other1.jpg><img src=lo/other1.jpg height="300"><a>
+
+<p>
+
+Miscellaneous
+
+<p><br><p>
+
+<a href=hi/other2.jpg><img src=lo/other2.jpg height="300"><a>
+
+<p>
+
+Miscellaneous
+
+<p><br><p>
+
+<a href=hi/other3.jpg><img src=lo/other3.jpg height="300"><a>
+
+<p>
+
+Miscellaneous
+
+<p><br><p>
+
+<a href=hi/other4.jpg><img src=lo/other4.jpg height="300"><a>
+
+<p>
+
+Miscellaneous
+
+<p><br><p>
+
+<a href=hi/other5.jpg><img src=lo/other5.jpg height="300"><a>
+
+<p>
+
+Miscellaneous
+
+<p><br><p>
+
+<a href=hi/other6.jpg><img src=lo/other6.jpg height="300"><a>
+
+<p>
+
+Miscellaneous
+
+<p><br><p>
+
+<a href=hi/other7.jpg><img src=lo/other7.jpg height="300"><a>
+
+<p>
+
+Miscellaneous
+
+<p><br><p>
+
+<a href=hi/talk1.jpg><img src=lo/talk1.jpg height="300"><a>
+
+<p>
+
+Student Talk
+
+<p><br><p>
+
+
+
+
+
+<p><br><p>
+<a href=photos3.shtml>Previous</a> &nbsp; &nbsp; <a href=photos1.shtml>1</a> &nbsp;&nbsp; <a href=photos2.shtml>2</a> &nbsp;&nbsp; <a href=photos3.shtml>3</a> &nbsp;&nbsp; <a href=photos4.shtml><font color=red>4</font></a> &nbsp;&nbsp; <a href=photos5.shtml>5</a> &nbsp;&nbsp; <a href=photos5.shtml>Next</a>
+
+
+
+</center>
+
+</td></tr></table></center>
+
+</td>
+</tr>
+
+</table>
+
+
+<!--#include file="foot.txt" -->

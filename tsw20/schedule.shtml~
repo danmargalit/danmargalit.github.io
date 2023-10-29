@@ -1,0 +1,309 @@
+<!--#include file="head.txt" -->
+
+
+
+<center><b><font face="Helvetica" color=333399 size=6>Schedule</font></b></center>
+
+<p>
+
+<h2>Sunday</h2>
+
+<p>4-6 Social event (Santana Afton, Dan Minahan, and Roberta Shapiro)
+
+<h2>Monday</h2>
+
+<p>10:30-11 Welcome
+<p>11-12:15 Talks (Katie Mann and Dan Margalit)
+<p>1-1:45 Lunch discussions
+<p>2-3:15 Workshopping talks (Panel)
+<p>Asynchronous talk workshops
+
+<h2>Tuesday</h2>
+
+<p>9-10 Slow Flow Vinyasa Yoga (Vita Lofria)
+<p>10:30-11 Tea time
+<p>11-12:15 The job process (Kelly Delp and Lisa Traynor)
+<p>1-1:45 Lunch discussions
+<p>2-3:15 CVs, Web pages, Research/teaching/diversity statements (John Etnyre and Jen Taback)
+<p>Asynchronous talk workshops
+
+<h2>Wednesday</h2>
+
+<p>10:30-11 Tea time
+<p>11-12:15 Habits of a mathematician (Priyam Patel and Becca Winarski)
+<p>1-2:15 The publishing process (Jen Hom and Jason Manning)
+<p>2:30-4 We belong here too: BIPoC experiences in the math community (Marissa Loving and Noelle Sawyer)
+<p>7:30 Board games
+
+<h2>Thursday</h2>
+
+<p>10:30-11 Tea time
+<p>11-12:15 Careers panel
+<p>12:15-1:00 Careers lunch discussion
+<p>1:15-2:40 Student talks I
+<p>3-4 Students talks II
+<p>4:30-5:30 Office hours (John Etnyre and Jen Taback, link on Slack)
+<p>7:30 Trivia
+
+<h2>Friday</h2>
+
+<p>10:30-11 Tea time
+<p>11-12:15 Etiquette (Caitlin Leverson and Marissa Loving)
+<p>1:15-2:40 Student talks III
+<p>3-3:45 Student talks IV
+<p>3:45-4 Closing discussion
+
+<hr>
+
+<h2>Talks N</h2>
+
+<p>
+
+
+An Analytic Approach to Teichmüller Space, Hannah Hoganson
+
+<p>
+
+The Teichmüller space of a surface parametrizes the conformal structures it supports, and we can define it as equivalence classes of quasiconformal maps.  We will realize the tangent space of the Teichmüller space as a space of Beltrami differentials and the cotangent space as a space of quadratic differentials.  This structure will allow us to put the L^p metrics on Teichmüller space, of which the Teichmüller and Weil-Petersson metrics are special cases.  We'll conclude by summarizing the work I have done studying the L^p metrics. 
+
+<p>
+
+Stable Subgroups of Genus Two Handlebody Groups, Marissa Miller
+
+<p>
+
+An important feature of Gromov hyperbolic spaces is that quasigeodesics are stable (or Morse), meaning that a quasigeodesic remains close to the geodesic with the same endpoints. Durham and Taylor generalize this notion of quasigeodesic stability to subgroups of finitely generated groups: a subgroup $H\leq G$ is stable if it is undistorted in $G$, and if quasigeodesics in $G$ with common endpoints in $H$ remain close to one another. By combining work of Durham-Taylor, Kent-Leininger, and Hamenst\"adt, one obtains a characterization of stable subgroups of mapping class groups in terms of their orbit maps to the curve complex. I will explore this characterization of stable subgroups in the context of the mapping class group, and will discuss recent results on an analogous characterization of stable subgroups of the handlebody group of genus two, i.e. the mapping class group of a handlebody.
+
+<p>
+
+Infinite staircases of symplectic embeddings of ellipsoids into 2-fold blowups of CP^2, Nicki Magill
+
+<p>
+
+McDuff and Schlenk determined when a four-dimensional symplectic ellipsoid can be symplectically embedded into a four-dimensional ball. When the ellipsoid is close to a ball, the answer is given by an infinite staircase determined by Fibonacci numbers. Many others have found these infinite staircases when symplectically embedding ellipsoids into various other symplectic, toric targets. I will focus on infinite staircases occurring in symplectic embeddings of ellipsoids into 2-fold blowups of CP^2. I will explain how we look for these infinite staircases and various phenomena that lead to them occurring.
+
+<p>
+
+<h2>Talks II</h2>
+
+<p>
+
+<i>Cubulated relatively hyperbolic groups</i>, Eduardo Oregon-Reyes
+
+<p>
+
+I will talk about a generalization of Agol's theorem on cubulated hyperbolic groups. This new result states that properly and cocompactly cubulated relatively hyperbolic groups are virtually special, provided the peripheral subgroups are virtually special in a way that is compatible with the cubulation. In particular, we deduce virtual specialness for properly and cocompactly cubulated groups that are hyperbolic relative to virtually abelian groups, extending Wise's results for limit groups and fundamental groups of cusped hyperbolic 3-manifolds.
+
+<p>
+
+Hannah Turner
+
+<p>
+
+Given an oriented link in the three-sphere and a fixed positive integer n, there is a unique 3-manifold called its branched cyclic cover of index n. I'll discuss how finding certain symmetries of links can be used to produce different descriptions of these manifolds. Using this technique we produce new examples of links, all of whose cyclic branched covers are Heegaard-Floer L-spaces.
+
+<p>
+
+
+<h2>Talks III</h2>
+
+<p>
+
+<i>Khovanov homology and link detection</i>, Gage Martin
+
+<p>
+
+Khovanov homology is a combinatorially defined link homology theory. Due to the combinatorial definition, many topological applications of Khovanov homology arise via connections to Floer theories. A specific topological application is the question of which links Khovanov homology detects. In this talk, we will give an overview of Khovanov homology and link detection, mention some of the connections to Floer theoretic data used in detection results, and sketch a proof that Khovanov homology detects the torus link T(2,6).
+
+<p>
+
+<i>Measuring complexity of curves on surfaces</i>, Macarena Covadonga Robles Arenas
+
+<p>
+
+It follows from a well-known theorem of Peter Scott that each immersed curve with minimal self-intersections on a surface S lifts as an embedded curve to some finite covering of S. In recent years, there have been some efforts to bound the minimum degree of these coverings. I will talk about some results obtained in this direction.
+
+<p>
+
+<i>Approximate Marked Length Spectrum Rigidity</i>, Karen Butt
+
+<p>
+
+For a compact negatively curved manifold M, every free homotopy class of curves has a unique geodesic representative. The function which assigns to each free homotopy class of curves the length of its geodesic representative is called the marked length spectrum of M. 
+Otal and Croke each proved that the marked length spectrum of a negatively curved surface determines the surface up to isometry. I will discuss a generalization of this result: if the marked length spectra of two negatively curved surfaces are approximately equal then the surfaces are approximately isometric.
+
+<p>
+
+<h2>Talks IV</h2>
+
+<p>
+
+<i>Finite Rigid Sets in the Arc Complex and Flip Graph</i>, Emily Shinkle
+
+<p>
+
+The arc complex and flip graph are simplicial complexes associated to a given surface, each encoding different combinatorial information about the surface. Interestingly, the mapping class group of a surface is isomorphic to the automorphism groups of both the corresponding arc complex (Irmak-McCarthy) and the corresponding flip graph (Korkmaz-Papadopoulos, Aramayona-Koberda-Parlier), for most homeomorphism classes of surfaces. I will discuss my recent work which strengthens these results by demonstrating the existence of “finite rigid sets” in these simplicial complexes. 
+
+<p>
+
+<i>Framings of Links in $3$-manifolds and Torsion in Skein Modules</i>, Rhea Palak Bakshi
+
+<p>
+
+We show that the only way of changing the framing of a link by ambient isotopy in an oriented $3$-manifold is when the manifold admits a properly embedded non-separating $S^2$. This change of framing is given by the Dirac trick, also known as the light bulb trick. The main tool we use is based on McCullough's work on the mapping class groups of $3$-manifolds. We also express our results in the language of skein modules. In particular, we relate our results to the presence of torsion in the framing skein module.
+
+ 
+
+
+<!--The conference will run from Monday at 10:30 to Friday at 4:00 EDT.
+
+We are planning workshops on the following topics:
+<ul>
+<li>Research talks
+<li>CVs / Web sites / Teaching Statements / Research Statements
+<li>Publishing
+</ul>
+<ul>
+<li>The job process
+<li>Careers
+<li>Good habits
+<li>Etiquette
+</ul>
+
+
+Some of the workshop participants will give 20 minute lectures (please apply to give a talk!).  The lectures will be workshopped in groups.  There will be feedback from mentors as well as other participants on the talks.
+
+<p>
+
+The rough schedule each day will be: morning session 11-12:15, discussion session 1-1:45, afternoon session 3-3:15, and asynchonous workshopping of talks in the late afternoon/evening.  Finer details to come.
+-->
+
+<!--We will also have a daily seminar, which will consist of an hour long talk by one of the mentors of the workshop.  Some of the workshop participants will give 20 minute lectures, for which there will be feedback from mentors as well as other participants.-->
+
+
+<!--
+
+
+<center>
+<table border=1 cellpadding=5>
+<tr>
+<td align=center><font face="Helvetica" color=cc9900><b>TSW</b></font></td>
+<td align=center>Monday<br>June 4</td>
+<td align=center>Tuesday<br>June 5</td>
+<td align=center>Wednesday<br>June 6</td>
+<td align=center>Thursday<br>June 7</td>
+<td align=center>Friday<br>June 8</td>
+</tr>
+
+<tr>
+<td align=center>Early</td>
+<td align=center>Bagels</td>
+<td align=center></td>
+<td align=center>Donuts</td>
+<td align=center>Meditation</td>
+<td align=center>Chair Yoga</td>
+</tr>
+
+<tr>
+<td align=center>9:00</td>
+<td align=center>Welcome / Conferences</td>
+<td align=center>Job process</td>
+<td align=center>Etiquette</td>
+<td align=center>Student talks I</td>
+<td align=center>Student talks IV</td>
+</tr>
+
+<tr>
+<td align=center>10:30</td>
+<td align=center>Tea</td>
+<td align=center>Tea</td>
+<td align=center>Tea</td>
+<td align=center>Tea</td>
+<td align=center>Waffles</td>
+</tr>
+
+
+<tr>
+<td align=center>10:45</td>
+<td align=center>Talks I</td>
+<td align=center>Habits</td>
+<td align=center>Careers</td>
+<td align=center>Student talks II</td>
+<td align=center>Student talks V</td>
+</tr>
+
+<tr>
+<td align=center>12:00</td>
+<td align=center>Lunch</td>
+<td align=center>Lunch</td>
+<td align=center>BBQ / NSA</td>
+<td align=center>Lunch</td>
+<td align=center>Farewell</td>
+</tr>
+
+<tr>
+<td align=center>2:00</td>
+<td align=center>Seminar</td>
+<td align=center>Seminar</td>
+<td align=center>Writing grants /<br> Research statements</td>
+<td align=center>Seminar</td>
+<td align=center></td>
+</tr>
+
+<tr>
+<td align=center>3:00</td>
+<td align=center>Tea</td>
+<td align=center>Tea</td>
+<td align=center>Tea / Photo</td>
+<td align=center>Tea</td>
+<td align=center></td>
+</tr>
+
+<tr>
+<td align=center>3:30</td>
+<td align=center>Workshopping</td>
+<td align=center>CV / Web / <br>Teaching statements</td>
+<td align=center>Colloquium</td>
+<td align=center>Talks II</td>
+<td align=center></td>
+</tr>
+
+<tr>
+<td align=center>4:30</td>
+<td align=center>Talk Workshops</td>
+<td align=center>Talk Workshops</td>
+<td align=center>Publishing</td>
+<td align=center>Student talks III</td>
+<td align=center></td>
+</tr>
+
+<tr>
+<td align=center>6:30</td>
+<td align=center></td>
+<td align=center></td>
+<td align=center>Pizzaque</td>
+<td align=center></td>
+<td align=center></td>
+</tr>
+
+</table>
+
+<p><i>All sessions will take place in Skiles 005.</i>
+
+-->
+
+<!--, except for the Colloquium,<br> which will be held in the Clary Theater in the Student Success Center.</i>-->
+
+</center>
+
+<p><p>
+
+
+
+<!--Click <a href=detail.shtml><font color=blue>here</font></a> for a more detailed schedule.-->
+
+
+
+
+<!--#include file="foot.txt" -->
+

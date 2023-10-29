@@ -1,0 +1,69 @@
+<!--#include file="head.txt" -->
+
+<center><b><font face="Helvetica" color=333399 size=6>About</font></b></center>
+
+<center>
+<img width=75% src=banner.png>
+</center>
+
+<p>
+
+Topology Students Workshop is a biennial conference at Georgia Insitute of Technology that started in 2012.  The first three were funded by a National Science Foundation Career Award and the fourth is funded by an independent grant from the National Science Foundation.
+
+<p>
+
+The workshop serves as both a research conference and a professional development workshop for graduate students in the fields of geometric group theory, geometry, and topology.  Each workshop has included approximately 50 participants and 10 mentors at various career stages.  The Topology Students Workshop is unique in its emphasis on community building, professional development, and communication skills. 
+
+<p>
+
+The main goals of the Topology Students Workshop are:
+<ul>
+<li> To provide training to graduate students on practical aspects of succeeding in academia.
+<li> To build research connections among junior researchers in fields related to topology.
+<li> To train graduate students to effectively communicate their research.
+<li> To demystify the processes behind job applications and publishing.
+<li> To prepare graduate students for their careers after graduate school.
+</ul>
+
+The Topology Students Workshop has furthered these goals by:
+<ul>
+<li> Holding sessions on various professional development topics such as...
+<ul>
+<li> etiquette in academia, 
+<li> creating and delivering research presentations, 
+<li> writing effective CVs, teaching and research statements, and web pages,
+<li> writing research statements,
+<li> habits of successful mathematicians,
+<li> self care,
+<li> navigating the job process in and out of academia, and 
+<li> the publishing process.
+</ul>
+<li> Creating a supportive community of like-minded mathematicians.
+<li> Connecting graduate students with mentors in academic, government, and industry jobs.
+<li> Giving graduate students an opportunity to share their research through formal presentations and informal discussions.
+<li> Providing students with constructive feedback about their presentations.
+</ul>
+
+
+<!--
+In addition to research talks by leading mathematicians in geometry and topology, we will have hands-on training and panel discussions on professional development topics such as:
+
+<ul>
+<li> Creating and delivering research presentations
+<li> The grant writing process
+<li> The publishing process
+<li> Navigating the hiring process
+<li> Writing teaching statements and research statements
+<li> Working with Sage, Beamer, and Inkscape
+<li> Creating a professional web page
+<li> Careers in and out of academia
+<li> Teaching effectively and efficiently
+<li> Applying for jobs
+</ul>
+Participants will also have the opportunity to give their own 20 minute lectures and have them critiqued in a constructive environment.  
+
+The workshop is geared towards graduate students in the areas of geometry and topology.  Some accepted students will receive some funding for travel and local accomodations.
+-->
+
+<!--#include file="foot.txt" -->
+

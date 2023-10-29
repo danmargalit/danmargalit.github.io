@@ -1,0 +1,111 @@
+
+<!--#include file="head.txt" -->
+
+<center><b><font face="Helvetica" color=333399 
+size=6>Photos</font></b>
+
+<p>
+
+<a href=photos1.shtml>Previous</a> &nbsp;&nbsp; <a href=photos1.shtml>1</a> &nbsp;&nbsp; <a href=photos2.shtml><font color=red>2</font></a> &nbsp;&nbsp; <a href=photos3.shtml>3</a> &nbsp;&nbsp; <a href=photos4.shtml>4</a> &nbsp;&nbsp; <a href=photos5.shtml>5</a> &nbsp;&nbsp; <a href=photos3.shtml>Next</a>
+
+<p>
+
+<a href=hi/tea7.jpg><img src=lo/tea7.jpg height="300"></a>
+
+<p>
+
+Tea
+
+<p><br><p>
+
+<a href=hi/tea8.jpg><img src=lo/tea8.jpg height="300"></a>
+
+<p>
+
+Tea
+
+<p><br><p>
+
+<a href=hi/tea9.jpg><img src=lo/tea9.jpg height="300"></a>
+
+<p>
+
+Tea
+
+<p><br><p>
+
+<a href=hi/tea10.jpg><img src=lo/tea10.jpg height="300"></a>
+
+<p>
+
+Tea
+
+<p><br><p>
+
+<a href=hi/tea11.jpg><img src=lo/tea11.jpg height="300"></a>
+
+<p>
+
+Tea
+
+<p><br><p>
+
+<a href=hi/tea12.jpg><img src=lo/tea12.jpg height="300"></a>
+
+<p>
+
+Tea
+
+<p><br><p>
+
+<a href=hi/tea13.jpg><img src=lo/tea13.jpg height="300"></a>
+
+<p>
+
+Tea
+
+<p><br><p>
+
+<a href=hi/tea14.jpg><img src=lo/tea14.jpg height="300"></a>
+
+<p>
+
+Tea
+
+<p><br><p>
+
+<a href=hi/tea15.jpg><img src=lo/tea15.jpg height="300"></a>
+
+<p>
+
+Tea
+
+<p><br><p>
+
+<a href=hi/tea16.jpg><img src=lo/tea16.jpg height="300"></a>
+
+<p>
+
+Tea
+
+<p><br><p>
+
+
+
+<p><br><p>
+<a href=photos1.shtml>Previous</a> &nbsp;&nbsp; <a href=photos1.shtml>1</a> &nbsp;&nbsp; <a href=photos2.shtml><font color=red>2</font></a> &nbsp;&nbsp; <a href=photos3.shtml>3</a> &nbsp;&nbsp; <a href=photos4.shtml>4</a> &nbsp;&nbsp; <a href=photos5.shtml>5</a> &nbsp;&nbsp; <a href=photos3.shtml>Next</a>
+
+
+
+</center>
+
+</td></tr></table></center>
+
+</td>
+</tr>
+
+</table>
+
+
+
+<!--#include file="foot.txt" -->

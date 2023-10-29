@@ -1,0 +1,112 @@
+
+<!--#include file="head.txt" -->
+
+<center><b><font face="Helvetica" color=333399 
+size=6>Photos</font></b>
+
+<p>
+
+<a href=photos1.shtml><font color=red>1</font></a> &nbsp;&nbsp; <a href=photos2.shtml>2</a> &nbsp;&nbsp; <a href=photos3.shtml>3</a> &nbsp;&nbsp; <a href=photos4.shtml>4</a> &nbsp;&nbsp; <a href=photos5.shtml>5</a> &nbsp;&nbsp; <a href=photos2.shtml>Next</a>
+
+<p>
+
+<a href=hi/tsw1.jpg><img src=lo/tsw1.jpg height="300"></a>
+
+<p>
+
+Conference Photo
+
+<p><br><p>
+
+<a href=hi/tsw2.jpg><img src=lo/tsw2.jpg height="300"></a>
+
+<p>
+
+Conference Photo
+
+<p><br><p>
+
+<a href=hi/wave1.jpg><img src=lo/wave1.jpg height="300"></a>
+
+<p>
+
+Conference Photo 2
+
+<p><br><p>
+
+<a href=hi/wave2.jpg><img src=lo/wave2.jpg height="300"></a>
+
+<p>
+
+Conference Photo 2
+
+<p><br><p>
+
+<a href=hi/tea1.jpg><img src=lo/tea1.jpg height="300"></a>
+
+<p>
+
+Tea
+
+<p><br><p>
+
+<a href=hi/tea2.jpg><img src=lo/tea2.jpg height="300"></a>
+
+<p>
+
+Tea
+
+<p><br><p>
+
+<a href=hi/tea3.jpg><img src=lo/tea3.jpg height="300"></a>
+
+<p>
+
+Tea
+
+<p><br><p>
+
+<a href=hi/tea4.jpg><img src=lo/tea4.jpg height="300"></a>
+
+<p>
+
+Tea
+
+<p><br><p>
+
+<a href=hi/tea5.jpg><img src=lo/tea5.jpg height="300"></a>
+
+<p>
+
+Tea
+
+<p><br><p>
+
+<a href=hi/tea6.jpg><img src=lo/tea6.jpg height="300"></a>
+
+<p>
+
+Tea
+
+<p><br><p>
+
+
+
+
+
+<p><br><p>
+<a href=photos1.shtml><font color=red>1</font></a> &nbsp;&nbsp; <a href=photos2.shtml>2</a> &nbsp;&nbsp; <a href=photos3.shtml>3</a> &nbsp;&nbsp; <a href=photos4.shtml>4</a> &nbsp;&nbsp; <a href=photos5.shtml>5</a> &nbsp;&nbsp; <a href=photos2.shtml>Next</a>
+
+
+
+</center>
+
+</td></tr></table></center>
+
+</td>
+</tr>
+
+</table>
+
+
+<!--#include file="foot.txt" -->
