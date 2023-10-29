@@ -1,0 +1,96 @@
+\documentclass[12pt]{amsart}
+
+\usepackage{latexsym,amsfonts,amssymb,epsfig,verbatim}
+\usepackage{amsmath, latexsym, graphics, textcomp}
+\usepackage{amsthm}
+\usepackage{pinlabel}
+
+\setlength{\parindent}{0in}
+\setlength{\parskip}{2ex}
+
+\usepackage[all,2cell,dvips]{xy}
+
+\newcommand{\nc}{\newcommand}
+\nc{\dmo}{\DeclareMathOperator}
+\nc{\nt}{\newtheorem}
+
+\nt{theorem}{Theorem}
+\nt{lemma}[theorem]{Lemma}
+\nt{prop}[theorem]{Proposition}
+\nt{question}[theorem]{Question}
+\nt{cor}[theorem]{Corollary}
+\nt{fact}[theorem]{Fact}
+\nt{problem}[theorem]{Problem}
+\nt{conjecture}[theorem]{Conjecture}
+
+\nc{\Z}{\mathbb{Z}}
+\nc{\R}{\mathbb{R}}
+\nc{\Q}{\mathbb{Q}}
+
+\nc{\margin}[1]{\marginpar{\tiny #1}}
+
+\nc{\p}[1]{\smallskip\noindent{{\bf #1}}}
+
+\include{diagram}
+
+\begin{document}
+
+%%%
+%%%
+%%%
+
+
+\title{Title}
+
+\author{Author}
+
+\address{Street, City, State, Country email}
+
+\thanks{The authors gratefully acknowledge support from...}
+
+\keywords{keywords}
+
+\subjclass[2000]{Primary: XXXXX; Secondary: XXXXX}
+
+
+
+\begin{abstract}
+Abstract
+\end{abstract}
+
+\maketitle
+
+\section{Section}
+
+We have the following \cite[Theorem 1]{euclid}.
+
+\begin{theorem}
+\label{theorem:main}
+If the hypotheses are satisfied, then the conclusion holds.
+\end{theorem}
+
+\begin{proof}
+
+Use Figure~\ref{figure:surface} and the following diagram:
+\[
+\xymatrix{
+A \ar[r]^f\ar[d] & B \ar[d] \\
+C \ar[r] & D 
+}
+\]
+%
+\end{proof}
+
+\begin{figure}[htb]
+\labellist \small\hair 2pt
+\pinlabel LABEL at 275 70
+\endlabellist
+\centerline{\includegraphics[scale=.65]{surface}}
+\caption{The labelled surface from the proof of Theorem~\ref{theorem:main}.}
+\label{figure:surface}
+\end{figure}
+
+\bibliographystyle{plain}
+\bibliography{template}
+
+\end{document}
