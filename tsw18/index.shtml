@@ -1,0 +1,43 @@
+
+<!--#include file="head.txt" -->
+
+
+<center><h1><font face="Helvetica" color=333399 size=7>Topology Students Workshop</font></h1><br>
+<img src=TSW.jpeg width=500>
+</center>
+
+<p>
+
+<center><a href=http://people.math.gatech.edu/~dmargalit7/tsw18/hi/IMG_4739.jpg><img src =http://people.math.gatech.edu/~dmargalit7/tsw18/lo/IMG_4739.jpg width=65%></a></center>
+
+<p>
+
+
+<font face=arial>
+
+<p><p><p>
+
+<font size=+2><font color=red><a href=apply.php><!--Apply now!--></a></font><p><p>June 4-8, 2018<br>
+Georgia Institute of Technology<br>
+Atlanta, GA</font>
+
+<p>
+
+<!--<a href= https://www.mathprograms.org/db/programs/669 target=apply><font color=red>Applications open!  Click here.</font></a>-->
+
+<!--Applications are now closed.  The organizers are awaiting final word on funding for the workshop, and will be in touch with applicants as soon as possible.-->
+
+<p><p><p>Organizers: Katie Mann, Caitlin Leverson, Dan Margalit, and Rebecca Winarski<br>
+Sponsors: National Science Foundation, Georgia Tech School of Mathematics
+</font>
+
+<p>
+
+<img height=75 src=nsf.png><font color=white>---------------</font><img height=75 src=../gt.jpg>
+
+<p>
+
+<div class="fb-like" data-href="http://tsw.gatech.edu" data-send="false" data-width="450" data-show-faces="false" data-action="recommend" data-font="arial"></div>
+
+
+<!--#include file="foot.txt" -->

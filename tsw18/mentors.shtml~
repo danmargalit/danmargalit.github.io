@@ -1,0 +1,42 @@
+<!--#include file="head.txt" -->
+
+
+<center><b><font face="Helvetica" color=333399 size=6>Mentors</font></b></center>
+
+<p>
+
+<center>
+<table>
+<tr><td>
+<ul>
+<li>Kelly Delp, Cornell
+<li>John Etnyre, Georgia Tech
+<li>Jen Hom, Georgia Tech
+<li>Sarah Koch, Michigan
+<li>Caitlin Leverson, Georgia Tech
+<li>Kathryn Mann, Brown
+<li>Jason Manning, Cornell
+<li>Dan Margalit, Georgia Tech
+<li>Lisa Traynor, Bryn Mawr
+<li>Rebecca Winarski, UW-Milwaukee
+</ul>
+
+<center><b><font face="Helvetica" color=333399 size=6>Careers Panel</font></b></center>
+
+<p>
+
+<center>
+<table>
+<tr><td>
+<ul>
+<li>Megan Bernstein, Georgia Tech
+<li>Alan Diaz
+<li>Vincent Lucarelli, NSA
+<li>Brian Mann, Amazon
+<li>Mark Schmitt, Paideia
+</ul>
+
+<!--To be announced!-->
+
+<!--#include file="foot.txt" -->
+

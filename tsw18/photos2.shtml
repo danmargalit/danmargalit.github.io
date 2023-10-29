@@ -1,0 +1,111 @@
+﻿
+<!--#include file="head.txt" -->
+
+<center><b><font face="Helvetica" color=333399 
+size=6>Photos</font></b>
+
+<p>
+
+<a href=photos1.shtml>Previous</a> &nbsp;&nbsp; <a href=photos1.shtml>1</a> &nbsp;&nbsp; <a href=photos2.shtml><font color=red>2</font></a> &nbsp;&nbsp; <a href=photos3.shtml>3</a> &nbsp;&nbsp; <a href=photos4.shtml>4</a> &nbsp;&nbsp; <a href=photos5.shtml>5</a> &nbsp;&nbsp; <a href=photos3.shtml>Next</a>
+
+<p>
+
+<a href=hi/IMG_4708.jpg><img src=lo/IMG_4708.jpg height="300"><a>
+
+<p>
+
+Mentor Ice Cream
+
+<p><br><p>
+
+<a href=hi/IMG_4712.jpg><img src=lo/IMG_4712.jpg height="300"><a>
+
+<p>
+
+Breakfast
+
+<p><br><p>
+
+<a href=hi/IMG_4713.jpg><img src=lo/IMG_4713.jpg height="300"><a>
+
+<p>
+
+Breakfast
+
+<p><br><p>
+
+<a href=hi/IMG_4714.jpg><img src=lo/IMG_4714.jpg height="300"><a>
+
+<p>
+
+Careers Panel
+
+<p><br><p>
+
+<a href=hi/IMG_4720.jpg><img src=lo/IMG_4720.jpg height="300"><a>
+
+<p>
+
+Careers Panel
+
+<p><br><p>
+
+<a href=hi/IMG_4722.jpg><img src=lo/IMG_4722.jpg height="300"><a>
+
+<p>
+
+Careers Panel
+
+<p><br><p>
+
+<a href=hi/IMG_4724.jpg><img src=lo/IMG_4724.jpg height="300"><a>
+
+<p>
+
+Careers Panel
+
+<p><br><p>
+
+<a href=hi/IMG_4728.jpg><img src=lo/IMG_4728.jpg height="300"><a>
+
+<p>
+
+Careers Panel Lunch
+
+<p><br><p>
+
+<a href=hi/IMG_4729.jpg><img src=lo/IMG_4729.jpg height="300"><a>
+
+<p>
+
+Careers Panel Lunch
+
+<p><br><p>
+
+<a href=hi/IMG_4730.jpg><img src=lo/IMG_4730.jpg height="300"><a>
+
+<p>
+
+Careers Panel Lunch
+
+<p><br><p>
+
+
+
+<p><br><p>
+<a href=photos1.shtml>Previous</a> &nbsp;&nbsp; <a href=photos1.shtml>1</a> &nbsp;&nbsp; <a href=photos2.shtml><font color=red>2</font></a> &nbsp;&nbsp; <a href=photos3.shtml>3</a> &nbsp;&nbsp; <a href=photos4.shtml>4</a> &nbsp;&nbsp; <a href=photos5.shtml>5</a> &nbsp;&nbsp; <a href=photos3.shtml>Next</a>
+
+
+
+</center>
+
+</td></tr></table></center>
+
+</td>
+</tr>
+
+</table>
+
+
+
+<!--#include file="foot.txt" -->
