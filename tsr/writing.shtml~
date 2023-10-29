@@ -1,0 +1,86 @@
+<!--#include file="head.txt" -->
+
+
+
+<center><b><font face="Helvetica" color=333399 size=6>Writing</font></b></center>
+
+<p>
+
+<b><font face="Helvetica" color=333399 size=4>General</font></b><p>
+
+<a href=http://modular.math.washington.edu/edu/basic/serre/><font color=black>Writing Mathematics</font></a>, J.P. Serre
+
+<p>
+
+<a href=http://www.di.ens.fr/~bouillar/Stages/Halmos-How-To-Write.pdf><font color=black>How to Write Mathematics</font></a>, Paul Halmos
+
+<p>
+
+<a href=http://terrytao.wordpress.com/advice-on-writing-papers/><font color=black>On Writing</font></a>, Terry Tao
+
+<p>
+
+<a href=http://math.stanford.edu/~vakil/greatwriting.html><font color=black>Ravi Vakil's list of Great Articles and Books</font></a>
+
+<p>
+
+<a href=http://www.impan.pl/EN/PubHouse/writing.pdf><font color=black>Writing Mathematical Papers - A Few Tips</font></a>, Jerzy Trzeciak
+
+<p>
+
+<a href=howtowriteapaper.pdf><font color=black>How to write a paper</font></a>, Arieh Iserles
+
+<p>
+
+<a href=http://www.wisdom.weizmann.ac.il/~oded/writing.html><font color=black>How to write a paper</font></a>, Oded Goldreich 
+
+<p>
+
+<a href=https://people.math.osu.edu/goss.3/hint.pdf><font color=black>Some hints on Mathematical Style</font></a>, David Goss 
+
+<p>
+
+<a href=http://web.mit.edu/jrickert/www/mathadvice.html><font color=black>Writing a research paper in Mathematics</font></a>, Ashley Reiter
+
+<p>
+
+<a href=http://www.math.uchicago.edu/~may/VIGRE/VIGRE2010/piiUJM2.pdf><font color=black>Writing a Math Phase Two Paper</font></a>, Steven L. Kleiman
+
+<p>
+
+<a href=http://www.dailymotion.com/video/xf88b5_jean-pierre-serre-writing-mathemati_tech><font color=black>Writing mathematics badly</font></a>, Jean-Pierre Serre
+
+<p>
+
+
+<b><font face="Helvetica" color=333399 size=4>Latex</font></b><p>
+
+<a href=http://www.tex.ac.uk/tex-archive/info/symbols/comprehensive/symbols-a4.pdf><font color=black>The Comprehensive LaTeX Symbol List</font></a>
+
+<p>
+
+Basic LaTeX setup: <a href=template.tex><font color=black>template.tex</font></a>, <a href=template.bib><font color=black>template.bib</font></a>, <a href=surface.eps><font color=black>surface.eps</font></a>, and <a href=pinlabel.sty><font color=black>pinlabel.sty</font></a> 
+
+<p>
+
+<a href=http://www.math.uiuc.edu/~nmd/software/labelpin><font color=black>Labelpin</font></a>, Nathan Dunfield
+
+<p>
+
+<a href=http://www.jonathanleroux.org/software/iguanatex/download.html><font color=black>IguanaTex</font></a>, Jonathan Leroux
+
+<p>
+
+<a href=http://tobi.oetiker.ch/lshort/lshort.pdf><font color=black>The Not So Short Introduction to LaTeX 2e</font></a>, Tobias Oetiker et. al.
+
+
+<p>
+
+<b><font face="Helvetica" color=333399 size=4>Software</font></b><p>
+
+<p>
+
+<a href=http://www.math.columbia.edu/~lipshitz/MathOnMac.html><font color=black>Reading and Writing Mathematics on the Macintosh</font></a>, Robert Lipshitz
+
+<!--#include file="foot.txt" -->
+

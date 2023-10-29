@@ -1,0 +1,88 @@
+<html>
+
+<head>
+<title>Mathematics Students Resource</title>
+
+    <meta property="og:title" content="Mathematics Students Resource"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="http://tsr.gatech.edu/"/>
+    <meta property="og:image" content="http://www.math.gatech.edu/~margalit/tsr\
+/TSR.jpg"/>
+    <meta property="og:site_name" content="GaTech Math"/>
+    <meta property="fb:admins" content="Dan.Margalit"/>
+    <meta property="og:description"
+          content="A professional development resource for beginning researchers in geometry and topology."/>
+
+<title>Mathematics Students Resource</title>
+
+<style href>a {text-decoration: none} </style>
+
+</head>
+<body link=cc9900 vlink=cc9900>
+
+
+
+<table cellpadding=35>
+
+<tr>
+
+<td valign=top width=10%>
+<center><font face="Helvetica" color=cc9900 size=5><b><a href=index.shtml>Mathematics Students Resource</a></b></font><br>
+</center>
+
+<p>
+
+<center>
+<font face=“Helvetica” color=cc9900 size=3>
+
+<a href=general.shtml>General</a>
+
+<p>
+
+<a href=jobs.shtml>Jobs</a>
+
+<p>
+
+<a href=networking.shtml>Networking</a>
+
+<p>
+
+<a href=talks.shtml>Talks</a>
+
+<p>
+
+<a href=writing.shtml>Writing</a>
+
+<p>
+
+<a href=publishing.shtml>Publishing</a>
+
+<p>
+
+<a href=grants.shtml>Grants</a>
+
+<p>
+
+<!--<a href=teaching.shtml>Teaching</a>
+
+<p>-->
+
+<a href=math.shtml>Mathematics</a>
+
+<p>
+
+<a href=suggestions.php>Suggestions</a>
+
+<p>
+
+<!--<a href=materials.shtml>Materials</a>
+
+<p>-->
+
+<a href=links.shtml>Links</a>
+
+</font></center>
+
+</td>
+
+<td valign=top>
